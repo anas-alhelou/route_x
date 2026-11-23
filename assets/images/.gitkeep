@@ -1,0 +1,13 @@
+# ======================================================
+# Package: assets/images/png
+# Description: Raster image assets (PNG format) used for UI visual elements.
+# ======================================================
+
+# 1. driver_img.png
+# Purpose: Driver profile placeholder or avatar image.
+
+# 2. envelope_img.png
+# Purpose: Success or standard message/mail envelope illustration.
+
+# 3. error_envelope_img.png
+# Purpose: Failed transmission or error state envelope illustration.

@@ -1,0 +1,2696 @@
+{
+  "@@locale": "ar",
+  "letsGet": "هيا بنا",
+  "started": "نبدأ!",
+  "createYourAccount": "أنشئ حسابك لتبدأ \n التوصيل بذكاء.",
+  "fullName": "الاسم الكامل",
+  "firstName": "الاسم الأول",
+  "lastName": "اسم العائلة",
+  "email": "البريد الإلكتروني",
+  "phoneNumber": "رقم الهاتف",
+  "next": "التالي",
+  "continueLabel": "متابعة",
+  "signupStepYourDetails": "بياناتك",
+  "signupStepYourVehicle": "مركبتك",
+  "signupStepPassword": "كلمة المرور",
+  "alreadyHaveAccount": "لديك حساب بالفعل؟ ",
+  "login": "تسجيل الدخول",
+  "rememberMe": "تذكرني",
+  "enterPassword": "أدخل كلمة المرور",
+  "enterYourFullName": "أدخل اسمك الكامل",
+  "enterYourFirstName": "أدخل اسمك الأول",
+  "enterYourLastName": "أدخل اسم العائلة",
+  "enterYourEmail": "أدخل بريدك الإلكتروني",
+  "somethingWentWrong": "حدث خطأ ما.",
+  "driverLoginScreenTodo": "شاشة تسجيل دخول السائق — قيد الإنجاز",
+  "welcomeBack": "مرحباً",
+  "welcomeBackHighlight": "بعودتك!",
+  "loginSubtitle": "سجّل الدخول إلى حسابك\nلتبدأ التوصيل بذكاء.",
+  "forgotPassword": "هل نسيت كلمة المرور؟",
+  "dontHaveAccount": "ليس لديك حساب؟ ",
+  "signUp": "إنشاء حساب",
+  "errPasswordRequired": "كلمة المرور مطلوبة",
+  "errPasswordMismatch": "كلمتا المرور غير متطابقتين",
+  "errPasswordMinLength": "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل",
+  "errPasswordUppercase": "يجب أن تحتوي على حرف كبير واحد على الأقل",
+  "errPasswordLowercase": "يجب أن تحتوي على حرف صغير واحد على الأقل",
+  "errPasswordNumber": "يجب أن تحتوي على رقم واحد على الأقل",
+  "errPasswordSymbol": "يجب أن تحتوي على رمز خاص واحد على الأقل",
+  "errOtpRequired": "رمز التحقق مطلوب",
+  "errOtpInvalid": "أدخل رمزاً صحيحاً مكوناً من 6 أرقام",
+  "errVehicleRequired": "نوع المركبة ورقمها مطلوبان للسائقين",
+  "errResetTokenRequired": "رمز إعادة التعيين مطلوب",
+  "errRefreshTokenRequired": "رمز التحديث مطلوب",
+  "errOrderAddressRequired": "عنوانا التقاط وتسليم مطلوبان",
+  "errPickupLocationRequired": "موقع الالتقاط مطلوب",
+  "errDropoffLocationRequired": "موقع التسليم مطلوب",
+  "errLoggedOut": "يرجى تسجيل الدخول للمتابعة",
+  "errUnexpectedResponse": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+  "errIncompleteResponse": "لم نتمكن من إكمال طلبك. يرجى المحاولة مرة أخرى.",
+  "errNoInternetConnection": "لا يوجد اتصال بالإنترنت. يرجى التحقق من الشبكة والمحاولة مرة أخرى.",
+  "errGoogleNotConfigured": "تسجيل الدخول عبر Google غير متاح في هذه النسخة بعد. يرجى المحاولة مرة أخرى لاحقًا.",
+  "errGoogleSignInFailed": "لم نتمكن من تسجيل دخولك عبر Google. يرجى المحاولة مرة أخرى.",
+  "errGoogleAuthFailed": "لم نتمكن من إكمال تسجيل الدخول عبر Google. يرجى المحاولة مرة أخرى.",
+  "errRequestTimeout": "استغرق الطلب وقتًا أطول من المتوقع. يرجى المحاولة مرة أخرى.",
+  "or": "أو",
+  "continueWithGoogle": "المتابعة عبر Google",
+  "driverRegistrationScreenTodo": "شاشة تسجيل السائق — قيد الإنجاز",
+  "setNewPasswordScreenTodo": "شاشة تعيين كلمة مرور جديدة — قيد الإنجاز",
+  "verifyCodeScreenTodo": "شاشة التحقق من الرمز — قيد الإنجاز",
+  "onboardingHeadline1": "وصل ",
+  "onboardingHeadline2": "أكثر.",
+  "onboardingHeadline3": "\nوقُد ",
+  "onboardingHeadline4": "أقل.",
+  "onboardingSubheadline": "مسارات أذكى، مسافات أقل.\nنتائج أفضل لعملك.",
+  "getStarted": "ابدأ الآن",
+  "onboarding2Headline1": "كل ",
+  "onboarding2Headline2": "توقف،",
+  "onboarding2Headline3": "\nبال",
+  "onboarding2Headline4": "ترتيب الصحيح.",
+  "onboarding2Subheadline": "تُجمع الطلبات في مسار واحد مرتب.\nفعّل حالة الاتصال وستصلك مباشرة.",
+  "slideToGetStarted": "اسحب للبدء",
+  "appNavigationScreenTodo": "شاشة ملاحة التطبيق — قيد الإنجاز",
+  "homeNavHubTitle": "متنقل شاشات الهوم",
+  "homeNavHubSubtitle": "استعراض وتجربة جميع سيناريوهات وشاشات الهوم",
+  "homeNavHubSearchHint": "ابحث عن شاشة أو سيناريو (مثلاً HM1 أو N01)...",
+  "homeNavCategoryAll": "الكل",
+  "homeNavCategoryScenarios": "سيناريوهات التوصيل",
+  "homeNavCategoryNotifications": "الإشعارات",
+  "homeNavCategoryFleet": "الأسطول والربط",
+  "homeNavCategoryShell": "الهيكل الرئيسي",
+  "homeNavScenarioHm1Title": "HM1 · جاهز للبدء",
+  "homeNavScenarioHm1Desc": "الطلبات جاهزة لبدء مسار التوصيل",
+  "homeNavScenarioHm2Title": "HM2 · على المسار",
+  "homeNavScenarioHm2Desc": "ملاحة نشطة مع بطاقة المحطة التالية والوقت المقدر",
+  "homeNavScenarioHm3Title": "HM3 · اكتملت التوصيلات",
+  "homeNavScenarioHm3Desc": "تم تسليم جميع الطلبات بانتظار دفعة جديدة",
+  "homeNavScenarioHm4Title": "HM4 · غير متصل بالإنترنت",
+  "homeNavScenarioHm4Desc": "تنبيه انقطاع الاتصال بالإنترنت والحالة غير المتصلة",
+  "homeNavScenarioHm5Title": "HM5 · أول يوم عمل",
+  "homeNavScenarioHm5Desc": "سائق جديد بانتظار أول طلبات للتوصيل",
+  "homeNavScenarioHm6Title": "HM6 · لا توجد طلبات اليوم",
+  "homeNavScenarioHm6Desc": "لم يتم تعيين أي طلبات للسائق اليوم",
+  "homeNavScenarioHm8Title": "HM8 · طلب وارد (اليوم الأول)",
+  "homeNavScenarioHm8Desc": "بانر تنبيه بطلب جديد فوق شاشة أول يوم",
+  "homeNavScenarioHm9Title": "HM9 · طلب وارد (أثناء المسار)",
+  "homeNavScenarioHm9Desc": "بانر تنبيه بطلب جديد أثناء الملاحة في المسار",
+  "homeNavScenarioHm0Title": "HM0 · هيكل التحميل",
+  "homeNavScenarioHm0Desc": "هيكل التحميل المبدئي للوحة التحكم",
+  "homeNavScreenN01Title": "N01 · قائمة الإشعارات",
+  "homeNavScreenN01Desc": "قائمة الإشعارات الجديدة والسابقة وحالات القراءة",
+  "homeNavScreenN02Title": "N02 · الإشعارات الفارغة",
+  "homeNavScreenN02Desc": "صندوق الإشعارات فارغ مع جرس ثلاثي الأبعاد",
+  "homeNavScreenFindFleetTitle": "البحث عن أسطول",
+  "homeNavScreenFindFleetDesc": "البحث عن أساطيل مع خيارات التصفية وموقع السائق",
+  "homeNavScreenEnterCodeTitle": "إدخال رمز الأسطول",
+  "homeNavScreenEnterCodeDesc": "إدخال كود الأسطول المكون من 6 خانات والتحقق منه",
+  "homeNavScreenHomeFirstRunTitle": "شاشة السائق (بدون أسطول)",
+  "homeNavScreenHomeFirstRunDesc": "بطاقة البدء، الأساطيل القريبة، وملخص اليوم",
+  "homeNavScreenMainShellTitle": "الهيكل الرئيسي للتطبيق",
+  "homeNavScreenMainShellDesc": "شريط التنقل العائم بأربعة تبويبات",
+  "homeNavLaunchButton": "فتح الشاشة",
+  "homeNavScreensCount": "{count} شاشات وسيناريوهات",
+  "@homeNavScreensCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "step2ComingSoon": "الخطوة الثانية — قريباً",
+  "selectCountryCode": "اختر رمز الدولة",
+  "searchCountry": "ابحث عن الدولة...",
+  "noResultsFound": "لا توجد نتائج",
+  "countryPalestine": "فلسطين",
+  "countrySaudiArabia": "السعودية",
+  "countryEgypt": "مصر",
+  "countryUAE": "الإمارات العربية المتحدة",
+  "countryJordan": "الأردن",
+  "countryQatar": "قطر",
+  "countryKuwait": "الكويت",
+  "countryOman": "عمان",
+  "countryBahrain": "البحرين",
+  "errNameRequired": "الاسم الكامل مطلوب",
+  "errNameMinLength": "يجب أن يتكون الاسم من 3 أحرف على الأقل",
+  "errFirstNameRequired": "الاسم الأول مطلوب",
+  "errFirstNameMinLength": "يجب أن يتكون الاسم الأول من 3 أحرف على الأقل",
+  "errLastNameRequired": "اسم العائلة مطلوب",
+  "errLastNameMinLength": "يجب أن يتكون اسم العائلة من 3 أحرف على الأقل",
+  "errEmailRequired": "البريد الإلكتروني مطلوب",
+  "errEmailInvalid": "أدخل عنوان بريد إلكتروني صالح",
+  "errPhoneRequired": "رقم الهاتف مطلوب",
+  "errPhoneInvalid": "أدخل رقم هاتف صالح",
+  "tellUsAboutYour": "أخبرنا عن ",
+  "vehicle": "مركبتك",
+  "vehicleSubtitle": "تساعدنا هذه المعلومات في تخصيص عمليات التوصيل المناسبة لك.",
+  "vehicleMotorcycle": "دراجة نارية",
+  "vehicleCar": "سيارة",
+  "vehicleVan": "فان",
+  "vehicleTruck": "شاحنة",
+  "vehicleNumber": "رقم المركبة",
+  "vehicleNumberHint": "أدخل رقم المركبة",
+  "createA": "قم بإنشاء ",
+  "securePassword": "كلمة مرور آمنة.",
+  "password": "كلمة مرور",
+  "passwordSubtitle": "يجب أن تستوفي كلمة المرور المتطلبات التالية لضمان الأمان.",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "passwordRequirements": "متطلبات كلمة المرور",
+  "reqMinLength": "8 أحرف على الأقل",
+  "reqCapitalLetter": "حرف كبير واحد على الأقل",
+  "reqNumber": "رقم واحد على الأقل",
+  "reqSymbol": "رمز خاص واحد على الأقل",
+  "createAccount": "إنشاء حساب",
+  "byCreatingAccount": "بإنشاء حساب، فإنك توافق على ",
+  "termsOfService": "شروط الخدمة",
+  "and": " و ",
+  "privacyPolicy": "سياسة الخصوصية",
+  "verifyYourEmailTitle": "تحقق من ",
+  "verifyYourEmailTitleHighlight": "بريدك الإلكتروني.",
+  "otpSentToEmailMessage": "يرجى التحقق من صندوق الوارد الخاص بك. أرسلنا رمزاً مكوناً من 6 أرقام إلى ",
+  "didntReceiveCode": "لم تستلم الرمز؟ ",
+  "resendCode": "إعادة الإرسال",
+  "useDifferentEmail": "استخدم بريداً إلكترونياً مختلفاً",
+  "brandRoute": "Route",
+  "navHomeLabel": "الرئيسية",
+  "navRouteLabel": "المسار",
+  "brandX": "X",
+  "emailOrPassword": "البريد الإلكتروني أو رقم الهاتف",
+  "youAreAllSet": "أنت جاهز تماماً!",
+  "accountCreatedSuccess": "تم إنشاء حسابك بنجاح. أهلاً بك في روت إكس!",
+  "continueToHome": "متابعة",
+  "reviewYourDetailsTitle": "راجع",
+  "reviewYourDetailsHighlight": "بياناتك!",
+  "reviewDetailsSubtext": "تأكد من أن كل شيء يبدو صحيحًا قبل المتابعة.",
+  "editLabel": "تعديل",
+  "vehicleTypeLabel": "نوع المركبة",
+  "vehicleNumberLabel": "رقم المركبة",
+  "verifyEmailButton": "تحقق من البريد الإلكتروني",
+  "detailsReadyCaptionLine": "Your details are ready.\nVerify your email to activate your account.",
+  "verifyEmail": "التحقق من البريد الإلكتروني",
+  "reviewYour": "راجع",
+  "detailsExclamation": "التفاصيل!",
+  "makeSureEverythingLooksGood": "تأكد من صحة جميع البيانات قبل المتابعة.",
+  "reviewDetailsButton": "مراجعة التفاصيل",
+  "otpCodeMismatchTitle": "الرمز الذي أدخلته غير صحيح.",
+  "otpCodeMismatchSubtitle": "يرجى التحقق من الرمز والمحاولة مرة أخرى.",
+  "forgetPasswordTitle": "نسيت",
+  "forgetPasswordTitleHighlight": "كلمة المرور؟",
+  "forgetPasswordSubtitle": "أدخل بريدك الإلكتروني وسنرسل لك\nرمز تحقق.",
+  "sendResetLink": "إرسال رمز التحقق",
+  "rememberYourPassword": "تتذكر كلمة المرور؟ ",
+  "emailAddressLabel": "البريد الإلكتروني",
+  "enterYourEmailAddress": "أدخل بريدك الإلكتروني",
+  "checkYourEmail": "تحقق من",
+  "checkYourEmailHighlight": "بريدك الإلكتروني.",
+  "forgotOtpSentMessage": "أرسلنا رمزاً مكوناً من 6 أرقام إلى بريدك الإلكتروني",
+  "setNewPasswordTitle": "تعيين كلمة مرور",
+  "setNewPasswordTitleHighlight": "جديدة.",
+  "setNewPasswordSubtitle": "اختر كلمة مرور قوية للحفاظ على أمان حسابك.",
+  "newPassword": "كلمة المرور الجديدة",
+  "enterPasswordHint": "أدخل كلمة المرور",
+  "resetPasswordButton": "إعادة تعيين كلمة المرور",
+  "passwordResetSuccess": "تمت إعادة تعيين كلمة المرور بنجاح.",
+  "verificationCodeSentMessage": "لقد أرسلنا رمز تحقق مكون من 6 أرقام إلى بريدك الإلكتروني لتفعيل حسابك.",
+  "youreReadyTitleStart": "أنت جاهز",
+  "youreReadyTitleEnd": " للانطلاق!",
+  "youreAllSetSubtitle": "حسابك جاهز. استكشف التطبيق وابدأ القيادة.",
+  "startDrivingLabel": "انضم إلى شركتك!",
+  "routeErrorTitle": "خطأ",
+  "routeNotFound": "الصفحة غير موجودة أو المعاملات غير صحيحة",
+  "editProfile": "تعديل الملف الشخصي",
+  "editVehicle": "تعديل المركبة",
+  "save": "حفظ",
+  "cancel": "إلغاء",
+  "errVehicleNumberRequired": "رقم المركبة مطلوب",
+  "selectPhotoSource": "اختر مصدر الصورة",
+  "camera": "الكاميرا",
+  "gallery": "المعرض",
+  "addPhoto": "إضافة صورة",
+  "changePhoto": "تغيير الصورة",
+  "otpVerifiedSuccessfully": "تم التحقق من الرمز بنجاح!",
+  "otpCodeResentSuccessfully": "تم إرسال رمز جديد إلى بريدك الإلكتروني.",
+  "emailOrPasswordTitle": "الهاتف او رقم الجوال",
+  "googleVehicleTitle": "أكمل بيانات مركبتك",
+  "googleVehicleSubtitle": "نحتاج إلى بيانات مركبتك لإكمال إعداد حسابك.",
+  "errorAlertTitle": "حدث خطأ ما",
+  "successTitle": "تم بنجاح",
+  "tryAgain": "حاول مرة أخرى",
+  "requestTimeoutTitle": "انتهت مهلة الطلب",
+  "noConnectionTitle": "لا يوجد اتصال",
+  "discardChangesTitle": "هل تريد تجاهل التعديلات؟",
+  "discardChangesMessage": "إذا غادرت الآن، فستفقد تعديلاتك.",
+  "discard": "تجاهل",
+  "logOutTitle": "تسجيل الخروج؟",
+  "logOutMessage": "ستحتاج إلى تسجيل الدخول مرة أخرى لمتابعة استخدام RouteX.",
+  "logOut": "تسجيل الخروج",
+  "confirmYourEmailTitle": "تأكيد بريدك الإلكتروني",
+  "confirmYourEmailMessage": "يرجى التأكد من صحة هذا البريد الإلكتروني. سنرسل رمز التحقق إلى:",
+  "sendCode": "إرسال الرمز",
+  "profileUpdatedTitle": "تم تحديث الملف الشخصي",
+  "profileUpdatedMessage": "تم حفظ معلوماتك بنجاح.",
+  "done": "تم",
+  "sessionExpiredTitle": "انتهت الجلسة",
+  "sessionExpiredMessage": "لأمانك، يرجى تسجيل الدخول مرة أخرى.",
+  "signIn": "تسجيل الدخول",
+  "enableLocationTitle": "تفعيل الموقع",
+  "enableLocationMessage": "يحتاج RouteX إلى موقعك لعرض الرحلات والتنقل.",
+  "allowAccess": "السماح بالوصول",
+  "homeGreeting": "أهلاً،",
+  "homeTodayOverview": "نظرة عامة على اليوم",
+  "homeOverviewStartsFirstShift": "ابدأ بأول وردية لك",
+  "homeDeliveries": "التوصيلات",
+  "homeDeliveriesOf": "من {target}",
+  "@homeDeliveriesOf": {
+    "placeholders": {
+      "target": {
+        "type": "int"
+      }
+    }
+  },
+  "homeDistance": "المسافة",
+  "homeDistanceUnit": "كم",
+  "homeTime": "الوقت",
+  "homeOnShift": "في الوردية",
+  "homeShiftHoursMinutes": "{hours} س {minutes} د",
+  "@homeShiftHoursMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "homeGetStarted": "لنبدأ",
+  "homeJoinFleetToStart": "انضم إلى أسطول لتبدأ",
+  "homeReadyStatusDoneOf": "حالة الجاهزية · تم إنجاز {done} من {total}",
+  "@homeReadyStatusDoneOf": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "homeStepAccount": "الحساب",
+  "homeStepPhone": "الهاتف",
+  "homeStepFleet": "الأسطول",
+  "homeStepDone": "تم",
+  "homeStepToDo": "قيد الانتظار",
+  "homeQuickActions": "إجراءات سريعة",
+  "homeFindAFleet": "ابحث عن أسطول",
+  "homeEnterFleetCode": "أدخل كود الأسطول",
+  "homeFleetsNearYou": "أساطيل قريبة منك",
+  "homeSeeAll": "عرض الكل",
+  "homeJoin": "انضمام",
+  "homeZoneAndDistance": "{zone} · {distance} كم",
+  "@homeZoneAndDistance": {
+    "placeholders": {
+      "zone": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "errJoinFleetBeforeGoingOnline": "انضم إلى أسطول قبل بدء العمل.",
+  "errFleetNotFound": "هذا الأسطول لم يعد متاحاً.",
+  "errInvalidOrExpiredCode": "هذا الرمز غير صالح أو منتهي الصلاحية.",
+  "errSessionExpired": "انتهت الجلسة. يرجى تسجيل الدخول مجدداً.",
+  "retry": "حاول مرة أخرى",
+  "homeGoOnlineSwitch": "بدء العمل",
+  "findFleetTitle": "ابحث عن أسطول",
+  "findFleetSubtitle": "ابحث بالاسم أو تصفح الأساطيل القريبة منك. انضم إلى أحدها لبدء استقبال المسارات.",
+  "findFleetSearchHint": "ابحث باسم الأسطول أو المنطقة",
+  "findFleetFilterNearby": "قريب",
+  "findFleetFilterActive": "متاح للانضمام",
+  "findFleetFilterAll": "كل الأساطيل",
+  "findFleetFilterPaused": "متوقف",
+  "findFleetSectionLabel": "أساطيل قريبة منك",
+  "findFleetResultsCount": "{count} نتائج",
+  "@findFleetResultsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "findFleetInviteTitle": "هل لديك دعوة من مدير الأسطول؟",
+  "findFleetInviteButton": "أدخل كود الأسطول",
+  "errFleetCodeInvalid": "هذا الرمز غير صالح أو انتهت صلاحيته",
+  "findFleetCity": "جدة",
+  "findFleetDriversCount": "{count} سائقين",
+  "@findFleetDriversCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "findFleetActiveStatus": "نشط",
+  "findFleetPausedStatus": "متوقف مؤقتاً",
+  "enterFleetCodeTitleStart": "أدخل رمز ",
+  "enterFleetCodeTitleEnd": "الأسطول الخاص بك",
+  "enterFleetCodeSubtitle": "أدخل الرمز المكون من 6 خانات الذي أرسله لك مدير الأسطول عبر الرسائل القصيرة أو البريد الإلكتروني.",
+  "enterFleetCodeCaption": "أحرف وأرقام، غير حساسة لحالة الأحرف",
+  "enterFleetCodePaste": "لصق",
+  "enterFleetCodeWhereFindTitle": "أين أجد الرمز الخاص بي؟",
+  "enterFleetCodeWhereFindBody": "يقوم مدير الأسطول بإنشائه في لوحة التحكم. اطلب منه إرسال رمز جديد. تنتهي صلاحية الرموز بعد 10 أيام.",
+  "enterFleetCodeJoinButton": "الانضمام إلى الأسطول",
+  "enterFleetCodeLostCode": "فقدت الرمز؟ ",
+  "enterFleetCodeFindFleetInstead": "ابحث عن أسطول بدلاً من ذلك",
+  "enterFleetCodeHelp": "مساعدة",
+  "enterFleetCodeTryAgain": "إعادة المحاولة",
+  "enterFleetCodeAskManager": "اطلب رمزاً جديداً من المدير",
+  "enterFleetCodeStillStuck": "ما زلت تواجه مشكلة؟ ",
+  "goOnlineSheetNoFleetTitle": "انضم إلى أسطول لبدء العمل",
+  "goOnlineSheetNoFleetBody": "بدء العمل يتيح لك استقبال المسارات من الأسطول. أنت على بعد خطوة واحدة.",
+  "goOnlineSheetProgressAccount": "الحساب",
+  "goOnlineSheetProgressPhone": "الهاتف",
+  "goOnlineSheetProgressFleet": "الأسطول",
+  "goOnlineSheetProgressDone": "تم",
+  "goOnlineSheetProgressNext": "التالي",
+  "goOnlineSheetFindFleet": "ابحث عن أسطول",
+  "goOnlineSheetEnterCode": "أدخل كود الأسطول",
+  "goOnlineSheetNotNow": "ليس الآن",
+  "goOnlineSheetPendingTitle": "في انتظار {fleetName}",
+  "@goOnlineSheetPendingTitle": {
+    "placeholders": {
+      "fleetName": {
+        "type": "String"
+      }
+    }
+  },
+  "goOnlineSheetPendingBody": "يمكنك بدء العمل فور موافقة المسؤول على طلبك. سنقوم بإشعارك.",
+  "goOnlineSheetRequestedToday": "تم الطلب اليوم، {time}",
+  "@goOnlineSheetRequestedToday": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "goOnlineSheetInReview": "قيد المراجعة",
+  "goOnlineSheetViewRequest": "عرض الطلب",
+  "goOnlineSheetGotIt": "فهمت ذلك",
+  "goOnlineSheetDeclinedTitle": "رفض {fleetName} طلبك",
+  "@goOnlineSheetDeclinedTitle": {
+    "placeholders": {
+      "fleetName": {
+        "type": "String"
+      }
+    }
+  },
+  "goOnlineSheetDeclinedBody": "اختر أسطولاً آخر، أو قم بتحديث ما تمت الإشارة إليه وحاول مرة أخرى.",
+  "goOnlineSheetReasonTitle": "السبب من المسؤول",
+  "goOnlineSheetFindAnotherFleet": "ابحث عن أسطول آخر",
+  "goOnlineSheetUpdateVehicle": "تحديث بيانات المركبة",
+  "defaultDeclinedReason": "نوع المركبة غير مدعوم. يقبل هذا الأسطول الدراجات والسيارات فقط.",
+  "notificationsTitle": "الإشعارات",
+  "notificationsEmptyTitle": "لا توجد إشعارات بعد",
+  "notificationsEmptySubtitle": "ستظهر هنا تحديثات المسارات، والردود من الأساطيل، والرسائل من قسم التوزيع.",
+  "notificationsSettingsButton": "إعدادات الإشعارات",
+  "homeSetupDoneOf": "الإعداد · تم {done} من {total}",
+  "@homeSetupDoneOf": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "homeStepPending": "قيد المراجعة",
+  "settingsTitle": "الإعدادات",
+  "settingsVehicle": "المركبة",
+  "settingsPlate": "اللوحة",
+  "settingsFleets": "الأساطيل",
+  "settingsQuickSettings": "إعدادات سريعة",
+  "settingsNavigation": "الملاحة",
+  "settingsGoogleMaps": "خرائط جوجل",
+  "settingsNotifications": "الإشعارات",
+  "settingsEnabled": "مفعّلة",
+  "settingsDisabled": "معطّلة",
+  "settingsLanguage": "اللغة",
+  "settingsLanguageName": "العربية",
+  "settingsTheme": "المظهر",
+  "settingsThemeLight": "فاتح",
+  "settingsMyFleets": "أساطيلي",
+  "settingsNoFleetJoined": "لم تنضم إلى أي أسطول بعد",
+  "settingsJoin": "انضمام",
+  "settingsPrivacySecurity": "الخصوصية والأمان",
+  "settingsChangePassword": "تغيير كلمة المرور",
+  "settingsLocationAccess": "الوصول للموقع",
+  "settingsLocationAlways": "دائماً",
+  "settingsPrivacyPolicy": "سياسة الخصوصية",
+  "settingsSupport": "الدعم",
+  "settingsContactDispatch": "التواصل مع المرسل",
+  "settingsContactDispatchLocked": "يُفعّل عند موافقة الأسطول عليك",
+  "settingsHelpCenter": "مركز المساعدة",
+  "settingsReportProblem": "الإبلاغ عن مشكلة",
+  "settingsLogOut": "تسجيل الخروج",
+  "editProfileTitle": "تعديل الملف الشخصي",
+  "editProfileSubtitle": "تظهر هذه البيانات للأساطيل عند انضمامك",
+  "editProfilePersonalDetails": "البيانات الشخصية",
+  "editProfileFullName": "الاسم الكامل",
+  "editProfileFullNameHint": "أدخل اسمك الكامل",
+  "editProfileEmail": "البريد الإلكتروني",
+  "editProfileEmailHint": "أدخل بريدك الإلكتروني",
+  "editProfilePhone": "رقم الجوال",
+  "editProfilePhoneHint": "أدخل رقم جوالك",
+  "editProfilePhoneHelper": "الرقم الجديد يحتاج إلى تحقق سريع برمز",
+  "editProfileChangeVehicle": "تغيير المركبة",
+  "editProfileSaveChanges": "حفظ التغييرات",
+  "editProfileNotSaved": "لم يتم حفظ التغييرات",
+  "editProfileEmailTaken": "مستخدم من قبل حساب آخر",
+  "editProfilePhoneDigits": "أدخل {count} أرقام بعد {dialCode}",
+  "editProfileSummaryNameMissing": "الاسم الكامل غير مُدخل",
+  "editProfileSummaryNameShort": "الاسم الكامل قصير جداً",
+  "editProfileSummaryEmailMissing": "البريد الإلكتروني غير مُدخل",
+  "editProfileSummaryEmailInvalid": "البريد الإلكتروني غير صالح",
+  "editProfileSummaryEmailTaken": "هذا البريد الإلكتروني مستخدم من قبل حساب آخر",
+  "editProfileSummaryPhoneMissing": "رقم الجوال غير مُدخل",
+  "editProfileSummaryPhoneShort": "رقم الجوال قصير جداً",
+  "editProfileSummaryPhoneLong": "رقم الجوال طويل جداً",
+  "editProfileSummaryPhoneInvalid": "رقم الجوال غير صالح",
+  "listSeparator": "، ",
+  "listLastSeparator": "، و",
+  "profilePhotoTitle": "الصورة الشخصية",
+  "profilePhotoSubtitle": "تظهر هذه الصورة للأساطيل والمرسلين.",
+  "profilePhotoTake": "التقاط صورة",
+  "profilePhotoGallery": "اختيار من المعرض",
+  "vehiclePageSubtitle": "تطابق الأساطيل الطلبات مع ما تقوده",
+  "vehiclePageType": "نوع المركبة",
+  "vehiclePageDetails": "التفاصيل",
+  "vehiclePagePlate": "رقم اللوحة",
+  "vehiclePagePlateHint": "أدخل رقم اللوحة",
+  "vehiclePageCapacity": "الحمولة",
+  "vehiclePageCapacityHint": "مثال: 800",
+  "vehiclePageKg": "كغ",
+  "vehiclePageCapacityHelper": "تبقى مساراتك ضمن ما تستطيع مركبتك ({vehicle}) حمله",
+  "vehiclePageCapacityInvalid": "أدخل الحمولة بالكيلوغرام",
+  "navigationPageSubtitle": "يُفتح عند الضغط على بدء الملاحة",
+  "navigationPageApp": "تطبيق الملاحة",
+  "navigationPageSoon": "(قريباً)",
+  "navigationPageAvoid": "تجنّب في المسارات",
+  "navigationPageAvoidSubtitle": "نخطط لتجنّبها عندما يكون ذلك ممكناً",
+  "navigationPageTolls": "الطرق ذات الرسوم",
+  "navigationPageHighways": "الطرق السريعة",
+  "navigationPageUnpaved": "الطرق غير المعبّدة",
+  "notificationsPageSubtitle": "ابقَ على اطلاع دون النظر إلى هاتفك",
+  "notificationsPageAlerts": "التنبيهات",
+  "notificationsPageNewRoutes": "مسارات جديدة",
+  "notificationsPageNewRoutesHint": "مفعّلة دائماً أثناء اتصالك",
+  "notificationsPageOrderChanges": "تغييرات الطلبات",
+  "notificationsPageOrderChangesHint": "الإلغاء أو التحديث أو الإرجاع",
+  "notificationsPageDispatch": "رسائل المرسل",
+  "notificationsPageSoundVibration": "الصوت والاهتزاز",
+  "notificationsPageSound": "الصوت",
+  "notificationsPageVibrate": "الاهتزاز",
+  "notificationsPageQuietHours": "ساعات الهدوء",
+  "notificationsPageQuietHoursHint": "تكتم التنبيهات غير العاجلة أثناء عدم اتصالك",
+  "notificationsPageSchedule": "الجدول",
+  "quietScheduleTitle": "جدول ساعات الهدوء",
+  "quietScheduleSubtitle": "تبقى التنبيهات غير العاجلة صامتة في هذه الساعات. المسارات الجديدة تصلك دائماً.",
+  "quietScheduleFrom": "من",
+  "quietScheduleTo": "إلى",
+  "quietScheduleRepeat": "التكرار",
+  "quietScheduleSave": "حفظ الجدول",
+  "languagePageSubtitle": "تُستخدم في كل التطبيق، بما فيها الإرشادات الصوتية",
+  "languagePageLtr": "من اليسار إلى اليمين",
+  "languagePageArabicRtl": "العربية • من اليمين إلى اليسار",
+  "languagePageInfo": "التبديل إلى الإنجليزية يقلب اتجاه الواجهة من اليسار إلى اليمين. طلباتك وتقاريرك تبقى كما هي.",
+  "languagePageApply": "تطبيق اللغة",
+  "themePageSubtitle": "اختر شكل RouteX على هذا الهاتف",
+  "themeDark": "داكن",
+  "themeSystem": "النظام",
+  "themePageSystemHint": "خيار النظام يتبع إعداد الوضع الفاتح أو الداكن في هاتفك.",
+  "themePageApply": "تطبيق المظهر",
+  "myFleetsSubtitle": "انضم إلى أسطول لتبدأ باستلام المسارات",
+  "myFleetsEmptyTitle": "لم تنضم إلى أي أسطول بعد",
+  "myFleetsEmptyBody": "اطلب رمز الانضمام من مدير الأسطول، أو أرسل طلباً لأسطول قريب منك.",
+  "myFleetsEnterCode": "إدخال رمز الأسطول",
+  "myFleetsNearYou": "أساطيل قريبة منك",
+  "myFleetsNearYouHint": "حسب موقعك الحالي",
+  "myFleetsDistanceKm": "{distance} كم",
+  "joinCodeTitle": "الانضمام برمز",
+  "joinCodeSubtitle": "يمكن لمدير الأسطول مشاركته معك",
+  "joinCodeFleetCode": "رمز الأسطول",
+  "joinCodeFleetCodeHint": "6 أحرف أو أرقام",
+  "joinCodeMatches": "الرمز مطابق • {area}",
+  "joinCodeNoMatch": "لا يوجد أسطول بهذا الرمز. تحقق منه مع مدير الأسطول.",
+  "joinCodeSend": "إرسال طلب الانضمام",
+  "joinCodeReviewNote": "يراجع الأسطول طلبك قبل أن تبدأ باستلام المسارات.",
+  "joinCodeSent": "تم إرسال طلب الانضمام إلى {fleet}",
+  "pendingSubtitle": "طلبك لدى الأسطول",
+  "pendingBadge": "قيد المراجعة",
+  "pendingSentToday": "أُرسل اليوم، {time}",
+  "pendingSentOn": "أُرسل {date}",
+  "pendingStepSent": "تم إرسال الطلب",
+  "pendingToday": "اليوم، {time}",
+  "pendingStepReviewing": "الأسطول يراجع طلبك",
+  "pendingStepReviewingHint": "سيصلك إشعار عند الرد",
+  "pendingStepFirstShift": "ابدأ أول مناوبة لك",
+  "pendingStepFirstShiftHint": "تُفتح المسارات والطلبات بعد الموافقة",
+  "pendingDispatchLocked": "يُفعّل التواصل مع المرسل بعد موافقة {fleet} عليك.",
+  "pendingCancel": "إلغاء الطلب",
+  "dispatchLockedTitle": "يُفعّل التواصل مع المرسل بعد انضمامك إلى أسطول",
+  "dispatchLockedBody": "بعد موافقة الأسطول عليك، يمكنك الاتصال بفريق الإرسال لديه أو مراسلته من هنا.",
+  "dispatchLockedFindFleet": "ابحث عن أسطول",
+  "dispatchLockedNotNow": "ليس الآن",
+  "changePasswordSubtitle": "استخدم كلمة مرور لا تستخدمها في أي مكان آخر",
+  "changePasswordCurrent": "كلمة المرور الحالية",
+  "changePasswordNew": "كلمة المرور الجديدة",
+  "changePasswordConfirm": "تأكيد كلمة المرور الجديدة",
+  "changePasswordConfirmHint": "اكتبها مرة أخرى",
+  "changePasswordConfirmationTo": "سنرسل تأكيداً إلى",
+  "changePasswordUpdate": "تحديث كلمة المرور",
+  "changePasswordUpdated": "تم تحديث كلمة المرور",
+  "passwordUpdatedSentTo": "أرسلنا تأكيداً إلى",
+  "passwordUpdatedNextLogin": "استخدم كلمة المرور الجديدة عند تسجيل الدخول القادم.",
+  "passwordUpdatedBack": "العودة إلى الإعدادات",
+  "forgotPwTitle": "نسيت كلمة المرور",
+  "forgotPwSubtitle": "سنرسل لك رمز تحقق لإعادة تعيينها",
+  "forgotPwEmailHint": "استخدم البريد المسجّل في حسابك على RouteX",
+  "forgotPwSend": "إرسال رمز إعادة التعيين",
+  "settingsOtpSentMessage": "أرسلنا رمزاً من 6 أرقام إلى بريدك الإلكتروني",
+  "locationSubtitle": "يرى المرسل موقعك فقط أثناء اتصالك",
+  "locationAlwaysHint": "يُبقي المسارات وأوقات الوصول محدّثة والتطبيق في الخلفية",
+  "locationWhileUsing": "أثناء استخدام التطبيق",
+  "locationWhileUsingHint": "يتوقف التتبع عند الانتقال إلى تطبيق آخر",
+  "locationNever": "أبداً",
+  "locationNeverHint": "لن تتمكن من الاتصال أو استلام المسارات",
+  "locationWhyTitle": "لماذا هو مطلوب؟",
+  "locationWhyDispatch": "يُظهر للمرسل مكانك أثناء المناوبة",
+  "locationWhyEta": "يحافظ على دقة أوقات وصولك للعملاء",
+  "locationWhyBattery": "يرسل موقعك أثناء تحركك، لا كل ثانية، لتوفير البطارية",
+  "helpSubtitle": "إجابات على الأسئلة الشائعة",
+  "helpSearchHint": "ابحث في المساعدة",
+  "helpGettingStarted": "البدء",
+  "helpDeliveries": "التوصيل",
+  "helpStillNeedHelp": "ما زلت بحاجة للمساعدة؟",
+  "helpReportProblemHint": "أضف التفاصيل ولقطة شاشة",
+  "helpNoResults": "لا توجد إجابات تطابق بحثك.",
+  "helpQJoinFleet": "كيف أنضم إلى أسطول؟",
+  "helpAJoinFleet": "افتح الإعدادات ثم أساطيلي. اضغط انضمام على أسطول قريب منك، أو أدخل الرمز الذي أعطاك إياه مدير الأسطول. تُفتح المسارات بعد موافقة الأسطول عليك.",
+  "helpQGoOnline": "لماذا لا أستطيع الاتصال بعد؟",
+  "helpAGoOnline": "يمكنك الاتصال بعد موافقة الأسطول عليك وضبط الوصول للموقع على دائماً أو أثناء استخدام التطبيق.",
+  "helpQChangeVehicle": "كيف أغيّر مركبتي؟",
+  "helpAChangeVehicle": "افتح الإعدادات واضغط على بيانات المركبة تحت ملفك الشخصي. اختر نوع المركبة وحدّث اللوحة والحمولة ثم احفظ.",
+  "helpQProofOfDelivery": "كيف يعمل إثبات التسليم؟",
+  "helpAProofOfDelivery": "عند تسليم الطلب، التقط صورة أو احصل على توقيع العميل في التطبيق. يُعلَّم الطلب كمُسلَّم بعد إرفاق الإثبات.",
+  "helpQOffline": "هل يمكنني العمل دون إنترنت؟",
+  "helpAOffline": "نعم. يبقى مسارك وطلباتك على هاتفك، وتُرسل تحديثات التوصيل فور عودة الاتصال.",
+  "helpQCustomerNotHome": "ماذا لو لم يكن العميل في المنزل؟",
+  "helpACustomerNotHome": "اتصل بالعميل من شاشة الطلب. إن لم يرد، علّم التوصيل كفاشل مع ذكر السبب واتبع تعليمات الإرجاع لدى أسطولك.",
+  "reportSubtitle": "أخبرنا بما حدث",
+  "reportWhatAbout": "بماذا يتعلق الأمر؟",
+  "reportCatApp": "التطبيق لا يعمل",
+  "reportCatRoute": "المسار أو الخريطة",
+  "reportCatOrder": "الطلب أو الإثبات",
+  "reportCatAccount": "الحساب",
+  "reportCatOther": "شيء آخر",
+  "reportWhatHappened": "ماذا حدث؟",
+  "reportWhatHappenedHint": "صف المشكلة، مثلاً أي طلب ومتى",
+  "reportScreenshot": "لقطة شاشة",
+  "reportScreenshotHint": "اختيارية، لكنها تساعدنا على الإصلاح أسرع",
+  "reportAdd": "إضافة",
+  "reportDeviceDetails": "تضمين بيانات الجهاز",
+  "reportDeviceDetailsHint": "طراز الهاتف وإصدار التطبيق",
+  "reportSend": "إرسال البلاغ",
+  "reportSent": "شكراً، وصلنا بلاغك.",
+  "reportSentTitle": "تم إرسال البلاغ",
+  "reportSentBody": "شكراً يا {name}. سنرد عليك عبر البريد على {email}.",
+  "reportReference": "المرجع {reference}",
+  "logoutTitle": "تسجيل الخروج من RouteX؟",
+  "logoutBody": "أي بيانات لم تُرفع بعد تبقى على هذا الهاتف وتُرفع عند تسجيل دخولك القادم.",
+  "homeToday": "اليوم",
+  "homePercentDone": "تم إنجاز {percent}%",
+  "homeNoOrdersYet": "لا توجد طلبات بعد",
+  "homeOfDelivered": "تم توصيلها من أصل {total}",
+  "homeDistanceLabel": "المسافة",
+  "homeOnRouteLabel": "في الطريق",
+  "homeCouldNotDeliverLabel": "تعذر توصيلها",
+  "homeUpNext": "التالي",
+  "homeOrdersReadyToGo": "{count} طلبات جاهزة للانطلاق",
+  "homePlanFastestRoute": "سنخطط أسرع مسار معك",
+  "homeStartDelivery": "بدء التوصيل",
+  "homeOpenRoute": "فتح المسار",
+  "homeConnectToStartDelivery": "اتصل بالإنترنت لبدء التوصيل",
+  "homeAllCaughtUp": "أنت على اطلاع بكل جديد",
+  "homeNewOrdersFromCompany": "الطلبات الجديدة من {company} ستظهر هنا.",
+  "homeGreetingMorning": "صباح الخير",
+  "homeGreetingAfternoon": "مساء الخير",
+  "homeGreetingEvening": "مساء الخير",
+  "homeGreetingWithName": "{greeting}، {name}",
+  "homeAttentionNewOrderOffered": "تم عرض طلب جديد",
+  "homeAttentionJoinsNextRoute": "سينضم إلى مسارك التالي",
+  "homeNeedsAttention": "يحتاج انتباهك",
+  "homeYoureOffline": "أنت غير متصل",
+  "homeOfflineDescription": "يتم حفظ تحديثات التوصيل على هذا الهاتف وستتم مزامنتها عند عودة الاتصال.",
+  "homeOnlineWithCompany": "أنت متصل مع {company}",
+  "homeWaitingFirstOrder": "بانتظار طلبك الأول",
+  "homeWaitingFirstOrderBody": "سنخطرك بمجرد أن ترسل شركتك طلباً. يمكنك إبقاء التطبيق مغلقاً.",
+  "homeHowYourDayWorks": "كيف يسير يومك",
+  "homeStep1Title": "استلام الطلبات",
+  "homeStep1Desc": "تظهر الطلبات الجديدة في تبويب الطلبات.",
+  "homeStep2Title": "قبول الطلبات التي ستوصلها",
+  "homeStep2Desc": "الطلبات المقبولة تنضم إلى مسارك التالي.",
+  "homeStep3Title": "بدء التوصيل",
+  "homeStep3Desc": "نخطط للمسار ونرشدك في كل محطة.",
+  "homeBeforeFirstOrder": "قبل طلبك الأول",
+  "homeNotificationsSetting": "الإشعارات",
+  "homeLocationAccess": "الوصول للموقع",
+  "homeYourVehicle": "مركبتك",
+  "homeStatusOn": "✓ مفعّل",
+  "homeStatusAlways": "✓ دائماً",
+  "homeStatusToyotaHiace": "تويوتا هايس",
+  "homeInAppNewOrderOffered": "تم عرض طلب جديد",
+  "homeInAppNow": "الآن",
+  "homeReview": "مراجعة",
+  "notificationsMarkAllRead": "تحديد الكل كمقروء",
+  "notificationsSectionNew": "جديد",
+  "notificationsSectionEarlier": "سابقاً",
+  "notificationsEmptyDesc": "ستظهر هنا تحديثات المسار والردود من الأساطيل ورسائل الإرسال.",
+  "notifNewOrderOfferedTitle": "تم عرض طلب جديد",
+  "notifNewOrderOfferedBody": "أحمد علي · الروضة، جدة",
+  "notifTime2m": "٢ د",
+  "notifOrderCancelledTitle": "تم إلغاء الطلب",
+  "notifOrderCancelledBody": "ألغت شركة البحر الأحمر إكسبريس الطلب #RX-1035",
+  "notifTime1h": "١ س",
+  "notifRouteStartedTitle": "بدء المسار",
+  "notifRouteStartedBody": "٢ من ٣ طلبات في مسارك. تم إرسال ١ للمراجعة.",
+  "notifTimeYesterday": "أمس",
+  "notifVehicleUpdatedTitle": "تم تحديث المركبة",
+  "notifVehicleUpdatedBody": "حددت شركتك مركبتك إلى تويوتا هايس · PAL-99488",
+  "notifTime2d": "٢ ي",
+  "notifYoureApprovedTitle": "تمت الموافقة عليك",
+  "notifYoureApprovedBody": "وافقت شركة البحر الأحمر إكسبريس على طلبك. أهلاً بك معنا!",
+  "notifTime3d": "٣ ي",
+  "joinCompanyTitleStart": "انضم إلى ",
+  "joinCompanyTitleEnd": "شركتك.",
+  "joinCompanySubtitle": "أدخل الرمز المكون من 6 خانات الذي أعطتك إياه شركتك. سيراجعون طلبك قبل أن تتمكن من استلام الطلبات.",
+  "joinCompanyCodeCaption": "حروف وأرقام، غير حساسة لحالة الأحرف",
+  "joinCompanyPaste": "لصق",
+  "joinCompanyWhereFindTitle": "أين أجد الرمز الخاص بي؟",
+  "joinCompanyWhereFindBody": "اسأل مدير شركتك. يمكنه نسخه من لوحة تحكم RouteX وإرساله لك.",
+  "joinCompanyContinue": "متابعة",
+  "joinCompanyInvalidCode": "لم نتمكن من العثور على شركة بهذا الرمز. تحقق منه وحاول ثانية.",
+  "joinCompanyCodeDisabled": "هذا الرمز معطّل. اطلب من شركتك رمزاً جديداً.",
+  "confirmCompanyTitleStart": "هل هذه ",
+  "confirmCompanyTitleEnd": "شركتك؟",
+  "confirmCompanySubtitle": "تأكد من أنها الشركة التي تعمل معها قبل إرسال طلبك.",
+  "confirmCompanyCodeLabel": "رمز الشركة · {code}",
+  "confirmCompanyWhatHappensNext": "ماذا يحدث بعد ذلك",
+  "confirmCompanyStep1": "تستلم {company} طلبك",
+  "confirmCompanyStep2": "يقومون بمراجعته وإضافة مركبتك",
+  "confirmCompanyStep3": "بمجرد الموافقة، تبدأ باستلام الطلبات",
+  "confirmCompanyPrivacyNotice": "ستتمكن {company} من رؤية اسمك وبريدك الإلكتروني ورقم هاتفك.",
+  "confirmCompanySendRequest": "إرسال الطلب",
+  "requestTakingLonger": "هذا يستغرق وقتًا أطول من المعتاد. قد يكون الخادم قيد التشغيل، يرجى الانتظار.",
+  "confirmCompanyNotMyCompany": "ليست شركتي",
+  "underReviewGreeting": "أهلاً، {name}",
+  "underReviewDriverAccount": "حساب السائق",
+  "underReviewPullDown": "اسحب للأسفل للتحقق من التحديثات",
+  "underReviewChecking": "جاري التحقق من التحديثات...",
+  "underReviewBadge": "قيد المراجعة",
+  "underReviewWaitingFor": "في انتظار {company}",
+  "underReviewWaitingBody": "يقومون بمراجعة طلبك. سنخطرك بمجرد اتخاذ القرار.",
+  "underReviewYourRequest": "طلبك",
+  "underReviewStepSent": "تم إرسال الطلب",
+  "underReviewStepSentTime": "اليوم، 10:24 ص",
+  "underReviewStepReview": "مراجعة الشركة",
+  "underReviewStepInProgress": "قيد المعالجة",
+  "underReviewStepOrders": "بدء استلام الطلبات",
+  "underReviewContactSupport": "التواصل مع الدعم",
+  "underReviewCancelRequest": "إلغاء الطلب",
+  "underReviewCancelDialogTitle": "إلغاء الطلب؟",
+  "underReviewCancelDialogMessage": "هل أنت متأكد من رغبتك في إلغاء طلب الانضمام إلى {company}؟",
+  "underReviewKeepRequest": "الاحتفاظ بالطلب",
+  "underReviewCancelSheetTitle": "إلغاء طلبك؟",
+  "underReviewCancelSheetMessage": "لن ترى {company} طلبك بعد الآن. يمكنك الانضمام لاحقاً باستخدام رمز.",
+  "underReviewCancelSheetConfirm": "نعم، إلغاء الطلب",
+  "underReviewCancelSheetKeep": "الاحتفاظ بطلبي",
+  "ordersTitle": "الطلبات",
+  "ordersSegmentOrders": "الطلبات",
+  "ordersSegmentHistory": "السجل",
+  "ordersSearchLabel": "البحث في الطلبات",
+  "ordersNewOrdersTitle": "{count, plural, =1{طلب جديد واحد} =2{طلبان جديدان} few{{count} طلبات جديدة} other{{count} طلبًا جديدًا}}",
+  "@ordersNewOrdersTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersNewOrdersSubtitle": "أضافها قسم التوزيع إلى الغد",
+  "ordersReview": "مراجعة",
+  "ordersSectionToday": "اليوم",
+  "ordersSectionUpcoming": "القادمة",
+  "ordersTodaySummary": "متبقٍ {count} · الانتهاء بحلول {time}",
+  "@ordersTodaySummary": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersOnTheWay": "في الطريق",
+  "ordersDeliveredToday": "تم تسليم {count} اليوم",
+  "@ordersDeliveredToday": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersSeeThemInHistory": "اعرضها في السجل",
+  "ordersDayOrdersCount": "{count, plural, =1{طلب واحد} =2{طلبان} few{{count} طلبات} other{{count} طلبًا}}",
+  "@ordersDayOrdersCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersTodayEmpty": "لا يوجد ما تبقى لليوم",
+  "ordersUpcomingEmpty": "لا توجد أيام مجدولة بعد",
+  "errOrdersLoadFailed": "تعذّر تحميل طلباتك. اسحب للأسفل وحاول مجددًا.",
+  "orderStatusToDo": "قيد الانتظار",
+  "orderStopOfTotal": "المحطة {current} من {total} · اليوم",
+  "@orderStopOfTotal": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "orderActionCall": "اتصال",
+  "orderActionMessage": "رسالة",
+  "orderActionNavigate": "الاتجاهات",
+  "orderActionUnavailable": "تعذّر فتح هذا التطبيق على هذا الهاتف.",
+  "orderSectionAddress": "العنوان",
+  "orderGateCode": "رمز البوابة",
+  "orderSectionDeliveryWindow": "نافذة التسليم",
+  "orderEtaOnTime": "الوصول {time} · في الموعد",
+  "@orderEtaOnTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "orderEtaLate": "الوصول {time} · متأخر",
+  "@orderEtaLate": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "orderSectionPackages": "الطرود",
+  "orderPackagesCount": "{count, plural, =1{طرد واحد} =2{طردان} few{{count} طرود} other{{count} طردًا}}",
+  "@orderPackagesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "orderPackagesScanned": "تم مسح {scanned} من {total}",
+  "@orderPackagesScanned": {
+    "placeholders": {
+      "scanned": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "orderRequirementSignature": "يتطلب توقيعًا",
+  "orderRequirementPhoto": "صورة عند التسليم",
+  "orderSectionDispatchNote": "ملاحظة من التوزيع",
+  "orderMessageDispatch": "راسل قسم التوزيع بخصوص هذا الطلب",
+  "errOrderDetailLoadFailed": "تعذّر تحميل هذا الطلب. ارجع وحاول مجددًا.",
+  "ordersCancelledTitle": "تم إلغاء طلب {name}",
+  "@ordersCancelledTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCancelledBody": "ألغى قسم التوزيع الطلب #{code} الساعة {time}. احتفظ بالطرد في سيارتك وأعده إلى المستودع.",
+  "@ordersCancelledBody": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCancelledOk": "حسنًا",
+  "ordersStatusCancelled": "ملغي",
+  "ordersReturnToDepot": "إعادة إلى المستودع",
+  "searchCancel": "إلغاء",
+  "searchScanPackage": "مسح طرد",
+  "searchScopeAll": "الكل",
+  "searchScopeToday": "اليوم",
+  "searchScopeUpcoming": "القادمة",
+  "searchResultsCount": "{count, plural, =1{نتيجة واحدة} =2{نتيجتان} few{{count} نتائج} other{{count} نتيجة}}",
+  "@searchResultsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "searchNewBadge": "جديد",
+  "searchNoResults": "لا توجد طلبات تطابق “{query}”",
+  "@searchNoResults": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "searchHelp": "ابحث بالاسم أو الشارع أو رقم الطلب أو آخر 4 أرقام من الهاتف. اضغط على أيقونة الصندوق لمسح طرد.",
+  "searchNoResultsHint": "تحقّق من الإملاء، أو جرّب اسم شارع أو رقم طلب. الطلبات المنتهية موجودة في السجل.",
+  "searchScanInstead": "امسح طردًا بدلًا من ذلك",
+  "ordersEmptyTitle": "لا توجد طلبات حاليًا",
+  "ordersEmptyMessageFleet": "عندما تُسند إليك {fleet} طلبات، ستظهر هنا وسنرسل لك إشعارًا.",
+  "@ordersEmptyMessageFleet": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersEmptyMessage": "عندما يُسند إليك قسم التوزيع طلبات، ستظهر هنا وسنرسل لك إشعارًا.",
+  "ordersSeePastOrders": "عرض الطلبات السابقة",
+  "ordersOfflineNotice": "تُعرض الطلبات المحفوظة · آخر تحديث {time}",
+  "@ordersOfflineNotice": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersConnectionLostTitle": "تعذّر تحميل الطلبات الجديدة",
+  "ordersConnectionLostMessage": "يُعرض ما هو محفوظ على هذا الهاتف",
+  "ordersTryAgain": "إعادة المحاولة",
+  "ordersLoadFailedTitle": "تعذّر تحميل طلباتك",
+  "ordersLoadFailedMessage": "تحقّق من الإشارة وحاول مجددًا. إذا تكرر الأمر، اتصل بقسم التوزيع.",
+  "ordersArrivedOnDay": "{count, plural, =1{أُضيف طلب واحد إلى {day}} =2{أُضيف طلبان إلى {day}} few{أُضيفت {count} طلبات إلى {day}} other{أُضيف {count} طلبًا إلى {day}}}",
+  "@ordersArrivedOnDay": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "day": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersArrived": "{count, plural, =1{أُضيف طلب جديد} =2{أُضيف طلبان جديدان} few{أُضيفت {count} طلبات جديدة} other{أُضيف {count} طلبًا جديدًا}}",
+  "@ordersArrived": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDayNewCount": "{count} جديدة",
+  "@ordersDayNewCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "orderMinutesAway": "{minutes, plural, =1{على بُعد دقيقة} =2{على بُعد دقيقتين} few{على بُعد {minutes} دقائق} other{على بُعد {minutes} دقيقة}}",
+  "@orderMinutesAway": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "historyPeriodToday": "اليوم",
+  "historyPeriodWeek": "الأسبوع",
+  "historyPeriodMonth": "الشهر",
+  "historyHeading": "{period, select, today{اليوم} week{هذا الأسبوع} month{هذا الشهر} other{}}",
+  "@historyHeading": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDeliveriesUnit": "{count, plural, =1{توصيلة} =2{توصيلتان} few{توصيلات} other{توصيلة}}",
+  "@historyDeliveriesUnit": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyBusier": "{period, select, today{يوم أكثر انشغالًا من المعتاد بقليل.} week{أسبوع أكثر انشغالًا من المعتاد بقليل.} month{شهر أكثر انشغالًا من المعتاد بقليل.} other{}}",
+  "@historyBusier": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyUsual": "{period, select, today{يوم كالمعتاد تقريبًا.} week{أسبوع كالمعتاد تقريبًا.} month{شهر كالمعتاد تقريبًا.} other{}}",
+  "@historyUsual": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyQuieter": "{period, select, today{يوم أهدأ من المعتاد.} week{أسبوع أهدأ من المعتاد.} month{شهر أهدأ من المعتاد.} other{}}",
+  "@historyQuieter": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyPercent": "{value}٪",
+  "@historyPercent": {
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "historyKm": "{km} كم",
+  "@historyKm": {
+    "placeholders": {
+      "km": {
+        "type": "int"
+      }
+    }
+  },
+  "historyDuration": "{hours}س {minutes}د",
+  "@historyDuration": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "String"
+      }
+    }
+  },
+  "historyStatDelivered": "تم التسليم",
+  "historyStatDriven": "المسافة",
+  "historyStatOnTheRoad": "على الطريق",
+  "historyCouldNotDeliver": "تعذّر تسليم {count}",
+  "@historyCouldNotDeliver": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyMostCommon": "الأكثر شيوعًا: {reason}",
+  "@historyMostCommon": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "historyReasonNoAnswer": "العميل لا يرد",
+  "historyReasonAddress": "العنوان غير موجود",
+  "historyReasonRefused": "رفض العميل",
+  "historySectionDays": "الأيام",
+  "historyDeliveredSoFar": "تم تسليم {count} حتى الآن",
+  "@historyDeliveredSoFar": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyDeliveredOfTotal": "تم تسليم {delivered} من {total}",
+  "@historyDeliveredOfTotal": {
+    "placeholders": {
+      "delivered": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "historyDayOff": "يوم إجازة",
+  "historyInReview": "{count} قيد المراجعة",
+  "@historyInReview": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyDetailTitle": "{period, select, today{اليوم} week{هذا الأسبوع} month{هذا الشهر} other{}}",
+  "@historyDetailTitle": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDetailMore": "سلّمت {orders}، أي {diff} أكثر من {period, select, today{يومك} week{أسبوعك} month{شهرك} other{}} المعتاد.",
+  "@historyDetailMore": {
+    "placeholders": {
+      "orders": {
+        "type": "String"
+      },
+      "diff": {
+        "type": "int"
+      },
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDetailFewer": "سلّمت {orders}، أي أقل بـ{diff} من {period, select, today{يومك} week{أسبوعك} month{شهرك} other{}} المعتاد.",
+  "@historyDetailFewer": {
+    "placeholders": {
+      "orders": {
+        "type": "String"
+      },
+      "diff": {
+        "type": "int"
+      },
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDetailSame": "سلّمت {orders}، مثل {period, select, today{يومك} week{أسبوعك} month{شهرك} other{}} المعتاد.",
+  "@historyDetailSame": {
+    "placeholders": {
+      "orders": {
+        "type": "String"
+      },
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDeliveredUnitShort": "مُسلَّمة",
+  "historyUsualPerBar": "{period, select, today{معدلك لهذا الوقت: {value}} week{معدل يومك: {value}} month{معدل أسبوعك: {value}} other{}}",
+  "@historyUsualPerBar": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      },
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDeliveredOfAssigned": "{delivered} من {assigned} طلبًا. الطلبات الملغاة لا تُحتسب.",
+  "@historyDeliveredOfAssigned": {
+    "placeholders": {
+      "delivered": {
+        "type": "int"
+      },
+      "assigned": {
+        "type": "int"
+      }
+    }
+  },
+  "historyDriving": "{duration} قيادة",
+  "@historyDriving": {
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "historyAtStops": "{duration} عند المحطات",
+  "@historyAtStops": {
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDistanceTitle": "المسافة",
+  "historyKmPerDay": "حوالي {km} كم لكل يوم عمل",
+  "@historyKmPerDay": {
+    "placeholders": {
+      "km": {
+        "type": "int"
+      }
+    }
+  },
+  "historyCouldNotDeliverTitle": "تعذّر التسليم",
+  "historyPrivacyFleet": "لا يرى هذه الأرقام سواك وقسم التوزيع في {fleet}.",
+  "@historyPrivacyFleet": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "historyPrivacy": "لا يرى هذه الأرقام سواك وقسم التوزيع.",
+  "historySectionStops": "المحطات",
+  "historyOfTotal": "{delivered} من {total}",
+  "@historyOfTotal": {
+    "placeholders": {
+      "delivered": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "historyStopInReview": "قيد المراجعة",
+  "historyStopOfTotal": "المحطة {n} من {total}",
+  "@historyStopOfTotal": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "historyStopNotDelivered": "لم يُسلَّم",
+  "historyFailedInReview": "{reason}. قسم التوزيع يراجعها، لا شيء عليك الآن.",
+  "@historyFailedInReview": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "historyFailedClosed": "{reason}.",
+  "@historyFailedClosed": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDeliveredAt": "سُلِّم الساعة {time}.",
+  "@historyDeliveredAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "historyWhatHappened": "ما حدث",
+  "historyEventArrived": "الوصول",
+  "historyEventArrivedDetail": "GPS: على بُعد {meters} م من العنوان",
+  "@historyEventArrivedDetail": {
+    "placeholders": {
+      "meters": {
+        "type": "int"
+      }
+    }
+  },
+  "historyEventCalled": "اتصلت بالعميل",
+  "historyEventCalledAgain": "اتصلت مرة أخرى",
+  "historyEventNoAnswer": "لا يوجد رد",
+  "historyEventAnswered": "تم الرد",
+  "historyEventWaited": "انتظرت {minutes} د",
+  "@historyEventWaited": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "historyEventMarkedFailed": "سُجّلت كتعذّر التسليم",
+  "historyEventReason": "السبب: {reason}",
+  "@historyEventReason": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "historyEventPhoto": "تم التقاط صورة",
+  "historyEventDelivered": "سُجّل كمُسلَّم",
+  "historyEventReturned": "أُعيد الطرد إلى المستودع",
+  "historyClosedPrivacy": "تُخفى بيانات العميل بعد إغلاق المحطة.",
+  "historyReportIssue": "الإبلاغ عن مشكلة في هذه المحطة",
+  "reportIssueTitle": "ما المشكلة في هذه المحطة؟",
+  "reportIssueStatusWrong": "الحالة غير صحيحة",
+  "reportIssueNotInControl": "لم يكن الأمر بيدي",
+  "reportIssueTimesWrong": "الأوقات غير صحيحة",
+  "reportIssueOther": "شيء آخر",
+  "reportIssueNoteHint": "أضف تفاصيل لقسم التوزيع (اختياري)",
+  "reportIssueNoteHintRequired": "أخبر قسم التوزيع بما حدث",
+  "reportIssueSend": "إرسال إلى قسم التوزيع",
+  "reportIssueFailed": "تعذّر الإرسال. تحقّق من الإشارة وحاول مجددًا.",
+  "historyIssueSentTitle": "أُرسلت المشكلة إلى قسم التوزيع",
+  "historyIssueSentBody": "سيصلك ردّهم في الإشعارات.",
+  "historyIssueSentToast": "تم الإرسال. شكرًا على التنبيه.",
+  "historyProofTitle": "إثبات التسليم",
+  "historyProofPhoto": "صورة",
+  "historyProofSignature": "توقيع",
+  "historyProofDistance": "على بُعد {meters} م",
+  "@historyProofDistance": {
+    "placeholders": {
+      "meters": {
+        "type": "int"
+      }
+    }
+  },
+  "historyHandoverCustomer": "سُلِّم للعميل عند الباب.",
+  "historyHandoverReception": "تُرك لدى الاستقبال.",
+  "historyHandoverGuard": "سُلِّم لحارس المبنى.",
+  "historyEventSigned": "وقّع العميل",
+  "historyNotEnoughData": "لا توجد بيانات كافية بعد",
+  "historyNotEnoughDataBody": "{period, select, today{بعد أول بضع عمليات توصيل سترى يومك هنا، مقارنةً بيومك المعتاد.} week{بعد أول بضع عمليات توصيل سترى أسبوعك هنا، مقارنةً بأسبوعك المعتاد.} month{بعد أول بضع عمليات توصيل سترى شهرك هنا، مقارنةً بشهرك المعتاد.} other{}}",
+  "@historyNotEnoughDataBody": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyEmptyDaysTitle": "ستظهر هنا المحطات التي أنهيتها",
+  "historyEmptyDaysBody": "لكل يوم سجلّه الخاص يمكنك فتحه لاحقًا.",
+  "historyMonthComparison": "{comparison, select, busier{أكثر انشغالًا بقليل من شهرك المعتاد حتى الآن.} usual{قريب من شهرك المعتاد حتى الآن.} quieter{أهدأ من شهرك المعتاد حتى الآن.} other{}}",
+  "@historyMonthComparison": {
+    "placeholders": {
+      "comparison": {
+        "type": "String"
+      }
+    }
+  },
+  "historyWorthALook": "يستحق النظر",
+  "historyDeliveredBelowUsual": "نسبة التسليم {percent}%، أقل بقليل من معدلك المعتاد {usual}%.",
+  "@historyDeliveredBelowUsual": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      },
+      "usual": {
+        "type": "int"
+      }
+    }
+  },
+  "historyMostMissesThisMonth": "أكثر أسباب التعذّر هذا الشهر: {reason} ({count}).",
+  "@historyMostMissesThisMonth": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyMissTip": "{reason, select, customerNotAnswering{الاتصال قبل الوصول قد يساعد.} addressNotFound{التحقق من الموقع قبل الانطلاق قد يساعد.} other{}}",
+  "@historyMissTip": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "historySectionWeeks": "الأسابيع",
+  "historyThisWeekRange": "هذا الأسبوع · {range}",
+  "@historyThisWeekRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "historyCountDelivered": "تم تسليم {count}",
+  "@historyCountDelivered": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyOfflineNotice": "يُعرض السجل المحفوظ · آخر تحديث {time}",
+  "@historyOfflineNotice": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "historyIncludesUnsynced": "{count, plural, =1{يشمل محطة واحدة لم تُزامَن بعد} =2{يشمل محطتين لم تُزامَنا بعد} few{يشمل {count} محطات لم تُزامَن بعد} other{يشمل {count} محطة لم تُزامَن بعد}}",
+  "@historyIncludesUnsynced": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyWaitingToSync": "{count, plural, =1{تحديث واحد بانتظار المزامنة} =2{تحديثان بانتظار المزامنة} few{{count} تحديثات بانتظار المزامنة} other{{count} تحديثًا بانتظار المزامنة}}",
+  "@historyWaitingToSync": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyWaitingToSyncBody": "{count, plural, =1{محفوظ على هذا الهاتف وسيُرفع تلقائيًا.} other{محفوظة على هذا الهاتف وستُرفع تلقائيًا.}}",
+  "@historyWaitingToSyncBody": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "syncTitle": "بانتظار المزامنة",
+  "syncSubtitle": "هذه محفوظة على هاتفك وستُرفع تلقائيًا عندما تتوفر الإشارة.",
+  "syncWaiting": "بالانتظار",
+  "syncDeliveredAt": "سُلّم {time}",
+  "@syncDeliveredAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "syncFailedAt": "تعذّر التسليم {time}",
+  "@syncFailedAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "syncPartPhoto": "الصورة",
+  "syncPartSignature": "التوقيع",
+  "syncPartStatus": "الحالة",
+  "syncPartsJoin": "{rest} و{last}",
+  "@syncPartsJoin": {
+    "placeholders": {
+      "rest": {
+        "type": "String"
+      },
+      "last": {
+        "type": "String"
+      }
+    }
+  },
+  "syncKeepAppWarning": "لا تسجّل الخروج ولا تحذف التطبيق قبل مزامنة هذه، وإلا ستضيع.",
+  "syncNow": "زامِن الآن",
+  "syncNoSignal": "لا توجد إشارة بعد. ستُرفع عند عودة الاتصال.",
+  "syncAllUploaded": "تم رفع كل شيء.",
+  "historySummaryFailedTitle": "{period, select, today{تعذّر تحميل ملخص اليوم} week{تعذّر تحميل ملخص هذا الأسبوع} month{تعذّر تحميل ملخص هذا الشهر} other{}}",
+  "@historySummaryFailedTitle": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historySummaryFailedBody": "{period, select, month{الأسابيع أدناه محدّثة.} other{الأيام أدناه محدّثة.}}",
+  "@historySummaryFailedBody": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyRetry": "إعادة المحاولة",
+  "orderOfferNotificationAppLabel": "ROUTEX · عرض جديد · الآن",
+  "orderOfferNotificationGroupAppLabel": "ROUTEX · {count} طلبات جديدة · الآن",
+  "@orderOfferNotificationGroupAppLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "orderOfferNotificationSingleTitle": "طلب جديد: {customer}، {area}",
+  "@orderOfferNotificationSingleTitle": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      },
+      "area": {
+        "type": "String"
+      }
+    }
+  },
+  "orderOfferNotificationGroupTitle": "{count} طلبات جديدة ليوم غد",
+  "@orderOfferNotificationGroupTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "orderOfferNotificationDetails": "{packages} طرود · {distance} إلى مسارك · الرد خلال {deadline}",
+  "@orderOfferNotificationDetails": {
+    "placeholders": {
+      "packages": {
+        "type": "int"
+      },
+      "distance": {
+        "type": "String"
+      },
+      "deadline": {
+        "type": "String"
+      }
+    }
+  },
+  "orderOfferNotificationGroupDetails": "{areas} · {distance} · الرد خلال {deadline}",
+  "@orderOfferNotificationGroupDetails": {
+    "placeholders": {
+      "areas": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      },
+      "deadline": {
+        "type": "String"
+      }
+    }
+  },
+  "homeOrderOfferTitle": "{count} طلبات جديدة",
+  "@homeOrderOfferTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "homeOrderOfferSubtitle": "{fleet} · أجب خلال {deadline}",
+  "@homeOrderOfferSubtitle": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      },
+      "deadline": {
+        "type": "String"
+      }
+    }
+  },
+  "homeOrderOfferView": "عرض",
+  "offerOneOrderTitle": "الطلبات",
+  "offerOneOrderCountdown": "{time} متبقية",
+  "@offerOneOrderCountdown": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "offerOneOrderNewFromFleet": "طلب جديد · {fleet}",
+  "@offerOneOrderNewFromFleet": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerOneOrderTomorrow": "غدًا",
+  "offerOneOrderRouteDistance": "{distance} · +{minutes} دقيقة إلى مسارك",
+  "@offerOneOrderRouteDistance": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "offerOneOrderAddress": "العنوان",
+  "offerOneOrderDelivery": "موعد التسليم {window}",
+  "@offerOneOrderDelivery": {
+    "placeholders": {
+      "window": {
+        "type": "String"
+      }
+    }
+  },
+  "offerOneOrderFitsAfterStop": "تأتي بعد المحطة {stop} في مسارك",
+  "@offerOneOrderFitsAfterStop": {
+    "placeholders": {
+      "stop": {
+        "type": "int"
+      }
+    }
+  },
+  "offerOneOrderPackages": "{count, plural, =1{طرد واحد} =2{طردان} few{{count} طرود} other{{count} طردًا}}",
+  "@offerOneOrderPackages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offerOneOrderSignatureNeeded": "يلزم التوقيع عند الباب",
+  "offerOneOrderCompanyNote": "ملاحظة من الشركة",
+  "offerOneOrderNoAnswer": "إذا لم ترد، سيُعاد الطلب إلى {fleet}.",
+  "@offerOneOrderNoAnswer": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerOneOrderDecline": "رفض",
+  "offerOneOrderAccept": "قبول الطلب",
+  "orderOfferNotificationAccept": "قبول",
+  "orderOfferNotificationDecline": "رفض",
+  "orderOfferNotificationViewOrders": "عرض الطلبات",
+  "offerTimesUp": "انتهى الوقت",
+  "offerNoLongerAvailable": "لم يعد متاحًا",
+  "offerGroupTitle": "{count, plural, =1{طلب جديد} =2{طلبان جديدان} few{{count} طلبات جديدة} other{{count} طلبًا جديدًا}}",
+  "@offerGroupTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offerGroupSubtitle": "لـ{day}. اختر ما تستطيع أخذه.",
+  "@offerGroupSubtitle": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      }
+    }
+  },
+  "offerStopsAdded": "{count, plural, =1{محطة مضافة} other{محطات مضافة}}",
+  "@offerStopsAdded": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offerToYourRoute": "إلى مسارك",
+  "offerDriving": "قيادة",
+  "offerKmDelta": "+{km} كم",
+  "@offerKmDelta": {
+    "placeholders": {
+      "km": {
+        "type": "String"
+      }
+    }
+  },
+  "offerMinutesDelta": "+{minutes} د",
+  "@offerMinutesDelta": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "offerRowTitle": "{name} · #{code}",
+  "@offerRowTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "offerRowSubtitle": "{area} · {window}",
+  "@offerRowSubtitle": {
+    "placeholders": {
+      "area": {
+        "type": "String"
+      },
+      "window": {
+        "type": "String"
+      }
+    }
+  },
+  "offerSkipping": "متخطّى",
+  "offerSkipHint": "اضغط على طلب لتستبعده. ترى شركتك الطلبات التي تخطيتها.",
+  "offerGroupNoAnswer": "إذا لم ترد، تعود الطلبات الـ{count} كلها إلى {fleet}.",
+  "@offerGroupNoAnswer": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerDeclineAll": "رفض الكل",
+  "offerAcceptAll": "قبول الـ{count} كلها",
+  "@offerAcceptAll": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offerAcceptSome": "قبول {accepted}، تخطّي {skipped}",
+  "@offerAcceptSome": {
+    "placeholders": {
+      "accepted": {
+        "type": "int"
+      },
+      "skipped": {
+        "type": "int"
+      }
+    }
+  },
+  "offerDeclineTitle": "لماذا ترفض الطلب؟",
+  "offerReasonVanFull": "شاحنتي ممتلئة",
+  "offerReasonOutsideArea": "خارج منطقتي",
+  "offerReasonShiftEnds": "تنتهي ورديتي قبل ذلك",
+  "offerReasonOther": "سبب آخر",
+  "offerDeclineNotice": "ستعرض {fleet} الطلب على سائق آخر.",
+  "@offerDeclineNotice": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerDeclineOrder": "رفض الطلب",
+  "offerKeepOrder": "الإبقاء على الطلب",
+  "offerAcceptedTitle": "أُضيف إلى مسارك",
+  "offerAcceptedOne": "أصبح {name} المحطة {stop} من {total}. أعدنا تخطيط المسار لتنتهي رغم ذلك بحلول {time}.",
+  "@offerAcceptedOne": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "stop": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "offerAcceptedMany": "أُضيف {count} طلبات بدءًا من المحطة {stop} من {total}. أعدنا تخطيط المسار لتنتهي رغم ذلك بحلول {time}.",
+  "@offerAcceptedMany": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "stop": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "offerStopsTomorrow": "محطات الغد",
+  "offerDistance": "المسافة",
+  "offerDoneBy": "الانتهاء بحلول",
+  "offerKm": "{km} كم",
+  "@offerKm": {
+    "placeholders": {
+      "km": {
+        "type": "String"
+      }
+    }
+  },
+  "offerSeeRoute": "عرض مسار الغد",
+  "offerBackToOrders": "العودة إلى الطلبات",
+  "offerDeclinedTitle": "{count, plural, =1{تم رفض الطلب} other{تم رفض الطلبات}}",
+  "@offerDeclinedTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offerDeclinedBody": "{count, plural, =1{ستعطيه {fleet} لسائق آخر.} other{ستعطيها {fleet} لسائق آخر.}}",
+  "@offerDeclinedBody": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerUndo": "تراجع",
+  "offerExpiredTitle": "انتهت صلاحية هذا العرض",
+  "offerExpiredBody": "لم ترد خلال {minutes} دقائق، فعاد الطلب إلى {fleet}. لم يتغير شيء في مسارك.",
+  "@offerExpiredBody": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      },
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerTakenBackTitle": "استرجعت {fleet} هذا الطلب",
+  "@offerTakenBackTitle": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerTakenBackBody": "أعطوه لسائق آخر قبل أن ترد. لم يتغير شيء في مسارك.",
+  "offerOfflineAcceptTitle": "تعذّر القبول. أنت غير متصل.",
+  "offerOfflineDeclineTitle": "تعذّر الرفض. أنت غير متصل.",
+  "offerOfflineBody": "يبقى العرض مفتوحًا ما دام المؤقت يعمل.",
+  "offerFailedTitle": "تعذّر إرسال ردك.",
+  "offerFailedBody": "حاول مجددًا قبل انتهاء المؤقت.",
+  "offersWaitingTitle": "{count, plural, =1{طلب واحد بانتظارك} =2{طلبان بانتظارك} few{{count} طلبات بانتظارك} other{{count} طلبًا بانتظارك}}",
+  "@offersWaitingTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offersWaitingBody": "رد خلال {time} وإلا ستعود",
+  "@offersWaitingBody": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "offersView": "عرض",
+  "editProfileFirstName": "الاسم الأول",
+  "editProfileFirstNameHint": "أدخل اسمك الأول",
+  "editProfileLastName": "اسم العائلة",
+  "editProfileLastNameHint": "أدخل اسم العائلة",
+  "editProfileSummaryFirstNameMissing": "الاسم الأول غير مُدخل",
+  "editProfileSummaryFirstNameShort": "الاسم الأول قصير جداً",
+  "editProfileSummaryLastNameMissing": "اسم العائلة غير مُدخل",
+  "editProfileSummaryLastNameShort": "اسم العائلة قصير جداً",
+  "editProfileCompanySees": "تظهر هذه البيانات لـ {company}",
+  "editProfileSetByCompany": "تحددها شركتك",
+  "profilePhotoCompanySees": "تظهر هذه الصورة لشركتك.",
+  "vehicleManagedBy": "تديرها {company}",
+  "vehicleManagedByYourCompany": "تديرها شركتك",
+  "vehicleCompanyManages": "شركتك هي من تدير مركبتك. تواصل معها إذا احتجت أي تغيير.",
+  "vehicleType": "النوع",
+  "vehicleColour": "اللون",
+  "navigationPageSubtitleStop": "يُفتح عند الضغط على زر الملاحة في أي محطة",
+  "editProfileYourCompanySees": "تظهر هذه البيانات لشركتك",
+  "settingsCompany": "الشركة",
+  "settingsCompanyActiveJoined": "نشط · انضممت في {date}",
+  "settingsCompanyActive": "نشط",
+  "myCompanyTitle": "شركتي",
+  "myCompanySubtitle": "الشركة التي توصّل لها",
+  "myCompanyJoined": "تاريخ الانضمام",
+  "myCompanyCode": "رمز الشركة",
+  "myCompanyVehicle": "مركبتك",
+  "myCompanyCall": "اتصال",
+  "myCompanyEmail": "بريد إلكتروني",
+  "myCompanyCantOpen": "تعذّر فتح هذا على هاتفك.",
+  "settingsContactCompany": "تواصل مع شركتك",
+  "settingsContactCompanyHint": "اتصل أو راسل {company}",
+  "settingsContactCompanyHintFallback": "اتصل أو راسل شركتك",
+  "contactCompanyTitle": "تواصل مع {company}",
+  "contactCompanyBody": "للأسئلة المتعلقة بالطلبات أو مركبتك أو حسابك.",
+  "routeYouveArrived": "وصلت",
+  "routeYouveArrivedCaps": "لقد وصلت",
+  "routeOpeningStopIn3s": "سيتم فتح المحطة خلال 3 ث",
+  "routeNotHereYet": "لم أصل بعد",
+  "routeOpenStop": "افتح المحطة",
+  "routeSignRefused": "رفضوا التوقيع",
+  "routeSignHandsFull": "أيديهم مشغولة أو لا يستطيعون استخدام الهاتف",
+  "routeSignGuard": "سُلّمت لحارس المبنى",
+  "routeSignOther": "سبب آخر",
+  "routeWhyCantSign": "ليش ما بقدروا يوقّعوا؟",
+  "routeMarkDeliveredPhotoOnly": "تأكيد التسليم بالصورة فقط",
+  "routeBackToSignature": "رجوع للتوقيع",
+  "routeBeforeYouGo": "قبل ما تنطلق",
+  "routeAllPackagesInVan": "هل كل الطرود ({total}) في السيارة؟",
+  "@routeAllPackagesInVan": {
+    "placeholders": {
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "routeTapEachOrScan": "اضغط على كل طرد أو امسح ملصقه.",
+  "routeScanLabelsInstead": "امسح الملصقات بدلاً من ذلك",
+  "routeStartRoute": "ابدأ المسار",
+  "routeCheckedOf": "تم فحص {checked} من {total}",
+  "@routeCheckedOf": {
+    "placeholders": {
+      "checked": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "routePackageMissing": "في طرد ناقص",
+  "routeNoRouteRightNow": "ما في مسار حالياً",
+  "routeNoRouteDesc": "اقبل الطلبات، وبعدها اضغط ابدأ التوصيل. رح يظهر مسارك هون.",
+  "routeSeeMyOrders": "شوف طلباتي",
+  "routeTurnOnLocation": "شغّل الموقع عشان تبدأ",
+  "routeLocationWhy": "Red Sea Express بتشوف موقعك فقط وإنت على المسار. هيك بنوجّهك وهيك بيعرفوا إن الطلبات بالطريق.",
+  "routeAllowLocation": "اسمح بالموقع",
+  "routeNotNow": "مش هلأ",
+  "routeReturningToDepot": "العودة إلى المستودع",
+  "routeImAtDepot": "أنا في المستودع",
+  "routeUpdatedBy": "تم تحديث المسار من {company}",
+  "@routeUpdatedBy": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "routeOk": "حسناً",
+  "routeViewWhenStopped": "اعرضها لما توقف",
+  "routeFindingNewWay": "جاري إيجاد طريق جديد",
+  "routeLeftRoute": "خرجت عن المسار. عم نحدّث الاتجاهات إلى {customer}.",
+  "@routeLeftRoute": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      }
+    }
+  },
+  "routeWeakGps": "إشارة GPS ضعيفة",
+  "routeWeakGpsBody": "ممكن يكون موقعك غير دقيق للحظات. كمّل القيادة بأمان.",
+  "routeOffline": "أنت غير متصل",
+  "routeOfflineBody": "كمّل طريقك. تحديث واحد انحفظ وبينبعت لما يرجع الاتصال.",
+  "routeStopMovedToEnd": "تم نقل {customer} لآخر مسارك",
+  "@routeStopMovedToEnd": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      }
+    }
+  },
+  "routeUndo": "تراجع",
+  "routeDelivered": "تم التسليم",
+  "routeDeliveredTo": "تم التسليم · {customer}",
+  "@routeDeliveredTo": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      }
+    }
+  },
+  "routeEndRouteNowQ": "تنهي المسار هلأ؟",
+  "routeEndRouteWarning": "لسا عندك {count} محطات. طلباتها بترجع لـ Red Sea Express عشان يعيدوا توزيعها. وما بتقدر ترجع عن هالإجراء.",
+  "@routeEndRouteWarning": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeKeepDelivering": "كمّل التوصيل",
+  "routeEndRoute": "إنهاء المسار",
+  "routeAtTheDepot": "في المستودع",
+  "routeHandBackOne": "سلّم {count} طرد",
+  "@routeHandBackOne": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeHandBackMany": "سلّم {count} طرود",
+  "@routeHandBackMany": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeHandBackDesc": "سلّمه لفريق المستودع. وهم كمان رح يأكدوا من عندهم.",
+  "routeReturnedEndDay": "تم الإرجاع · أنهي يومي",
+  "routeNeedHelp": "بدك مساعدة؟",
+  "routeDispatchAnswers": "مركز تحكم {company} · عادةً بيرد خلال دقيقتين",
+  "@routeDispatchAnswers": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "routeCallDispatch": "اتصل بمركز التحكم",
+  "routeMessageDispatch": "راسل مركز التحكم",
+  "routeTakeBreak": "خذ استراحة",
+  "routeVehicleProblem": "مشكلة بالمركبة",
+  "routeVehicleProblemSub": "عطل، بنشر، حادث",
+  "routeFeelUnsafe": "أحس بعدم الأمان",
+  "routeFeelUnsafeSub": "بتتصل بـ 999 وبتنبّه مركز التحكم",
+  "routeClose": "إغلاق",
+  "routeMoreOptions": "خيارات أكثر",
+  "routeTryAgainLater": "جرّب لاحقاً",
+  "routeTryAgainLaterSub": "انقل هالمحطة لآخر مسارك",
+  "routeDeliverDifferentStop": "سلّم محطة ثانية أولاً",
+  "routeDeliverDifferentStopSub": "اختار أي محطة تروح عليها هلأ",
+  "routeReportWrongLocation": "بلّغ عن موقع خاطئ",
+  "routeReportWrongLocationSub": "الدبوس أو العنوان مش متطابقين",
+  "routeGetHelp": "احصل على مساعدة",
+  "routeGetHelpSub": "اتصل أو راسل Red Sea Express",
+  "routeWhatChanged": "شو اللي تغيّر",
+  "routeUpdatedYourRouteAt": "{company} حدّثت مسارك الساعة {time}.",
+  "@routeUpdatedYourRouteAt": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "routeChangeAdded": "أُضيف · سارة خالد",
+  "routeChangeAddedSub": "شارع قريش، السلامة · هلأ المحطة 3",
+  "routeChangeRemoved": "أُزيل · يوسف ناصر",
+  "routeChangeRemovedSub": "ألغاه الزبون",
+  "routeNowStops": "المسار هلأ 4 محطات",
+  "routeAboutLonger": "أطول بحوالي 6 دقائق",
+  "routeGotIt": "تمام",
+  "routeNextStopOf": "المحطة التالية · {n} من {total}",
+  "@routeNextStopOf": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "routeGateCode": "رمز البوابة",
+  "routeTimeWindow": "نافذة الوقت",
+  "routePackages": "الطرود",
+  "routeCall": "اتصال",
+  "routeMessage": "رسالة",
+  "routeBackToMap": "رجوع للخريطة",
+  "routeTodaysRoute": "مسار اليوم",
+  "routeDoneOfTotal": "تم {done} من {total}",
+  "@routeDoneOfTotal": {
+    "placeholders": {
+      "done": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "routeEnRouteEta": "بالطريق · الوصول {eta}",
+  "@routeEnRouteEta": {
+    "placeholders": {
+      "eta": {
+        "type": "String"
+      }
+    }
+  },
+  "routeEta": "الوصول {eta}",
+  "@routeEta": {
+    "placeholders": {
+      "eta": {
+        "type": "String"
+      }
+    }
+  },
+  "routeBackToDirections": "رجوع للاتجاهات",
+  "routeEndRouteEarly": "إنهاء المسار مبكراً",
+  "routeWrongEntrance": "المدخل بمكان ثاني",
+  "routeWrongStreet": "الدبوس على شارع غلط",
+  "routeAddressMissing": "العنوان مش موجود",
+  "routeWrongLocationFor": "موقع خاطئ · {name}",
+  "@routeWrongLocationFor": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeWhatsWrongPin": "شو المشكلة بالدبوس؟",
+  "routeSendToDispatch": "أرسل لمركز التحكم",
+  "routeNavigateWith": "تنقّل باستخدام",
+  "routePickDirections": "اختار كيف بدك الاتجاهات إلى {customer}.",
+  "@routePickDirections": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      }
+    }
+  },
+  "routeTurnByTurnInApp": "اتجاهات خطوة بخطوة داخل التطبيق",
+  "routeOpensOneStop": "بيفتح محطة وحدة كل مرة",
+  "routeAlwaysUseApp": "استخدم هالتطبيق دايماً",
+  "routeComeBackToMark": "ارجع لـ RouteX عشان تأكد تسليم كل محطة.",
+  "routeStartDirections": "ابدأ الاتجاهات",
+  "routeOnBreakCaps": "في استراحة",
+  "routeOfMin": "من {mins} دقيقة",
+  "@routeOfMin": {
+    "placeholders": {
+      "mins": {
+        "type": "String"
+      }
+    }
+  },
+  "routeBreakStarted": "بدأت الساعة {time}. مركز التحكم بيشوف إنك في استراحة، ومواعيد وصول الزبائن اتأجلت {mins} دقيقة.",
+  "@routeBreakStarted": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      },
+      "mins": {
+        "type": "String"
+      }
+    }
+  },
+  "routeResumeRoute": "كمّل المسار",
+  "routeAdd5Minutes": "زيد 5 دقائق",
+  "routeReasonNotAnswering": "الزبون ما بيرد",
+  "routeReasonWrongAddress": "عنوان خاطئ",
+  "routeReasonRefused": "الزبون رفض",
+  "routeReasonCantReach": "ما بقدر أوصل للموقع",
+  "routeWhatHappened": "شو صار؟",
+  "routeWillReviewOrder": "{customer} · {company} رح تراجع هالطلب.",
+  "@routeWillReviewOrder": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      },
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "routeAddNoteOptional": "أضف ملاحظة (اختياري)",
+  "routeSendToCompany": "أرسل إلى {company}",
+  "@routeSendToCompany": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "routeNextStopCaps": "المحطة التالية",
+  "routeStartingDirectionsIn": "بدء الاتجاهات خلال {secs} ث",
+  "@routeStartingDirectionsIn": {
+    "placeholders": {
+      "secs": {
+        "type": "String"
+      }
+    }
+  },
+  "routeGoToNextStop": "روح للمحطة التالية",
+  "routeNextSignature": "التالي: التوقيع",
+  "routeUsePhoto": "استخدم الصورة",
+  "routeRetake": "أعد التصوير",
+  "routeLooksGood": "شكلها منيح؟",
+  "routePhotoClearHint": "تأكد إن الطرد ورقم الباب واضحين.",
+  "routePhotoThenSignature": "صورة، وبعدها توقيع لهذا الطلب",
+  "routeRequiredEveryDelivery": "مطلوبة لكل عملية تسليم",
+  "routeStopNumberName": "المحطة {n} · {name}",
+  "@routeStopNumberName": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeAllowCameraAccess": "اسمح بالوصول للكاميرا لالتقاط الصورة",
+  "routeCameraUnavailable": "الكاميرا غير متاحة",
+  "routeShowPackageAndDoor": "أظهر الطرد ورقم الباب",
+  "routePhotoOfDelivery": "صورة التسليم",
+  "routePhoto": "صورة",
+  "routeAskToSign": "اطلب من {name} التوقيع",
+  "@routeAskToSign": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeHandPhoneSign": "أعطيه الهاتف. بيوقّع بإصبعه.",
+  "routeHandPhoneType": "أعطيه الهاتف. بيكتب اسمه الكامل.",
+  "routeDraw": "ارسم",
+  "routeType": "اكتب",
+  "routeSignHere": "وقّع هنا",
+  "routePreview": "معاينة",
+  "routeClear": "مسح",
+  "routeSignedBy": "وقّع",
+  "routeFullName": "الاسم الكامل",
+  "routeSomeoneElseCanSign": "ممكن حدا ثاني يوقّع عنه. بس غيّر الاسم.",
+  "routePreviewUpdates": "المعاينة بتتحدث وهو بيكتب. ممكن حدا ثاني يوقّع عنه باسمه.",
+  "routeDoneMarkDelivered": "تم · تأكيد التسليم",
+  "routeCantSign": "ما بقدروا يوقّعوا",
+  "routeStopOfCustomer": "المحطة {n} من {total} · {name}",
+  "@routeStopOfCustomer": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeTryingToReach": "عم نحاول نوصل لـ {name}",
+  "@routeTryingToReach": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeWaitBeforeMarking": "استنى كم دقيقة قبل ما تأكد هالمحطة. Red Sea Express بتطلب اتصالين وانتظار 5 دقائق.",
+  "routeCalled": "تم الاتصال",
+  "routeNoAnswerAt": "{time} · ما في رد",
+  "@routeNoAnswerAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "routeMessageSent": "تم إرسال الرسالة",
+  "routeCallAgain": "اتصل مرة ثانية",
+  "routeMarkCouldntDeliver": "تأكيد تعذّر التسليم",
+  "routeAvailableAfterWait": "متاح بعد انتظار 5 دقائق",
+  "routeLocationSharingStopped": "تم إيقاف مشاركة الموقع",
+  "routeWelcomeBack": "أهلاً فيك من جديد",
+  "routeCantSeeYourRoute": "{company} ما بتشوف مسارك. شغّلها من جديد عشان تكمّل التوصيل.",
+  "@routeCantSeeYourRoute": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "routeYouWereNavigating": "كنت عم تتنقّل إلى {customer} عبر {app}.",
+  "@routeYouWereNavigating": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      },
+      "app": {
+        "type": "String"
+      }
+    }
+  },
+  "routeTurnOn": "شغّل",
+  "routeIveArrived": "وصلت",
+  "routeResume": "استئناف",
+  "routeStopNotMarked": "المحطة {n} ما انأكدت",
+  "@routeStopNotMarked": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      }
+    }
+  },
+  "routeDidYouDeliverTo": "سلّمت لـ {customer}؟",
+  "@routeDidYouDeliverTo": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      }
+    }
+  },
+  "routeLeftAddress": "تركت عنوانه {ago}. تأكيد التسليم هلأ بيخلّي الزبون على اطلاع.",
+  "@routeLeftAddress": {
+    "placeholders": {
+      "ago": {
+        "type": "String"
+      }
+    }
+  },
+  "routeYesDelivered": "أيوا، تم التسليم",
+  "routeCouldntDeliver": "تعذّر التسليم",
+  "routeGoBack": "رجوع",
+  "routeArrivedAt": "وصلت الساعة {time}",
+  "@routeArrivedAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "routeNote": "ملاحظة",
+  "routeMaps": "الخرائط",
+  "routeMore": "المزيد",
+  "routeStopsCount": "{count} محطات",
+  "@routeStopsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeCalculating": "جاري الحساب",
+  "routeSlideToStart": "اسحب لبدء المسار",
+  "routeGettingRouteReady": "جاري تجهيز مسارك",
+  "routePlanningYourRoute": "جاري تخطيط مسارك",
+  "routeFindingFastestOrder": "عم نلاقي أسرع ترتيب لمحطاتك الـ {count}.",
+  "@routeFindingFastestOrder": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeYourRouteIsReady": "مسارك جاهز",
+  "routeStopsOrderedHint": "المحطات مرتبة لأسرع قيادة. الأوقات تقديرية.",
+  "routeAppOptimizesArea": "التطبيق بيرتّب المحطات في نطاق 2 كم حواليك.",
+  "routeRouteComplete": "اكتمل المسار",
+  "routeAlmostDone": "قربت تخلص يا {name}. باقي شي واحد.",
+  "@routeAlmostDone": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeAllDone": "خلصت يا {name}. شغل ممتاز!",
+  "@routeAllDone": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeOneThingLeft": "باقي شي واحد",
+  "routeReturnPackageToDepot": "رجّع طرد {name} للمستودع",
+  "@routeReturnPackageToDepot": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeDepotAway": "{depot} · على بعد {distance}",
+  "@routeDepotAway": {
+    "placeholders": {
+      "depot": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "routeDirectionsToDepot": "الاتجاهات إلى المستودع",
+  "routeDeliveredOfTotal": "تم تسليم {done} من {total}",
+  "@routeDeliveredOfTotal": {
+    "placeholders": {
+      "done": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "routeCountDelivered": "تم تسليم {count}",
+  "@routeCountDelivered": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeCountCouldntDeliver": "تعذّر تسليم {count}",
+  "@routeCountCouldntDeliver": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeKmUnit": "كم",
+  "routeMinUnit": "د",
+  "routeDrivenToday": "مسافة القيادة اليوم",
+  "routeOnTheRoad": "وقت على الطريق",
+  "routeStopsCaps": "المحطات",
+  "routeSentForReview": "{reason} · أُرسل للمراجعة",
+  "@routeSentForReview": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "routeDone": "تم",
+  "routeSeeInHistory": "شوف في السجل",
+  "routeMinutesShort": "{n} د",
+  "@routeMinutesShort": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      }
+    }
+  },
+  "routeKmShort": "{n} كم",
+  "@routeKmShort": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      }
+    }
+  },
+  "routeArrival": "الوصول",
+  "routeThen": "بعدين",
+  "routeApprovedCaps": "تمت الموافقة",
+  "routeYoureInWelcome": "تم قبولك! أهلاً فيك في {fleet}",
+  "@routeYoureInWelcome": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeAccountActiveStartShift": "حسابك فعّال. ابدأ وردية عشان تستقبل المسارات وتشوف محطاتك على الخريطة.",
+  "routeStartShift": "ابدأ الوردية",
+  "routeCancelYourRequestTo": "تلغي طلبك لـ {fleet}؟",
+  "@routeCancelYourRequestTo": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeCancelRequestBody": "ما رح يشوفوا بياناتك بعد هلأ. بتقدر تبعت طلب جديد بأي وقت.",
+  "routeCancelRequest": "إلغاء الطلب",
+  "routeKeepMyRequest": "خلّي طلبي",
+  "routeRequestDeclinedCaps": "تم رفض الطلب",
+  "routeFleetDeclinedYou": "{fleet} رفضت طلبك",
+  "@routeFleetDeclinedYou": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeReasonFromDispatcherCaps": "السبب من مركز التحكم",
+  "routeChooseAnotherFleet": "اختار شركة ثانية",
+  "routeUpdateVehicleRetry": "حدّث المركبة وحاول من جديد",
+  "routeOffShiftCaps": "خارج الوردية",
+  "routeYoureOffShift": "أنت خارج الوردية",
+  "routeOffShiftBody": "{fleet} • الحمرا. ابدأ وردية لما تكون جاهز وبتظهر المسارات على الخريطة.",
+  "@routeOffShiftBody": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routePendingReviewCaps": "قيد المراجعة",
+  "routeRequestSentTo": "تم إرسال الطلب إلى {fleet}",
+  "@routeRequestSentTo": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeDispatcherReviewingNotify": "المسؤول عم يراجع بياناتك. رح نبلغك لحظة الموافقة.",
+  "routeTimelineSent": "أُرسل",
+  "routeTimelineReviewing": "قيد المراجعة",
+  "routeJoinAnotherFleet": "انضم لشركة ثانية",
+  "routeOnShiftCaps": "في الوردية",
+  "routeWaitingFirstRoute": "بانتظار أول مسار لك",
+  "routeDispatchAssignsRoutes": "مركز التحكم بيعيّن المسارات مع وصول الطلبات. خلّي التطبيق مفتوح وبتسمع تنبيه.",
+  "routeZeroStops": "0 محطات",
+  "routeSoFarToday": "لحد هلأ اليوم",
+  "routeAlertsOn": "التنبيهات شغّالة",
+  "routeSoundAndVibrate": "صوت واهتزاز",
+  "routeEndShift": "إنهاء الوردية",
+  "routeAskManagerNewCode": "اطلب من مديرك كود جديد",
+  "routeSendMessageToManager": "ابعت هالرسالة للي بيدير الشركة.",
+  "routeManagerMessage": "مرحبا، كود الشركة {code} على RouteX ما اشتغل معي. ممكن تبعتلي كود جديد؟ شكراً، حمزة",
+  "@routeManagerMessage": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "routeShareOnWhatsapp": "شارك عبر واتساب",
+  "routeCopyMessage": "انسخ الرسالة",
+  "routeCancel": "إلغاء",
+  "routeFindYour": "لاقي ",
+  "routeFleetWord": "شركتك",
+  "routeSearchBrowseFleets": "ابحث بالاسم أو تصفّح الشركات اللي بتشتغل حواليك. انضم لوحدة منهم عشان تبدأ تستقبل المسارات.",
+  "routeSearchFleetHint": "ابحث باسم الشركة أو المنطقة",
+  "routeFilterNearby": "القريبة",
+  "routeFilterOpenToJoin": "مفتوحة للانضمام",
+  "routeFilterAllFleets": "كل الشركات",
+  "routeRetry": "أعد المحاولة",
+  "routeNoFleetsMatch": "ما في شركات بتطابق \"{query}\"",
+  "@routeNoFleetsMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "routeTryShorterName": "جرّب اسم أقصر أو ابحث بالمنطقة. وإذا مديرك بعتلك كود، بتقدر تدخله تحت.",
+  "routeClearSearch": "مسح البحث",
+  "routeDriversCount": "{count} سائق",
+  "@routeDriversCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeActive": "فعّالة",
+  "routeActiveCaps": "فعّالة",
+  "routeGotInvite": "وصلتك دعوة من مدير الشركة؟",
+  "routeEnterFleetCode": "أدخل كود الشركة",
+  "routeRequested": "تم الطلب",
+  "routeJoin": "انضم",
+  "routeJoinFleetQ": "تنضم لـ {fleet}؟",
+  "@routeJoinFleetQ": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeNearbyFleet": "شركة قريبة",
+  "routeStatus": "الحالة",
+  "routeCompany": "الشركة",
+  "routeNetwork": "الشبكة",
+  "routeVerified": "موثّقة",
+  "routeDelivery": "توصيل",
+  "routeSharedWithFleet": "اللي بنتشارك مع الشركة",
+  "routeName": "الاسم",
+  "routeDriver": "سائق",
+  "routeVehicle": "المركبة",
+  "routeActiveVehicle": "المركبة الفعّالة",
+  "routeStoppedAccepting": "{fleet} أوقفت قبول السائقين",
+  "@routeStoppedAccepting": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeSeeOtherFleets": "شوف شركات ثانية",
+  "routeDispatcherReviewsBeforeRoutes": "المسؤول بيراجع بياناتك قبل ما تقدر تاخد مسارات. رح توصلك إشعار لما يردّوا.",
+  "routeSendJoinRequest": "أرسل طلب الانضمام",
+  "routeReasonFromDispatcher": "السبب من مركز التحكم",
+  "routeLookingForFleets": "بتدوّر على شركات بتقبل مركبتك؟",
+  "routeOtherFleetsMatch": "في 3 شركات ثانية في الحمرا بتناسب نوع مركبتك.",
+  "routeFindAnotherFleet": "لاقي شركة ثانية",
+  "routeUpdateMyVehicle": "حدّث مركبتي",
+  "routeYoureInAt": "تم قبولك في ",
+  "routeApprovedAccountActive": "حسابك فعّال. ابدأ وردية وقت ما تكون جاهز تاخد مسارات في الحمرا.",
+  "routeRequestSent": "تم إرسال الطلب",
+  "routeApprovedByDispatcher": "وافق عليه مركز التحكم",
+  "routeStartFirstShift": "ابدأ أول وردية",
+  "routeRoutesAppearOnMap": "المسارات بتظهر على خريطتك",
+  "routeJoinMoreFleetsLater": "بتقدر تنضم لشركات أكثر لاحقاً وتختار لأي وحدة بدك تشتغل كل مرة بتبدأ فيها وردية.",
+  "routeIsReviewing": "{fleet} عم تراجع بياناتك. أغلب الشركات بتردّ خلال\nيوم.",
+  "@routeIsReviewing": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeDispatcherReviewsDetails": "المسؤول بيراجع بياناتك",
+  "routeUsuallyWithin24": "عادةً خلال 24 ساعة",
+  "routeNotificationsOn": "الإشعارات شغّالة. بتقدر تسكّر التطبيق وإنت بتنتظر.",
+  "routeBrowseOtherFleets": "تصفّح شركات ثانية",
+  "routeHelp": "مساعدة",
+  "routeEnterYour": "أدخل ",
+  "routeFleetCodeWord": "كود\nشركتك",
+  "routeTypeSixCharCode": "اكتب الكود المكوّن من 6 خانات اللي بعتلك إياه\nمدير الشركة برسالة أو إيميل.",
+  "routeLettersNumbersHint": "أحرف وأرقام، بدون حساسية لحالة الأحرف",
+  "routePaste": "لصق",
+  "routeWhereFindCode": "وين ألاقي الكود؟",
+  "routeManagerCreatesCode": "مدير الشركة بيعمله من لوحة التحكم. اطلب منه يبعتلك واحد. الأكواد بتنتهي بعد 10 أيام.",
+  "routeJoinFleet": "انضم للشركة",
+  "routeTryAgain": "جرّب من جديد",
+  "routeAskManagerForNewCode": "اطلب من المدير كود جديد",
+  "routeLostYourCode": "ضاع منك الكود؟",
+  "routeStillStuck": "لسا عالقان؟",
+  "routeFindFleetInstead": "دوّر على شركة بدلاً من ذلك",
+  "routeLiveFleetNavigation": "ملاحة الأسطول المباشرة",
+  "routeActiveRoute": "المسار الحالي",
+  "routeRouteProgress": "تقدّم المسار",
+  "routeProgressLeft": "{percent}% • باقي {distance}",
+  "@routeProgressLeft": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "routeMapLayersStyle": "طبقات الخريطة ونمطها",
+  "routeMapStandard": "عادية (قياسية)",
+  "routeMapStandardSub": "خريطة قياسية",
+  "routeMapSatellite": "قمر صناعي",
+  "routeMapSatelliteSub": "صور جوية حقيقية",
+  "routeMapTerrain": "تضاريس",
+  "routeMapTerrainSub": "خريطة طبوغرافية للارتفاعات",
+  "routeShowTraffic": "إظهار طبقة الزحمة",
+  "routeCheckPackages": "فحص الطرود",
+  "routeLastStop": "المحطة الأخيرة",
+  "routeStopNofM": "المحطة {n} من {total}",
+  "@routeStopNofM": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "routeSentToCompanyForReview": "أُرسل إلى Red Sea Express للمراجعة",
+  "routeDragMapPin": "اسحب الخريطة لتحط الدبوس على الباب",
+  "routeMinutesAgo": "قبل {count} دقيقة",
+  "@routeMinutesAgo": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routePackagesToHandBack": "{count} طرود للتسليم",
+  "@routePackagesToHandBack": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routePackageToHandBack": "{count} طرد للتسليم",
+  "@routePackageToHandBack": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeNoFleetConnectionCaps": "لا يوجد ارتباط بشركة",
+  "routeNotConnectedToFleet": "لسا مش مرتبط بأي شركة",
+  "routeJoinFleetToReceive": "انضم لشركة عشان تستقبل المسارات وتشوف محطاتك على الخريطة وتبدأ التوصيل.",
+  "routeFindAFleet": "دوّر على شركة",
+  "routeOneStopAdded": "انضافت محطة وحدة. محطتك التالية ما تغيّرت.",
+  "notificationMinutes": "{minutes} دقيقة",
+  "notificationChannelOffers": "طلبات جديدة",
+  "notificationChannelOffersDesc": "طلبات تعرضها عليك الشركة مع مهلة قصيرة للرد",
+  "notificationChannelRoute": "المسار قيد التنفيذ",
+  "notificationChannelRouteDesc": "محطتك التالية أثناء تنفيذ المسار",
+  "notificationChannelUpdates": "التحديثات",
+  "notificationChannelUpdatesDesc": "الطلبات الملغاة وتغييرات المسار والمركبة ورسائل شركتك.",
+  "notificationsPageSystemOffTitle": "الإشعارات مغلقة على هذا الهاتف",
+  "notificationsPageSystemOffBody": "لن تصلك الطلبات الجديدة أو تحديثات المسار حتى تسمح بها من إعدادات هاتفك.",
+  "notificationsPageSystemOffAction": "فتح إعدادات الهاتف",
+  "routeOngoingNotificationTitle": "المحطة {stop} من {total} · {customer}",
+  "routeOngoingNotificationBody": "{address} · {minutes} دقيقة · الوصول {time}",
+  "routeOngoingNotificationOpen": "فتح",
+  "routeOngoingNotificationNavigate": "ابدأ الملاحة",
+  "joinApprovedTitle": "تم قبولك!",
+  "joinApprovedBody": "وافقت {company} على طلبك. ستظهر الطلبات الجديدة منها على شاشتك الرئيسية.",
+  "joinApprovedYourVehicle": "مركبتك",
+  "joinApprovedSetByCompany": "حددتها شركتك",
+  "joinApprovedVehicleHelp": "تحتاج مركبة مختلفة؟ تواصل مع {company} وسيحدّثونها لك.",
+  "joinApprovedYourCompany": "شركتك",
+  "joinApprovedActive": "نشط",
+  "joinApprovedGoHome": "الذهاب إلى الرئيسية",
+  "joinDeclinedBadge": "غير مقبول",
+  "joinDeclinedTitle": "{company} لم توافق على طلبك",
+  "joinDeclinedCodeUsed": "الرمز المستخدم",
+  "joinDeclinedSent": "أُرسل",
+  "joinDeclinedReviewed": "تمت المراجعة",
+  "joinDeclinedWhatNow": "ما يمكنك فعله الآن",
+  "joinDeclinedCheckCodeTitle": "تحقق من الرمز مرة أخرى",
+  "joinDeclinedCheckCodeBody": "السبب المعتاد هو خطأ في الكتابة أو رمز قديم.",
+  "joinDeclinedAnotherCompanyTitle": "انضم إلى شركة أخرى",
+  "joinDeclinedAnotherCompanyBody": "استخدم رمز أي شركة تعمل معها.",
+  "joinDeclinedAccountSavedTitle": "حسابك محفوظ",
+  "joinDeclinedAccountSavedBody": "ملفك الشخصي باقٍ، لا حاجة لملئه من جديد.",
+  "joinDeclinedDifferentCode": "الانضمام برمز مختلف",
+  "referralLinkShared": "تم مشاركة رابط الإحالة",
+  "preciseLocationRequiredTitle": "الموقع الدقيق مطلوب",
+  "preciseLocationRequiredMessage": "تتطلب منصة RouteX تتبع الموقع الدقيق للملاحة وحساب وقت الوصول بدقة وإرشادك في المسار. يرجى تفعيل الموقع الدقيق للمتابعة.",
+  "preciseLocationRequiredEnable": "تفعيل الموقع الدقيق",
+  "preciseLocationRequiredOpenSettings": "فتح الإعدادات",
+  "permLocationTitle": "تفعيل الوصول إلى الموقع",
+  "permLocationBody": "اسمح لـ RouteX باستخدام موقعك الدقيق لتوفير تتبع مباشر دقيق، وإظهار موقعك بالضبط على الخريطة، وإرشادك خلال مسارات التوصيل",
+  "permLocationButton": "السماح بالوصول إلى الموقع",
+  "permNotificationsTitle": "السماح بالإشعارات",
+  "permNotificationsBody": "اسمح بالإشعارات لتصلك تحديثات المسار المهمة، وتكليفات التوصيل، وتغييرات الوردية، وتنبيهات أسطولك.",
+  "permNotificationsButton": "السماح بالوصول إلى الإشعارات",
+  "permGalleryTitle": "السماح بالوصول إلى المعرض",
+  "permGalleryBody": "اسمح بالوصول إلى المعرض لرفع صورتك الشخصية وإرفاق صور التسليم عند الحاجة إلى إثبات التوصيل.",
+  "permGalleryButton": "السماح بالوصول إلى المعرض"
+}

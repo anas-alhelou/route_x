@@ -1,0 +1,6 @@
+- `[x]` Cleaned up `EnterFleetCodeCubit` (removed `simulateError()`, used real clipboard reading in `pasteCode()`, classified failures by failure type into l10n keys)
+- `[x]` Cleaned up `EnterFleetCodePage` (removed title tap handler calling `simulateError()`, translated error messages via l10n)
+- `[x]` Updated `RouteFleetCubit.sendJoinRequest` failure handling (stays on find-fleet screen, closes join sheet, and displays error message via state)
+- `[x]` Added localized error keys (`errInvalidOrExpiredCode`, `errSessionExpired`) to `AppLocalizations`, `AppLocalizationsEn`, `AppLocalizationsAr`, and `TranslateExtension`
+- `[x]` Added comprehensive `bloc_test` unit tests for `RouteFleetCubit` fleet search and join success/failure flows
+- `[x]` Verified static analysis (`flutter analyze`) and unit tests (`flutter test`) across the whole project with 0 issues and all tests passing

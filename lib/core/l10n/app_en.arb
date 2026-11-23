@@ -1,0 +1,2962 @@
+{
+  "@@locale": "en",
+  "letsGet": "Let's get",
+  "started": "started!",
+  "createYourAccount": "Create your account to start \ndelivering smarter.",
+  "fullName": "Full Name",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "Email",
+  "phoneNumber": "Phone Number",
+  "next": "Next",
+  "continueLabel": "Continue",
+  "signupStepYourDetails": "Your details",
+  "signupStepYourVehicle": "Your vehicle",
+  "signupStepPassword": "Password",
+  "alreadyHaveAccount": "Already have an account? ",
+  "login": "Login",
+  "rememberMe": "Remember me",
+  "enterYourFullName": "Enter your full name",
+  "enterYourFirstName": "Enter first name",
+  "enterYourLastName": "Enter last name",
+  "enterYourEmail": "Enter your email",
+  "somethingWentWrong": "Something went wrong.",
+  "driverLoginScreenTodo": "Driver Login Screen — TODO",
+  "welcomeBack": "Welcome",
+  "welcomeBackHighlight": "back.",
+  "loginSubtitle": "Sign in to continue\noptimizing your routes.",
+  "forgotPassword": "Forgot Password?",
+  "dontHaveAccount": "Don't have an account? ",
+  "signUp": "Sign Up",
+  "errPasswordRequired": "Password is required",
+  "errPasswordMismatch": "Passwords do not match",
+  "errPasswordMinLength": "Password must be at least 8 characters",
+  "errPasswordUppercase": "Include at least one uppercase letter",
+  "errPasswordLowercase": "Include at least one lowercase letter",
+  "errPasswordNumber": "Include at least one number",
+  "errPasswordSymbol": "Include at least one special character",
+  "errOtpRequired": "Verification code is required",
+  "errOtpInvalid": "Enter a valid 6-digit code",
+  "errVehicleRequired": "Vehicle type and number are required for drivers",
+  "errResetTokenRequired": "Reset token is required",
+  "errRefreshTokenRequired": "Refresh token is required",
+  "errOrderAddressRequired": "Pickup and dropoff addresses are required",
+  "errPickupLocationRequired": "Pickup location is required",
+  "errDropoffLocationRequired": "Dropoff location is required",
+  "errLoggedOut": "Please log in to continue",
+  "errUnexpectedResponse": "Something went wrong. Please try again.",
+  "errIncompleteResponse": "We couldn't complete your request. Please try again.",
+  "errNoInternetConnection": "No internet connection. Please check your network and try again.",
+  "errGoogleNotConfigured": "Google sign-in isn't available in this build yet. Please try again later.",
+  "errGoogleSignInFailed": "We couldn't sign you in with Google. Please try again.",
+  "errGoogleAuthFailed": "We couldn't complete your Google sign-in. Please try again.",
+  "errRequestTimeout": "The request took too long. Please try again.",
+  "or": "or",
+  "continueWithGoogle": "Continue with Google",
+  "driverRegistrationScreenTodo": "Driver Registration Screen — TODO",
+  "setNewPasswordScreenTodo": "Set New Password Screen — TODO",
+  "verifyCodeScreenTodo": "Verify Code Screen — TODO",
+  "onboardingHeadline1": "Deliver ",
+  "onboardingHeadline2": "More.",
+  "onboardingHeadline3": "\nDrive ",
+  "onboardingHeadline4": "Less.",
+  "onboardingSubheadline": "Smarter routes, fewer miles.\nBetter results for your business.",
+  "getStarted": "Get Started",
+  "onboarding2Headline1": "Every ",
+  "onboarding2Headline2": "stop,",
+  "onboarding2Headline3": "\nin ",
+  "onboarding2Headline4": "order.",
+  "onboarding2Subheadline": "Orders are grouped into one sorted route.\nGo online and it comes straight to you.",
+  "slideToGetStarted": "Slide to get started",
+  "appNavigationScreenTodo": "App Navigation Screen — TODO",
+  "homeNavHubTitle": "Home Screens Navigator",
+  "homeNavHubSubtitle": "Preview & navigate across all Home scenarios, states and flows",
+  "homeNavHubSearchHint": "Search screens, scenarios or keys (e.g. HM1, N01)...",
+  "homeNavCategoryAll": "All",
+  "homeNavCategoryScenarios": "Delivery Scenarios",
+  "homeNavCategoryNotifications": "Notifications",
+  "homeNavCategoryFleet": "Fleet & Joining",
+  "homeNavCategoryShell": "App Shell",
+  "homeNavScenarioHm1Title": "HM1 · Ready to Start",
+  "homeNavScenarioHm1Desc": "Assigned orders ready, driver hasn't started delivery yet",
+  "homeNavScenarioHm2Title": "HM2 · On Route",
+  "homeNavScenarioHm2Desc": "Active delivery navigation with next stop card and live ETA",
+  "homeNavScenarioHm3Title": "HM3 · All Caught Up",
+  "homeNavScenarioHm3Desc": "All orders delivered, waiting for new assigned orders",
+  "homeNavScenarioHm4Title": "HM4 · Offline Mode",
+  "homeNavScenarioHm4Desc": "No internet connection banner & offline warning state",
+  "homeNavScenarioHm5Title": "HM5 · First Day Online",
+  "homeNavScenarioHm5Desc": "New driver on duty for the first time, waiting for first orders",
+  "homeNavScenarioHm6Title": "HM6 · No Orders Today",
+  "homeNavScenarioHm6Desc": "No packages assigned to driver today",
+  "homeNavScenarioHm8Title": "HM8 · New Order (First Day)",
+  "homeNavScenarioHm8Desc": "In-app order notification overlay over first day dashboard",
+  "homeNavScenarioHm9Title": "HM9 · New Order (On Route)",
+  "homeNavScenarioHm9Desc": "In-app order notification overlay during active route navigation",
+  "homeNavScenarioHm0Title": "HM0 · Loading Skeleton",
+  "homeNavScenarioHm0Desc": "Shimmer skeleton loader placeholders while payload loads",
+  "homeNavScreenN01Title": "N01 · Notifications List",
+  "homeNavScreenN01Desc": "Populated list with New & Earlier sections and read states",
+  "homeNavScreenN02Title": "N02 · Notifications Empty",
+  "homeNavScreenN02Desc": "Empty inbox with 3D bell illustration and empty copy",
+  "homeNavScreenFindFleetTitle": "Find Fleet",
+  "homeNavScreenFindFleetDesc": "Search delivery fleets with filter chips and location pills",
+  "homeNavScreenEnterCodeTitle": "Enter Fleet Code",
+  "homeNavScreenEnterCodeDesc": "6-digit code entry with validation and status handling",
+  "homeNavScreenHomeFirstRunTitle": "Driver Home (First Run)",
+  "homeNavScreenHomeFirstRunDesc": "Get started card, fleets near you, today overview (Figma 5222:8139)",
+  "homeNavScreenMainShellTitle": "Main Layout Shell",
+  "homeNavScreenMainShellDesc": "Animated switcher with 4 tabs and bottom floating pill bar",
+  "homeNavLaunchButton": "Open Screen",
+  "homeNavScreensCount": "{count} Screens & Scenarios",
+  "@homeNavScreensCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "step2ComingSoon": "Step 2 — Coming soon",
+  "selectCountryCode": "Select Country Code",
+  "searchCountry": "Search country...",
+  "noResultsFound": "No results found",
+  "countryPalestine": "Palestine",
+  "countrySaudiArabia": "Saudi Arabia",
+  "countryEgypt": "Egypt",
+  "countryUAE": "United Arab Emirates",
+  "countryJordan": "Jordan",
+  "countryQatar": "Qatar",
+  "countryKuwait": "Kuwait",
+  "countryOman": "Oman",
+  "countryBahrain": "Bahrain",
+  "errNameRequired": "Full name is required",
+  "errNameMinLength": "Name must be at least 3 characters",
+  "errFirstNameRequired": "First name is required",
+  "errFirstNameMinLength": "First name must be at least 3 characters",
+  "errLastNameRequired": "Last name is required",
+  "errLastNameMinLength": "Last name must be at least 3 characters",
+  "errEmailRequired": "Email is required",
+  "errEmailInvalid": "Enter a valid email address",
+  "errPhoneRequired": "Phone number is required",
+  "errPhoneInvalid": "Enter a valid phone number",
+  "tellUsAboutYour": "Tell us about",
+  "vehicle": "your vehicle.",
+  "vehicleSubtitle": "This helps us match you with\nthe right deliveries. ",
+  "vehicleMotorcycle": "Motorcycle",
+  "vehicleCar": "Car",
+  "vehicleVan": "Van",
+  "vehicleTruck": "Truck",
+  "vehicleNumber": "Vehicle Plate Number",
+  "vehicleNumberHint": "Enter vehicle number",
+  "createA": "Create a",
+  "securePassword": "secure password.",
+  "password": "Password",
+  "passwordSubtitle": "Keep your account safe with\na strong password.",
+  "enterPassword": "Password",
+  "confirmPassword": "Confirm Password",
+  "passwordRequirements": "Password requirements",
+  "reqMinLength": "At least 8 characters",
+  "reqCapitalLetter": "Includes an uppercase letter",
+  "reqNumber": "Includes a number",
+  "reqSymbol": "Includes a special character",
+  "createAccount": "Create account",
+  "byCreatingAccount": "By creating an account, you agree to our \n",
+  "termsOfService": "Terms of Service",
+  "and": " and ",
+  "privacyPolicy": "Privacy Policy",
+  "verifyYourEmailTitle": "Verify your",
+  "verifyYourEmailTitleHighlight": "email.",
+  "otpSentToEmailMessage": "We've sent a 6-digit verification code to\nyour email to activate your account.",
+  "didntReceiveCode": "Didn't receive the code? ",
+  "resendCode": "Resend code",
+  "useDifferentEmail": "Use a different email",
+  "brandRoute": "Route",
+  "navHomeLabel": "Home",
+  "navRouteLabel": "Route",
+  "brandX": "X",
+  "youAreAllSet": "You're all set!",
+  "accountCreatedSuccess": "Your account has been created successfully. Welcome to RouteX!",
+  "continueToHome": "Continue",
+  "reviewYourDetailsTitle": "Review your",
+  "reviewYourDetailsHighlight": "Details!",
+  "reviewDetailsSubtext": "Make sure everything looks good before you continue.",
+  "editLabel": "Edit",
+  "vehicleTypeLabel": "VEHICLE TYPE",
+  "vehicleNumberLabel": "VEHICLE NUMBER",
+  "verifyEmailButton": "Verify email",
+  "emailOrPasswordTitle": "Email or phone",
+  "emailOrPassword": "Email or phone number",
+  "detailsReadyCaptionLine": "Your details are ready.\nVerify your email to activate your account.",
+  "reviewYour": "Review your",
+  "detailsExclamation": "Details!",
+  "verifyEmail": "Verify email",
+  "makeSureEverythingLooksGood": "Make sure everything looks good\nbefore you continue.",
+  "reviewDetailsButton": "Review details",
+  "otpCodeMismatchTitle": "The code you entered is incorrect.",
+  "otpCodeMismatchSubtitle": "Please check the code and try again",
+  "forgetPasswordTitle": "Forget your",
+  "forgetPasswordTitleHighlight": "password?",
+  "forgetPasswordSubtitle": "Enter your email address and\nwe'll send you a verification code.",
+  "sendResetLink": "Send verification code",
+  "rememberYourPassword": "Remember your password? ",
+  "emailAddressLabel": "Email address",
+  "enterYourEmailAddress": "Enter your email address",
+  "checkYourEmail": "Check your",
+  "checkYourEmailHighlight": "email.",
+  "forgotOtpSentMessage": "We've sent a 6-digit code to your email",
+  "setNewPasswordTitle": "Set a new",
+  "setNewPasswordTitleHighlight": "Password.",
+  "setNewPasswordSubtitle": "Choose a strong password to keep your account safe.",
+  "newPassword": "New Password",
+  "enterPasswordHint": "Enter password",
+  "resetPasswordButton": "Reset password",
+  "passwordResetSuccess": "Your password has been reset successfully.",
+  "verificationCodeSentMessage": "We've sent a 6-digit verification code to\nyour email to activate your account.",
+  "youreReadyTitleStart": "You're ready",
+  "youreReadyTitleEnd": "to roll!",
+  "youreAllSetSubtitle": "Your account is ready.\nexplore the app and start driving.",
+  "startDrivingLabel": "Join your company!",
+  "routeErrorTitle": "Error",
+  "routeNotFound": "Page not found or invalid arguments",
+  "editProfile": "Edit Profile",
+  "editVehicle": "Edit Vehicle",
+  "save": "Save",
+  "cancel": "Cancel",
+  "errVehicleNumberRequired": "Vehicle number is required",
+  "selectPhotoSource": "Select Photo Source",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "addPhoto": "Add photo",
+  "changePhoto": "Change photo",
+  "otpVerifiedSuccessfully": "Code verified successfully!",
+  "otpCodeResentSuccessfully": "A new code has been sent to your email.",
+  "googleVehicleTitle": "Complete your vehicle details",
+  "googleVehicleSubtitle": "We need your vehicle to finish setting up your account.",
+  "errorAlertTitle": "Something went wrong",
+  "successTitle": "Success",
+  "tryAgain": "Try again",
+  "requestTimeoutTitle": "Request timed out",
+  "noConnectionTitle": "No connection",
+  "discardChangesTitle": "Discard changes?",
+  "discardChangesMessage": "If you leave now, your edits\nwill be lost.",
+  "discard": "Discard",
+  "logOutTitle": "Log out?",
+  "logOutMessage": "You'll need to sign in again to continue using RouteX.",
+  "logOut": "Log out",
+  "confirmYourEmailTitle": "Confirm your email",
+  "confirmYourEmailMessage": "Please make sure this email is correct. We'll send a verification code to:",
+  "sendCode": "Send code",
+  "profileUpdatedTitle": "Profile updated",
+  "profileUpdatedMessage": "Your information has been\nsaved successfully.",
+  "done": "Done",
+  "sessionExpiredTitle": "Session expired",
+  "sessionExpiredMessage": "For your security, please\nsign in again.",
+  "signIn": "Sign in",
+  "enableLocationTitle": "Enable location",
+  "enableLocationMessage": "RouteX needs your location to show trips and navigation.",
+  "allowAccess": "Allow access",
+  "homeGreeting": "Welcome,",
+  "homeTodayOverview": "Today’s overview",
+  "homeOverviewStartsFirstShift": "Starts with your first shift",
+  "homeDeliveries": "Deliveries",
+  "homeDeliveriesOf": "of {target}",
+  "@homeDeliveriesOf": {
+    "placeholders": {
+      "target": {
+        "type": "int"
+      }
+    }
+  },
+  "homeDistance": "Distance",
+  "homeDistanceUnit": "km",
+  "homeTime": "Time",
+  "homeOnShift": "on shift",
+  "homeShiftHoursMinutes": "{hours}h {minutes}m",
+  "@homeShiftHoursMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "homeGetStarted": "Get started",
+  "homeJoinFleetToStart": "Join a fleet to start",
+  "homeReadyStatusDoneOf": "Ready status · {done} of {total} done",
+  "@homeReadyStatusDoneOf": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "homeStepAccount": "Account",
+  "homeStepPhone": "Phone",
+  "homeStepFleet": "Fleet",
+  "homeStepDone": "Done",
+  "homeStepToDo": "To do",
+  "homeQuickActions": "Quick actions",
+  "homeFindAFleet": "Find a fleet",
+  "homeEnterFleetCode": "Enter fleet code",
+  "homeFleetsNearYou": "Fleets near you",
+  "homeSeeAll": "See all",
+  "homeJoin": "Join",
+  "homeZoneAndDistance": "{zone} · {distance} km",
+  "@homeZoneAndDistance": {
+    "placeholders": {
+      "zone": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "errJoinFleetBeforeGoingOnline": "Join a fleet before going online.",
+  "errFleetNotFound": "That fleet is no longer available.",
+  "errInvalidOrExpiredCode": "That code is invalid or has expired.",
+  "errSessionExpired": "Your session has expired. Please log in again.",
+  "retry": "Try again",
+  "homeGoOnlineSwitch": "Go online",
+  "findFleetTitle": "Find a fleet",
+  "findFleetSubtitle": "Search by name or browse fleets operating near you. Join one to start receiving routes.",
+  "findFleetSearchHint": "Search fleet name or zone",
+  "findFleetFilterNearby": "Nearby",
+  "findFleetFilterActive": "Open to join",
+  "findFleetFilterAll": "All fleets",
+  "findFleetFilterPaused": "Paused",
+  "findFleetSectionLabel": "FLEETS NEAR YOU",
+  "findFleetResultsCount": "{count} results",
+  "@findFleetResultsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "findFleetInviteTitle": "Got an invite from your fleet manager?",
+  "findFleetInviteButton": "Enter fleet code",
+  "errFleetCodeInvalid": "This code isn't valid or has expired",
+  "findFleetCity": "Jeddah",
+  "findFleetDriversCount": "{count} drivers",
+  "@findFleetDriversCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "findFleetActiveStatus": "ACTIVE",
+  "findFleetPausedStatus": "PAUSED",
+  "enterFleetCodeTitleStart": "Enter your ",
+  "enterFleetCodeTitleEnd": "fleet code",
+  "enterFleetCodeSubtitle": "Type the 6-character code your fleet manager sent you by SMS or email.",
+  "enterFleetCodeCaption": "Letters and numbers, not case-sensitive",
+  "enterFleetCodePaste": "Paste",
+  "enterFleetCodeWhereFindTitle": "Where do I find my code?",
+  "enterFleetCodeWhereFindBody": "Your fleet manager creates it in the fleet dashboard. Ask them to send one. Codes expire after 10 days.",
+  "enterFleetCodeJoinButton": "Join fleet",
+  "enterFleetCodeLostCode": "Lost your code? ",
+  "enterFleetCodeFindFleetInstead": "Find a fleet instead",
+  "enterFleetCodeHelp": "Help",
+  "enterFleetCodeTryAgain": "Try again",
+  "enterFleetCodeAskManager": "Ask manager for a new code",
+  "enterFleetCodeStillStuck": "Still stuck? ",
+  "goOnlineSheetNoFleetTitle": "Join a fleet to go online",
+  "goOnlineSheetNoFleetBody": "Going online sends you routes from a fleet. You're one step away.",
+  "goOnlineSheetProgressAccount": "Account",
+  "goOnlineSheetProgressPhone": "Phone",
+  "goOnlineSheetProgressFleet": "Fleet",
+  "goOnlineSheetProgressDone": "Done",
+  "goOnlineSheetProgressNext": "Next",
+  "goOnlineSheetFindFleet": "Find a fleet",
+  "goOnlineSheetEnterCode": "Enter fleet code",
+  "goOnlineSheetNotNow": "Not now",
+  "goOnlineSheetPendingTitle": "Waiting for {fleetName}",
+  "@goOnlineSheetPendingTitle": {
+    "placeholders": {
+      "fleetName": {
+        "type": "String"
+      }
+    }
+  },
+  "goOnlineSheetPendingBody": "You can go online as soon as the dispatcher approves your request. We'll notify you.",
+  "goOnlineSheetRequestedToday": "Requested today, {time}",
+  "@goOnlineSheetRequestedToday": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "goOnlineSheetInReview": "In review",
+  "goOnlineSheetViewRequest": "View request",
+  "goOnlineSheetGotIt": "Got it",
+  "goOnlineSheetDeclinedTitle": "{fleetName} declined your request",
+  "@goOnlineSheetDeclinedTitle": {
+    "placeholders": {
+      "fleetName": {
+        "type": "String"
+      }
+    }
+  },
+  "goOnlineSheetDeclinedBody": "Choose another fleet, or update what they flagged and ask again.",
+  "goOnlineSheetReasonTitle": "Reason from the dispatcher",
+  "goOnlineSheetFindAnotherFleet": "Find another fleet",
+  "goOnlineSheetUpdateVehicle": "Update my vehicle",
+  "defaultDeclinedReason": "Vehicle type isn't supported. This fleet takes bikes and cars only.",
+  "notificationsTitle": "Notifications",
+  "notificationsEmptyTitle": "No notifications yet",
+  "notificationsEmptySubtitle": "Route updates, replies from fleets and messages from dispatch will show up here.",
+  "notificationsSettingsButton": "Notification settings",
+  "homeSetupDoneOf": "Setup · {done} of {total} done",
+  "@homeSetupDoneOf": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "homeStepPending": "In review",
+  "settingsTitle": "Settings",
+  "settingsVehicle": "Vehicle",
+  "settingsPlate": "Plate",
+  "settingsFleets": "Fleets",
+  "settingsQuickSettings": "Quick settings",
+  "settingsNavigation": "Navigation",
+  "settingsGoogleMaps": "Google Maps",
+  "settingsNotifications": "Notifications",
+  "settingsEnabled": "Enabled",
+  "settingsDisabled": "Disabled",
+  "settingsLanguage": "Language",
+  "settingsLanguageName": "English",
+  "settingsTheme": "Theme",
+  "settingsThemeLight": "Light",
+  "settingsMyFleets": "My fleets",
+  "settingsNoFleetJoined": "You haven't joined a fleet",
+  "settingsJoin": "Join",
+  "settingsPrivacySecurity": "Privacy & security",
+  "settingsChangePassword": "Change password",
+  "settingsLocationAccess": "Location access",
+  "settingsLocationAlways": "Always",
+  "settingsPrivacyPolicy": "Privacy policy",
+  "settingsSupport": "Support",
+  "settingsContactDispatch": "Contact dispatch",
+  "settingsContactDispatchLocked": "Unlocks when a fleet approves you",
+  "settingsHelpCenter": "Help center",
+  "settingsReportProblem": "Report a problem",
+  "settingsLogOut": "Log out",
+  "editProfileTitle": "Edit profile",
+  "editProfileSubtitle": "Fleets see this when you join",
+  "editProfilePersonalDetails": "Personal details",
+  "editProfileFullName": "Full name",
+  "editProfileFullNameHint": "Enter your full name",
+  "editProfileEmail": "Email",
+  "editProfileEmailHint": "Enter your email",
+  "editProfilePhone": "Phone number",
+  "editProfilePhoneHint": "Enter your phone number",
+  "editProfilePhoneHelper": "A new number needs a quick code check",
+  "editProfileChangeVehicle": "Change in Vehicle",
+  "editProfileSaveChanges": "Save changes",
+  "editProfileNotSaved": "Changes not saved",
+  "editProfileEmailTaken": "Already used by another account",
+  "editProfilePhoneDigits": "Enter {count} digits after {dialCode}",
+  "@editProfilePhoneDigits": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "dialCode": {
+        "type": "String"
+      }
+    }
+  },
+  "editProfileSummaryNameMissing": "the full name is missing",
+  "editProfileSummaryNameShort": "the full name is too short",
+  "editProfileSummaryEmailMissing": "the email is missing",
+  "editProfileSummaryEmailInvalid": "the email is not valid",
+  "editProfileSummaryEmailTaken": "this email is already used by another account",
+  "editProfileSummaryPhoneMissing": "the phone number is missing",
+  "editProfileSummaryPhoneShort": "the phone number is too short",
+  "editProfileSummaryPhoneLong": "the phone number is too long",
+  "editProfileSummaryPhoneInvalid": "the phone number is not valid",
+  "listSeparator": ", ",
+  "listLastSeparator": ", and ",
+  "profilePhotoTitle": "Profile photo",
+  "profilePhotoSubtitle": "Fleets and dispatch see this photo.",
+  "profilePhotoTake": "Take a photo",
+  "profilePhotoGallery": "Choose from gallery",
+  "vehiclePageSubtitle": "Fleets match orders to what you drive",
+  "vehiclePageType": "Vehicle type",
+  "vehiclePageDetails": "Details",
+  "vehiclePagePlate": "Plate number",
+  "vehiclePagePlateHint": "Enter plate number",
+  "vehiclePageCapacity": "Load capacity",
+  "vehiclePageCapacityHint": "e.g. 800",
+  "vehiclePageKg": "kg",
+  "vehiclePageCapacityHelper": "Keeps your routes within what your {vehicle} can carry",
+  "@vehiclePageCapacityHelper": {
+    "placeholders": {
+      "vehicle": {
+        "type": "String"
+      }
+    }
+  },
+  "vehiclePageCapacityInvalid": "Enter the load capacity in kg",
+  "navigationPageSubtitle": "Opens when you tap Start navigation",
+  "navigationPageApp": "Navigation app",
+  "navigationPageSoon": "(Soon)",
+  "navigationPageAvoid": "Avoid on routes",
+  "navigationPageAvoidSubtitle": "We plan around these when we can",
+  "navigationPageTolls": "Toll roads",
+  "navigationPageHighways": "Highways",
+  "navigationPageUnpaved": "Unpaved roads",
+  "notificationsPageSubtitle": "Stay informed without looking at your phone",
+  "notificationsPageAlerts": "Alerts",
+  "notificationsPageNewRoutes": "New routes",
+  "notificationsPageNewRoutesHint": "Always on while you're online",
+  "notificationsPageOrderChanges": "Order changes",
+  "notificationsPageOrderChangesHint": "Cancelled, updated or returned",
+  "notificationsPageDispatch": "Dispatch messages",
+  "notificationsPageSoundVibration": "Sound & vibration",
+  "notificationsPageSound": "Sound",
+  "notificationsPageVibrate": "Vibrate",
+  "notificationsPageQuietHours": "Quiet hours",
+  "notificationsPageQuietHoursHint": "Mutes non-urgent alerts while you're offline",
+  "notificationsPageSchedule": "Schedule",
+  "quietScheduleTitle": "Quiet hours schedule",
+  "quietScheduleSubtitle": "Non-urgent alerts stay silent in these hours. New routes still come through.",
+  "quietScheduleFrom": "From",
+  "quietScheduleTo": "To",
+  "quietScheduleRepeat": "Repeat",
+  "quietScheduleSave": "Save schedule",
+  "languagePageSubtitle": "Used across the app, including spoken directions",
+  "languagePageLtr": "Left to right",
+  "languagePageArabicRtl": "Arabic • right to left",
+  "languagePageInfo": "Switching to Arabic flips the layout right to left. Your orders and reports stay the same.",
+  "languagePageApply": "Apply language",
+  "themePageSubtitle": "Choose how RouteX looks on this phone",
+  "themeDark": "Dark",
+  "themeSystem": "System",
+  "themePageSystemHint": "System follows your phone's light or dark setting.",
+  "themePageApply": "Apply theme",
+  "myFleetsSubtitle": "Join a fleet to start getting routes",
+  "myFleetsEmptyTitle": "You haven't joined a fleet",
+  "myFleetsEmptyBody": "Ask your fleet manager for a join code, or send a request to a fleet near you.",
+  "myFleetsEnterCode": "Enter fleet code",
+  "myFleetsNearYou": "Fleets near you",
+  "myFleetsNearYouHint": "Based on where you are now",
+  "myFleetsDistanceKm": "{distance} km",
+  "@myFleetsDistanceKm": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "joinCodeTitle": "Join with code",
+  "joinCodeSubtitle": "Your fleet manager can share it with you",
+  "joinCodeFleetCode": "Fleet code",
+  "joinCodeFleetCodeHint": "6 letters or numbers",
+  "joinCodeMatches": "Code matches • {area}",
+  "@joinCodeMatches": {
+    "placeholders": {
+      "area": {
+        "type": "String"
+      }
+    }
+  },
+  "joinCodeNoMatch": "No fleet uses this code. Check it with your fleet manager.",
+  "joinCodeSend": "Send join request",
+  "joinCodeReviewNote": "The fleet reviews your request before you can get routes.",
+  "joinCodeSent": "Join request sent to {fleet}",
+  "@joinCodeSent": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "pendingSubtitle": "Your request is with the fleet",
+  "pendingBadge": "Pending",
+  "pendingSentToday": "sent today, {time}",
+  "@pendingSentToday": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "pendingSentOn": "sent {date}",
+  "@pendingSentOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "pendingStepSent": "Request sent",
+  "pendingToday": "Today, {time}",
+  "@pendingToday": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "pendingStepReviewing": "Fleet is reviewing your request",
+  "pendingStepReviewingHint": "You'll get a notification when they reply",
+  "pendingStepFirstShift": "Start your first shift",
+  "pendingStepFirstShiftHint": "Routes and orders unlock after approval",
+  "pendingDispatchLocked": "Contact dispatch unlocks once {fleet} approves you.",
+  "@pendingDispatchLocked": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "pendingCancel": "Cancel request",
+  "dispatchLockedTitle": "Contact dispatch unlocks after you join a fleet",
+  "dispatchLockedBody": "Once a fleet approves you, you can call or message their dispatch team from here.",
+  "dispatchLockedFindFleet": "Find a fleet",
+  "dispatchLockedNotNow": "Not now",
+  "changePasswordSubtitle": "Use one you don't use anywhere else",
+  "changePasswordCurrent": "Current password",
+  "changePasswordNew": "New password",
+  "changePasswordConfirm": "Confirm new password",
+  "changePasswordConfirmHint": "Type it again",
+  "changePasswordConfirmationTo": "We'll send a confirmation to",
+  "changePasswordUpdate": "Update password",
+  "changePasswordUpdated": "Password updated",
+  "passwordUpdatedSentTo": "We sent a confirmation to",
+  "passwordUpdatedNextLogin": "Use your new password next time you log in.",
+  "passwordUpdatedBack": "Back to settings",
+  "forgotPwTitle": "Forgot password",
+  "forgotPwSubtitle": "We'll send you an OTP code to reset it",
+  "forgotPwEmailHint": "Use the email on your RouteX account",
+  "forgotPwSend": "Send reset link",
+  "settingsOtpSentMessage": "We've sent a 6-digit code to your email",
+  "locationSubtitle": "Dispatch sees where you are only while you're online",
+  "locationAlwaysHint": "Keeps routes and ETAs live when the app is in the background",
+  "locationWhileUsing": "While using the app",
+  "locationWhileUsingHint": "Tracking stops when you switch to another app",
+  "locationNever": "Never",
+  "locationNeverHint": "You won't be able to go online or get routes",
+  "locationWhyTitle": "Why it's required?",
+  "locationWhyDispatch": "Shows dispatch where you are during a shift",
+  "locationWhyEta": "Keeps customer arrival times accurate",
+  "locationWhyBattery": "Sends your position as you move, not every second, to save battery",
+  "helpSubtitle": "Answers to common questions",
+  "helpSearchHint": "Search help",
+  "helpGettingStarted": "Getting started",
+  "helpDeliveries": "Deliveries",
+  "helpStillNeedHelp": "Still need help?",
+  "helpReportProblemHint": "Add details and a screenshot",
+  "helpNoResults": "No answers match your search.",
+  "helpQJoinFleet": "How do I join a fleet?",
+  "helpAJoinFleet": "Open Settings, then My fleets. Tap Join on a fleet near you, or enter the code your fleet manager gave you. Routes unlock once the fleet approves you.",
+  "helpQGoOnline": "Why can't I go online yet?",
+  "helpAGoOnline": "You can go online once a fleet approves you and location access is set to Always or While using the app.",
+  "helpQChangeVehicle": "How do I change my vehicle?",
+  "helpAChangeVehicle": "Open Settings and tap your vehicle details under your profile. Choose the vehicle type, update the plate and load capacity, then save.",
+  "helpQProofOfDelivery": "How does proof of delivery work?",
+  "helpAProofOfDelivery": "When you hand over an order, take a photo or collect the customer's signature in the app. The order is marked delivered once the proof is attached.",
+  "helpQOffline": "Can I work without internet?",
+  "helpAOffline": "Yes. Your route and orders stay on your phone, and delivery updates are sent as soon as you're back online.",
+  "helpQCustomerNotHome": "What if the customer isn't home?",
+  "helpACustomerNotHome": "Call the customer from the order. If they still don't answer, mark the delivery as failed with a reason and follow your fleet's return instructions.",
+  "reportSubtitle": "Tell us what went wrong",
+  "reportWhatAbout": "What's it about?",
+  "reportCatApp": "App not working",
+  "reportCatRoute": "Route or map",
+  "reportCatOrder": "Order or proof",
+  "reportCatAccount": "Account",
+  "reportCatOther": "Something else",
+  "reportWhatHappened": "What happened?",
+  "reportWhatHappenedHint": "Describe the problem, e.g. which order and when",
+  "reportScreenshot": "Screenshot",
+  "reportScreenshotHint": "Optional, but it helps us fix it faster",
+  "reportAdd": "Add",
+  "reportDeviceDetails": "Include device details",
+  "reportDeviceDetailsHint": "Phone model and app version",
+  "reportSend": "Send report",
+  "reportSent": "Thanks, we got your report.",
+  "reportSentTitle": "Report sent",
+  "reportSentBody": "Thanks, {name}. We'll reply by email to {email}.",
+  "@reportSentBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportReference": "Reference {reference}",
+  "@reportReference": {
+    "placeholders": {
+      "reference": {
+        "type": "String"
+      }
+    }
+  },
+  "logoutTitle": "Log out of RouteX?",
+  "logoutBody": "Anything that hasn't uploaded yet stays on this phone and uploads the next time you log in.",
+  "homeToday": "TODAY",
+  "homePercentDone": "{percent}% done",
+  "@homePercentDone": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "homeNoOrdersYet": "No orders yet",
+  "homeOfDelivered": "of {total} delivered",
+  "@homeOfDelivered": {
+    "placeholders": {
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "homeDistanceLabel": "Distance",
+  "homeOnRouteLabel": "On route",
+  "homeCouldNotDeliverLabel": "Couldn't deliver",
+  "homeUpNext": "UP NEXT",
+  "homeOrdersReadyToGo": "{count} orders ready to go",
+  "@homeOrdersReadyToGo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "homePlanFastestRoute": "We'll plan the fastest route when you start.",
+  "homeStartDelivery": "Start delivery",
+  "homeOpenRoute": "Open route",
+  "homeConnectToStartDelivery": "Connect to start delivery",
+  "homeAllCaughtUp": "You’re all caught up",
+  "homeNewOrdersFromCompany": "New orders from {company} will show up here.",
+  "@homeNewOrdersFromCompany": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "homeGreetingMorning": "Morning",
+  "homeGreetingAfternoon": "Afternoon",
+  "homeGreetingEvening": "Evening",
+  "homeGreetingWithName": "{greeting}, {name}",
+  "@homeGreetingWithName": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "homeAttentionNewOrderOffered": "1 new order offered",
+  "homeAttentionJoinsNextRoute": "It joins your next route",
+  "homeNeedsAttention": "NEEDS YOUR ATTENTION",
+  "homeYoureOffline": "You’re offline",
+  "homeOfflineDescription": "Delivery updates are saved on this phone and sync when you’re back online.",
+  "homeOnlineWithCompany": "You’re online with {company}",
+  "@homeOnlineWithCompany": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "homeWaitingFirstOrder": "Waiting for your first order",
+  "homeWaitingFirstOrderBody": "We'll notify you as soon as your company sends an order. You can keep the app closed.",
+  "homeHowYourDayWorks": "HOW YOUR DAY WORKS",
+  "homeStep1Title": "Get orders",
+  "homeStep1Desc": "New orders show up in the Orders tab.",
+  "homeStep2Title": "Accept the ones you'll deliver",
+  "homeStep2Desc": "Accepted orders join your next route.",
+  "homeStep3Title": "Start delivery",
+  "homeStep3Desc": "We plan the route and guide each stop.",
+  "homeBeforeFirstOrder": "BEFORE YOUR FIRST ORDER",
+  "homeNotificationsSetting": "Notifications",
+  "homeLocationAccess": "Location access",
+  "homeYourVehicle": "Your vehicle",
+  "homeStatusOn": "✓ On",
+  "homeStatusAlways": "✓ Always",
+  "homeStatusToyotaHiace": "Toyota Hiace",
+  "homeInAppNewOrderOffered": "New order offered",
+  "homeInAppNow": "now",
+  "homeReview": "Review",
+  "notificationsMarkAllRead": "Mark all read",
+  "notificationsSectionNew": "New",
+  "notificationsSectionEarlier": "Earlier",
+  "notificationsEmptyDesc": "Route updates, replies from fleets and messages from dispatch will show up here.",
+  "notifNewOrderOfferedTitle": "New order offered",
+  "notifNewOrderOfferedBody": "Ahmed Ali · Al Rawdah, Jeddah",
+  "notifTime2m": "2m",
+  "notifOrderCancelledTitle": "Order cancelled",
+  "notifOrderCancelledBody": "Red Sea Express cancelled #RX-1035",
+  "notifTime1h": "1h",
+  "notifRouteStartedTitle": "Route started",
+  "notifRouteStartedBody": "2 of 3 orders are on your route. 1 was sent for review.",
+  "notifTimeYesterday": "Yesterday",
+  "notifVehicleUpdatedTitle": "Vehicle updated",
+  "notifVehicleUpdatedBody": "Your company set your vehicle to Toyota Hiace · PAL-99488",
+  "notifTime2d": "2d",
+  "notifYoureApprovedTitle": "You're approved",
+  "notifYoureApprovedBody": "Red Sea Express approved your request. Welcome aboard!",
+  "notifTime3d": "3d",
+  "joinCompanyTitleStart": "Join your ",
+  "joinCompanyTitleEnd": "company.",
+  "joinCompanySubtitle": "Enter the 6-character code your company gave you. They'll review your request before you can take orders.",
+  "joinCompanyCodeCaption": "Letters and numbers, not case-sensitive",
+  "joinCompanyPaste": "Paste",
+  "joinCompanyWhereFindTitle": "Where do I find my code?",
+  "joinCompanyWhereFindBody": "Ask your company manager. They can copy it from the RouteX dashboard and send it to you.",
+  "joinCompanyContinue": "Continue",
+  "joinCompanyInvalidCode": "We couldn't find a company with this code. Check it and try again.",
+  "joinCompanyCodeDisabled": "This code is turned off. Ask your company for a new one.",
+  "confirmCompanyTitleStart": "Is this your ",
+  "confirmCompanyTitleEnd": "company?",
+  "confirmCompanySubtitle": "Make sure it's the company you work with before sending your request.",
+  "confirmCompanyCodeLabel": "Company code · {code}",
+  "@confirmCompanyCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmCompanyWhatHappensNext": "What happens next",
+  "confirmCompanyStep1": "{company} gets your request",
+  "@confirmCompanyStep1": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmCompanyStep2": "They review it and add your vehicle",
+  "confirmCompanyStep3": "Once approved, you start getting orders",
+  "confirmCompanyPrivacyNotice": "{company} will see your name, email and phone number.",
+  "@confirmCompanyPrivacyNotice": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmCompanySendRequest": "Send request",
+  "requestTakingLonger": "This is taking longer than usual. The server may be waking up, please keep waiting.",
+  "confirmCompanyNotMyCompany": "Not my company",
+  "underReviewGreeting": "Hi, {name}",
+  "@underReviewGreeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "underReviewDriverAccount": "Driver account",
+  "underReviewPullDown": "Pull down to check for updates",
+  "underReviewChecking": "Checking for updates...",
+  "underReviewBadge": "Under review",
+  "underReviewWaitingFor": "Waiting for {company}",
+  "@underReviewWaitingFor": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "underReviewWaitingBody": "They're reviewing your request. We'll notify you as soon as they decide.",
+  "underReviewYourRequest": "Your request",
+  "underReviewStepSent": "Request sent",
+  "underReviewStepSentTime": "Today, 10:24 AM",
+  "underReviewStepReview": "Company review",
+  "underReviewStepInProgress": "In progress",
+  "underReviewStepOrders": "Start getting orders",
+  "underReviewContactSupport": "Contact support",
+  "underReviewCancelRequest": "Cancel request",
+  "underReviewCancelDialogTitle": "Cancel request?",
+  "underReviewCancelDialogMessage": "Are you sure you want to cancel your request to join {company}?",
+  "@underReviewCancelDialogMessage": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "underReviewKeepRequest": "Keep request",
+  "underReviewCancelSheetTitle": "Cancel your request?",
+  "underReviewCancelSheetMessage": "{company} won't see your request anymore. You can join again later with a code.",
+  "@underReviewCancelSheetMessage": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "underReviewCancelSheetConfirm": "Yes, cancel request",
+  "underReviewCancelSheetKeep": "Keep my request",
+  "ordersTitle": "Orders",
+  "ordersSegmentOrders": "Orders",
+  "ordersSegmentHistory": "History",
+  "ordersSearchLabel": "Search orders",
+  "ordersNewOrdersTitle": "{count, plural, =1{1 new order} other{{count} new orders}}",
+  "@ordersNewOrdersTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersNewOrdersSubtitle": "Added to tomorrow by dispatch",
+  "ordersReview": "Review",
+  "ordersSectionToday": "TODAY",
+  "ordersSectionUpcoming": "UPCOMING",
+  "ordersTodaySummary": "{count} left · done by {time}",
+  "@ordersTodaySummary": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersOnTheWay": "On the way",
+  "ordersDeliveredToday": "{count} delivered today",
+  "@ordersDeliveredToday": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersSeeThemInHistory": "See them in History",
+  "ordersDayOrdersCount": "{count, plural, =1{1 order} other{{count} orders}}",
+  "@ordersDayOrdersCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersTodayEmpty": "Nothing left for today",
+  "ordersUpcomingEmpty": "No scheduled days yet",
+  "errOrdersLoadFailed": "We couldn’t load your orders. Pull down to try again.",
+  "orderStatusToDo": "To do",
+  "orderStopOfTotal": "Stop {current} of {total} · Today",
+  "@orderStopOfTotal": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "orderActionCall": "Call",
+  "orderActionMessage": "Message",
+  "orderActionNavigate": "Navigate",
+  "orderActionUnavailable": "Couldn't open that app on this phone.",
+  "orderSectionAddress": "ADDRESS",
+  "orderGateCode": "Gate code",
+  "orderSectionDeliveryWindow": "DELIVERY WINDOW",
+  "orderEtaOnTime": "ETA {time} · on time",
+  "@orderEtaOnTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "orderEtaLate": "ETA {time} · running late",
+  "@orderEtaLate": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "orderSectionPackages": "PACKAGES",
+  "orderPackagesCount": "{count, plural, =1{1 package} other{{count} packages}}",
+  "@orderPackagesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "orderPackagesScanned": "{scanned} of {total} scanned",
+  "@orderPackagesScanned": {
+    "placeholders": {
+      "scanned": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "orderRequirementSignature": "Signature needed",
+  "orderRequirementPhoto": "Photo on delivery",
+  "orderSectionDispatchNote": "NOTE FROM DISPATCH",
+  "orderMessageDispatch": "Message dispatch about this order",
+  "errOrderDetailLoadFailed": "We couldn’t load this order. Go back and try again.",
+  "ordersCancelledTitle": "{name}’s order was cancelled",
+  "@ordersCancelledTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCancelledBody": "Dispatch cancelled #{code} at {time}. Keep the package in your van and hand it back at the depot.",
+  "@ordersCancelledBody": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCancelledOk": "OK",
+  "ordersStatusCancelled": "Cancelled",
+  "ordersReturnToDepot": "return to depot",
+  "searchCancel": "Cancel",
+  "searchScanPackage": "Scan a package",
+  "searchScopeAll": "All",
+  "searchScopeToday": "Today",
+  "searchScopeUpcoming": "Upcoming",
+  "searchResultsCount": "{count, plural, =1{1 RESULT} other{{count} RESULTS}}",
+  "@searchResultsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "searchNewBadge": "New",
+  "searchNoResults": "No orders match “{query}”",
+  "@searchNoResults": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "searchHelp": "Search by name, street, order number or the last 4 digits of the phone. Tap the box icon to scan a package.",
+  "searchNoResultsHint": "Check the spelling, or try a street name or order number. Finished orders are in History.",
+  "searchScanInstead": "Scan a package instead",
+  "ordersEmptyTitle": "No orders right now",
+  "ordersEmptyMessageFleet": "When {fleet} assigns you orders, they’ll show up here and we’ll send you a notification.",
+  "@ordersEmptyMessageFleet": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersEmptyMessage": "When dispatch assigns you orders, they’ll show up here and we’ll send you a notification.",
+  "ordersSeePastOrders": "See past orders",
+  "ordersOfflineNotice": "Showing saved orders · Updated {time}",
+  "@ordersOfflineNotice": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersConnectionLostTitle": "Couldn’t load new orders",
+  "ordersConnectionLostMessage": "Showing what’s saved on this phone",
+  "ordersTryAgain": "Try again",
+  "ordersLoadFailedTitle": "Couldn’t load your orders",
+  "ordersLoadFailedMessage": "Check your signal and try again. If it keeps happening, call dispatch.",
+  "ordersArrivedOnDay": "{count, plural, =1{1 order added to {day}} other{{count} orders added to {day}}}",
+  "@ordersArrivedOnDay": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "day": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersArrived": "{count, plural, =1{1 new order added} other{{count} new orders added}}",
+  "@ordersArrived": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDayNewCount": "{count} new",
+  "@ordersDayNewCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "orderMinutesAway": "{minutes, plural, =1{1 min away} other{{minutes} min away}}",
+  "@orderMinutesAway": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "historyPeriodToday": "Today",
+  "historyPeriodWeek": "Week",
+  "historyPeriodMonth": "Month",
+  "historyHeading": "{period, select, today{TODAY} week{THIS WEEK} month{THIS MONTH} other{}}",
+  "@historyHeading": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDeliveriesUnit": "{count, plural, =1{delivery} other{deliveries}}",
+  "@historyDeliveriesUnit": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyBusier": "{period, select, today{A bit busier than your usual day.} week{A bit busier than your usual week.} month{A bit busier than your usual month.} other{}}",
+  "@historyBusier": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyUsual": "{period, select, today{About your usual day.} week{About your usual week.} month{About your usual month.} other{}}",
+  "@historyUsual": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyQuieter": "{period, select, today{Quieter than your usual day.} week{Quieter than your usual week.} month{Quieter than your usual month.} other{}}",
+  "@historyQuieter": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyPercent": "{value}%",
+  "@historyPercent": {
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "historyKm": "{km} km",
+  "@historyKm": {
+    "placeholders": {
+      "km": {
+        "type": "int"
+      }
+    }
+  },
+  "historyDuration": "{hours}h {minutes}m",
+  "@historyDuration": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "String"
+      }
+    }
+  },
+  "historyStatDelivered": "Delivered",
+  "historyStatDriven": "Driven",
+  "historyStatOnTheRoad": "On the road",
+  "historyCouldNotDeliver": "{count} couldn’t deliver",
+  "@historyCouldNotDeliver": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyMostCommon": "Most common: {reason}",
+  "@historyMostCommon": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "historyReasonNoAnswer": "customer not answering",
+  "historyReasonAddress": "address not found",
+  "historyReasonRefused": "customer refused",
+  "historySectionDays": "DAYS",
+  "historyDeliveredSoFar": "{count} delivered so far",
+  "@historyDeliveredSoFar": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyDeliveredOfTotal": "{delivered} of {total} delivered",
+  "@historyDeliveredOfTotal": {
+    "placeholders": {
+      "delivered": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "historyDayOff": "Day off",
+  "historyInReview": "{count} in review",
+  "@historyInReview": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyDetailTitle": "{period, select, today{Today} week{This week} month{This month} other{}}",
+  "@historyDetailTitle": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDetailMore": "You delivered {orders}, {diff} more than your usual {period, select, today{day} week{week} month{month} other{}}.",
+  "@historyDetailMore": {
+    "placeholders": {
+      "orders": {
+        "type": "String"
+      },
+      "diff": {
+        "type": "int"
+      },
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDetailFewer": "You delivered {orders}, {diff} fewer than your usual {period, select, today{day} week{week} month{month} other{}}.",
+  "@historyDetailFewer": {
+    "placeholders": {
+      "orders": {
+        "type": "String"
+      },
+      "diff": {
+        "type": "int"
+      },
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDetailSame": "You delivered {orders}, the same as your usual {period, select, today{day} week{week} month{month} other{}}.",
+  "@historyDetailSame": {
+    "placeholders": {
+      "orders": {
+        "type": "String"
+      },
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDeliveredUnitShort": "delivered",
+  "historyUsualPerBar": "{period, select, today{Your usual for this time: {value}} week{Your usual day: {value}} month{Your usual week: {value}} other{}}",
+  "@historyUsualPerBar": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      },
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDeliveredOfAssigned": "{delivered} of {assigned} orders. Cancelled orders don’t count.",
+  "@historyDeliveredOfAssigned": {
+    "placeholders": {
+      "delivered": {
+        "type": "int"
+      },
+      "assigned": {
+        "type": "int"
+      }
+    }
+  },
+  "historyDriving": "{duration} driving",
+  "@historyDriving": {
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "historyAtStops": "{duration} at stops",
+  "@historyAtStops": {
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDistanceTitle": "Distance",
+  "historyKmPerDay": "About {km} km a day you worked",
+  "@historyKmPerDay": {
+    "placeholders": {
+      "km": {
+        "type": "int"
+      }
+    }
+  },
+  "historyCouldNotDeliverTitle": "Couldn’t deliver",
+  "historyPrivacyFleet": "Only you and {fleet} dispatch can see these numbers.",
+  "@historyPrivacyFleet": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "historyPrivacy": "Only you and dispatch can see these numbers.",
+  "historySectionStops": "STOPS",
+  "historyOfTotal": "{delivered} of {total}",
+  "@historyOfTotal": {
+    "placeholders": {
+      "delivered": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "historyStopInReview": "In review",
+  "historyStopOfTotal": "Stop {n} of {total}",
+  "@historyStopOfTotal": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "historyStopNotDelivered": "Not delivered",
+  "historyFailedInReview": "{reason}. Dispatch is checking it, nothing to do for now.",
+  "@historyFailedInReview": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "historyFailedClosed": "{reason}.",
+  "@historyFailedClosed": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "historyDeliveredAt": "Handed over at {time}.",
+  "@historyDeliveredAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "historyWhatHappened": "WHAT HAPPENED",
+  "historyEventArrived": "Arrived",
+  "historyEventArrivedDetail": "GPS: {meters} m from the address",
+  "@historyEventArrivedDetail": {
+    "placeholders": {
+      "meters": {
+        "type": "int"
+      }
+    }
+  },
+  "historyEventCalled": "Called the customer",
+  "historyEventCalledAgain": "Called again",
+  "historyEventNoAnswer": "No answer",
+  "historyEventAnswered": "Answered",
+  "historyEventWaited": "waited {minutes} min",
+  "@historyEventWaited": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "historyEventMarkedFailed": "Marked couldn’t deliver",
+  "historyEventReason": "Reason: {reason}",
+  "@historyEventReason": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "historyEventPhoto": "Photo taken",
+  "historyEventDelivered": "Marked delivered",
+  "historyEventReturned": "Package handed back at depot",
+  "historyClosedPrivacy": "Customer details are hidden once a stop is closed.",
+  "historyReportIssue": "Report an issue with this stop",
+  "reportIssueTitle": "What’s wrong with this stop?",
+  "reportIssueStatusWrong": "The status is wrong",
+  "reportIssueNotInControl": "It wasn’t in my control",
+  "reportIssueTimesWrong": "The times are wrong",
+  "reportIssueOther": "Something else",
+  "reportIssueNoteHint": "Add details for dispatch (optional)",
+  "reportIssueNoteHintRequired": "Tell dispatch what happened",
+  "reportIssueSend": "Send to dispatch",
+  "reportIssueFailed": "Couldn’t send. Check your signal and try again.",
+  "historyIssueSentTitle": "Issue sent to dispatch",
+  "historyIssueSentBody": "You’ll get their reply in Notifications.",
+  "historyIssueSentToast": "Sent. Thanks for flagging it.",
+  "historyProofTitle": "PROOF OF DELIVERY",
+  "historyProofPhoto": "Photo",
+  "historyProofSignature": "Signature",
+  "historyProofDistance": "{meters} m away",
+  "@historyProofDistance": {
+    "placeholders": {
+      "meters": {
+        "type": "int"
+      }
+    }
+  },
+  "historyHandoverCustomer": "Handed to the customer at the door.",
+  "historyHandoverReception": "Left with reception.",
+  "historyHandoverGuard": "Handed to the building guard.",
+  "historyEventSigned": "Signed by the customer",
+  "historyNotEnoughData": "Not enough data yet",
+  "historyNotEnoughDataBody": "{period, select, today{After your first few deliveries you’ll see your day here, compared with your usual day.} week{After your first few deliveries you’ll see your week here, compared with your usual week.} month{After your first few deliveries you’ll see your month here, compared with your usual month.} other{}}",
+  "@historyNotEnoughDataBody": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historyEmptyDaysTitle": "Your finished stops will show up here",
+  "historyEmptyDaysBody": "Each day gets its own record you can open later.",
+  "historyMonthComparison": "{comparison, select, busier{A bit busier than your usual month so far.} usual{About the same as your usual month so far.} quieter{Quieter than your usual month so far.} other{}}",
+  "@historyMonthComparison": {
+    "placeholders": {
+      "comparison": {
+        "type": "String"
+      }
+    }
+  },
+  "historyWorthALook": "Worth a look",
+  "historyDeliveredBelowUsual": "Delivered is at {percent}%, a little under your usual {usual}%.",
+  "@historyDeliveredBelowUsual": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      },
+      "usual": {
+        "type": "int"
+      }
+    }
+  },
+  "historyMostMissesThisMonth": "Most misses this month: {reason} ({count}).",
+  "@historyMostMissesThisMonth": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyMissTip": "{reason, select, customerNotAnswering{Calling before you arrive can help.} addressNotFound{Checking the pin before you set off can help.} other{}}",
+  "@historyMissTip": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "historySectionWeeks": "WEEKS",
+  "historyThisWeekRange": "This week · {range}",
+  "@historyThisWeekRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "historyCountDelivered": "{count} delivered",
+  "@historyCountDelivered": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyOfflineNotice": "Showing saved history · Updated {time}",
+  "@historyOfflineNotice": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "historyIncludesUnsynced": "{count, plural, =1{Includes 1 stop not synced yet} other{Includes {count} stops not synced yet}}",
+  "@historyIncludesUnsynced": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyWaitingToSync": "{count, plural, =1{1 update waiting to sync} other{{count} updates waiting to sync}}",
+  "@historyWaitingToSync": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "historyWaitingToSyncBody": "{count, plural, =1{Saved on this phone. It’ll upload on its own.} other{Saved on this phone. They’ll upload on their own.}}",
+  "@historyWaitingToSyncBody": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "syncTitle": "Waiting to sync",
+  "syncSubtitle": "These are saved on your phone and will upload by themselves when you have signal.",
+  "syncWaiting": "Waiting",
+  "syncDeliveredAt": "Delivered {time}",
+  "@syncDeliveredAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "syncFailedAt": "Couldn’t deliver {time}",
+  "@syncFailedAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "syncPartPhoto": "photo",
+  "syncPartSignature": "signature",
+  "syncPartStatus": "status",
+  "syncPartsJoin": "{rest} and {last}",
+  "@syncPartsJoin": {
+    "placeholders": {
+      "rest": {
+        "type": "String"
+      },
+      "last": {
+        "type": "String"
+      }
+    }
+  },
+  "syncKeepAppWarning": "Don’t sign out or delete the app until these are synced, or they’ll be lost.",
+  "syncNow": "Sync now",
+  "syncNoSignal": "No signal yet. They’ll upload once you’re back online.",
+  "syncAllUploaded": "Everything is uploaded.",
+  "historySummaryFailedTitle": "{period, select, today{Today’s summary didn’t load} week{This week’s summary didn’t load} month{This month’s summary didn’t load} other{}}",
+  "@historySummaryFailedTitle": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "historySummaryFailedBody": "{period, select, month{Your weeks below are up to date.} other{Your days below are up to date.}}",
+  "@historySummaryFailedBody": {
+    "placeholders": {
+      "period": {
+        "type": "String"
+      }
+    }
+  },
+  "orderOfferNotificationAppLabel": "ROUTEX · NEW ORDER · NOW",
+  "orderOfferNotificationGroupAppLabel": "ROUTEX · {count} NEW ORDERS · NOW",
+  "@orderOfferNotificationGroupAppLabel": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "orderOfferNotificationSingleTitle": "New order: {customer}, {area}",
+  "@orderOfferNotificationSingleTitle": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      },
+      "area": {
+        "type": "String"
+      }
+    }
+  },
+  "orderOfferNotificationGroupTitle": "{count} new orders for tomorrow",
+  "@orderOfferNotificationGroupTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "orderOfferNotificationDetails": "{packages, plural, =1{1 package} other{{packages} packages}} · {distance} to your route · answer in {deadline}",
+  "@orderOfferNotificationDetails": {
+    "placeholders": {
+      "packages": {
+        "type": "int"
+      },
+      "distance": {
+        "type": "String"
+      },
+      "deadline": {
+        "type": "String"
+      }
+    }
+  },
+  "orderOfferNotificationGroupDetails": "{areas} · {distance} · answer in {deadline}",
+  "@orderOfferNotificationGroupDetails": {
+    "placeholders": {
+      "areas": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      },
+      "deadline": {
+        "type": "String"
+      }
+    }
+  },
+  "homeOrderOfferTitle": "{count} new orders",
+  "@homeOrderOfferTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "homeOrderOfferSubtitle": "{fleet} · answer in {deadline}",
+  "@homeOrderOfferSubtitle": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      },
+      "deadline": {
+        "type": "String"
+      }
+    }
+  },
+  "homeOrderOfferView": "View",
+  "offerOneOrderTitle": "Orders",
+  "offerOneOrderCountdown": "{time} left",
+  "@offerOneOrderCountdown": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "offerOneOrderNewFromFleet": "New order · {fleet}",
+  "@offerOneOrderNewFromFleet": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerOneOrderTomorrow": "Tomorrow",
+  "offerOneOrderRouteDistance": "{distance} · +{minutes} min to your route",
+  "@offerOneOrderRouteDistance": {
+    "placeholders": {
+      "distance": {
+        "type": "String"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "offerOneOrderAddress": "Address",
+  "offerOneOrderDelivery": "Deliver {window}",
+  "@offerOneOrderDelivery": {
+    "placeholders": {
+      "window": {
+        "type": "String"
+      }
+    }
+  },
+  "offerOneOrderFitsAfterStop": "Fits after stop {stop} on your route",
+  "@offerOneOrderFitsAfterStop": {
+    "placeholders": {
+      "stop": {
+        "type": "int"
+      }
+    }
+  },
+  "offerOneOrderPackages": "{count, plural, =1{1 package} other{{count} packages}}",
+  "@offerOneOrderPackages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offerOneOrderSignatureNeeded": "Signature needed at the door",
+  "offerOneOrderCompanyNote": "Note from your company",
+  "offerOneOrderNoAnswer": "If you don’t answer, the order goes back to {fleet}.",
+  "@offerOneOrderNoAnswer": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerOneOrderDecline": "Decline",
+  "offerOneOrderAccept": "Accept order",
+  "orderOfferNotificationAccept": "Accept",
+  "orderOfferNotificationDecline": "Decline",
+  "orderOfferNotificationViewOrders": "View orders",
+  "historyRetry": "Retry",
+  "offerTimesUp": "Time’s up",
+  "offerNoLongerAvailable": "No longer available",
+  "offerGroupTitle": "{count, plural, =1{1 new order} other{{count} new orders}}",
+  "@offerGroupTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offerGroupSubtitle": "For {day}. Pick the ones you can take.",
+  "@offerGroupSubtitle": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      }
+    }
+  },
+  "offerStopsAdded": "{count, plural, =1{stop added} other{stops added}}",
+  "@offerStopsAdded": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offerToYourRoute": "to your route",
+  "offerDriving": "driving",
+  "offerKmDelta": "+{km} km",
+  "@offerKmDelta": {
+    "placeholders": {
+      "km": {
+        "type": "String"
+      }
+    }
+  },
+  "offerMinutesDelta": "+{minutes} min",
+  "@offerMinutesDelta": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "offerRowTitle": "{name} · #{code}",
+  "@offerRowTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "offerRowSubtitle": "{area} · {window}",
+  "@offerRowSubtitle": {
+    "placeholders": {
+      "area": {
+        "type": "String"
+      },
+      "window": {
+        "type": "String"
+      }
+    }
+  },
+  "offerSkipping": "Skipping",
+  "offerSkipHint": "Tap an order to leave it out. Your company sees which ones you skipped.",
+  "offerGroupNoAnswer": "If you don’t answer, all {count} go back to {fleet}.",
+  "@offerGroupNoAnswer": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerDeclineAll": "Decline all",
+  "offerAcceptAll": "Accept all {count}",
+  "@offerAcceptAll": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offerAcceptSome": "Accept {accepted}, skip {skipped}",
+  "@offerAcceptSome": {
+    "placeholders": {
+      "accepted": {
+        "type": "int"
+      },
+      "skipped": {
+        "type": "int"
+      }
+    }
+  },
+  "offerDeclineTitle": "Why are you declining?",
+  "offerReasonVanFull": "My van is full",
+  "offerReasonOutsideArea": "It’s outside my area",
+  "offerReasonShiftEnds": "My shift ends before then",
+  "offerReasonOther": "Something else",
+  "offerDeclineNotice": "{fleet} will offer the order to another driver.",
+  "@offerDeclineNotice": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerDeclineOrder": "Decline order",
+  "offerKeepOrder": "Keep the order",
+  "offerAcceptedTitle": "Added to your route",
+  "offerAcceptedOne": "{name} is now stop {stop} of {total}. We re-planned the route so you still finish by {time}.",
+  "@offerAcceptedOne": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "stop": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "offerAcceptedMany": "{count} orders added, from stop {stop} of {total}. We re-planned the route so you still finish by {time}.",
+  "@offerAcceptedMany": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "stop": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "offerStopsTomorrow": "Stops tomorrow",
+  "offerDistance": "Distance",
+  "offerDoneBy": "Done by",
+  "offerKm": "{km} km",
+  "@offerKm": {
+    "placeholders": {
+      "km": {
+        "type": "String"
+      }
+    }
+  },
+  "offerSeeRoute": "See tomorrow’s route",
+  "offerBackToOrders": "Back to orders",
+  "offerDeclinedTitle": "{count, plural, =1{Order declined} other{Orders declined}}",
+  "@offerDeclinedTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offerDeclinedBody": "{count, plural, =1{{fleet} will give it to another driver.} other{{fleet} will give them to another driver.}}",
+  "@offerDeclinedBody": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerUndo": "Undo",
+  "offerExpiredTitle": "This offer expired",
+  "offerExpiredBody": "You didn’t answer in {minutes} minutes, so it went back to {fleet}. Nothing changed on your route.",
+  "@offerExpiredBody": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      },
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerTakenBackTitle": "{fleet} took this order back",
+  "@offerTakenBackTitle": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "offerTakenBackBody": "They gave it to another driver before you answered. Nothing changed on your route.",
+  "offerOfflineAcceptTitle": "Couldn’t accept. You’re offline.",
+  "offerOfflineDeclineTitle": "Couldn’t decline. You’re offline.",
+  "offerOfflineBody": "The offer stays open while the timer runs.",
+  "offerFailedTitle": "Couldn’t send your answer.",
+  "offerFailedBody": "Try again before the timer runs out.",
+  "offersWaitingTitle": "{count, plural, =1{1 order waiting for you} other{{count} orders waiting for you}}",
+  "@offersWaitingTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offersWaitingBody": "Answer in {time} or they go back",
+  "@offersWaitingBody": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "offersView": "View",
+  "editProfileFirstName": "First name",
+  "editProfileFirstNameHint": "Enter your first name",
+  "editProfileLastName": "Last name",
+  "editProfileLastNameHint": "Enter your last name",
+  "editProfileSummaryFirstNameMissing": "the first name is missing",
+  "editProfileSummaryFirstNameShort": "the first name is too short",
+  "editProfileSummaryLastNameMissing": "the last name is missing",
+  "editProfileSummaryLastNameShort": "the last name is too short",
+  "editProfileCompanySees": "{company} sees these details",
+  "@editProfileCompanySees": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "editProfileSetByCompany": "Set by your company",
+  "profilePhotoCompanySees": "Your company sees this photo.",
+  "vehicleManagedBy": "Managed by {company}",
+  "@vehicleManagedBy": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "vehicleManagedByYourCompany": "Managed by your company",
+  "vehicleCompanyManages": "Your company manages your vehicle. Contact them if anything needs to change.",
+  "vehicleType": "Type",
+  "vehicleColour": "Colour",
+  "navigationPageSubtitleStop": "Opens when you tap Navigate on a stop",
+  "editProfileYourCompanySees": "Your company sees these details",
+  "settingsCompany": "Company",
+  "settingsCompanyActiveJoined": "Active · Joined {date}",
+  "@settingsCompanyActiveJoined": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsCompanyActive": "Active",
+  "myCompanyTitle": "My company",
+  "myCompanySubtitle": "Who you deliver for",
+  "myCompanyJoined": "Joined",
+  "myCompanyCode": "Company code",
+  "myCompanyVehicle": "Your vehicle",
+  "myCompanyCall": "Call",
+  "myCompanyEmail": "Email",
+  "myCompanyCantOpen": "Couldn't open this on your phone.",
+  "settingsContactCompany": "Contact your company",
+  "settingsContactCompanyHint": "Call or message {company}",
+  "@settingsContactCompanyHint": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsContactCompanyHintFallback": "Call or message your company",
+  "contactCompanyTitle": "Contact {company}",
+  "@contactCompanyTitle": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "contactCompanyBody": "For questions about orders, your vehicle or your account.",
+  "routeYouveArrived": "You've arrived",
+  "routeYouveArrivedCaps": "YOU'VE ARRIVED",
+  "routeOpeningStopIn3s": "Opening the stop in 3 s",
+  "routeNotHereYet": "Not here yet",
+  "routeOpenStop": "Open stop",
+  "routeSignRefused": "They refused to sign",
+  "routeSignHandsFull": "Hands are full or they can't use the phone",
+  "routeSignGuard": "Left with the building guard",
+  "routeSignOther": "Something else",
+  "routeWhyCantSign": "Why can't they sign?",
+  "routeMarkDeliveredPhotoOnly": "Mark delivered with photo only",
+  "routeBackToSignature": "Back to signature",
+  "routeBeforeYouGo": "BEFORE YOU GO",
+  "routeAllPackagesInVan": "Are all {total} packages in the van?",
+  "@routeAllPackagesInVan": {
+    "placeholders": {
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "routeTapEachOrScan": "Tap each one or scan its label.",
+  "routeScanLabelsInstead": "Scan labels instead",
+  "routeStartRoute": "Start route",
+  "routeCheckedOf": "{checked} of {total} checked",
+  "@routeCheckedOf": {
+    "placeholders": {
+      "checked": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "routePackageMissing": "A package is missing",
+  "routeNoRouteRightNow": "No route right now",
+  "routeNoRouteDesc": "Accept orders, then tap Start delivery. Your route appears here.",
+  "routeSeeMyOrders": "See my orders",
+  "routeTurnOnLocation": "Turn on location to start",
+  "routeLocationWhy": "Red Sea Express sees your location only while you’re on a route. It’s how we guide you and how they know orders are on the way.",
+  "routeAllowLocation": "Allow location",
+  "routeNotNow": "Not now",
+  "routeReturningToDepot": "RETURNING TO DEPOT",
+  "routeImAtDepot": "I'm at the depot",
+  "routeUpdatedBy": "Route updated by {company}",
+  "@routeUpdatedBy": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "routeOk": "OK",
+  "routeViewWhenStopped": "View when stopped",
+  "routeFindingNewWay": "Finding a new way",
+  "routeLeftRoute": "You left the route. We're updating directions to {customer}.",
+  "@routeLeftRoute": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      }
+    }
+  },
+  "routeWeakGps": "Weak GPS signal",
+  "routeWeakGpsBody": "Your position may be off for a moment. Keep driving safely.",
+  "routeOffline": "You're offline",
+  "routeOfflineBody": "Keep going. 1 update is saved and will send when you're back online.",
+  "routeStopMovedToEnd": "{customer} moved to the end of your route",
+  "@routeStopMovedToEnd": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      }
+    }
+  },
+  "routeUndo": "Undo",
+  "routeDelivered": "Delivered",
+  "routeDeliveredTo": "Delivered · {customer}",
+  "@routeDeliveredTo": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      }
+    }
+  },
+  "routeEndRouteNowQ": "End route now?",
+  "routeEndRouteWarning": "You still have {count} stops. Their orders go back to Red Sea Express so they can be reassigned. This can't be undone.",
+  "@routeEndRouteWarning": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeKeepDelivering": "Keep delivering",
+  "routeEndRoute": "End route",
+  "routeAtTheDepot": "AT THE DEPOT",
+  "routeHandBackOne": "Hand back {count} package",
+  "@routeHandBackOne": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeHandBackMany": "Hand back {count} packages",
+  "@routeHandBackMany": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeHandBackDesc": "Give it to the depot team. They'll confirm it on their side too.",
+  "routeReturnedEndDay": "Returned · end my day",
+  "routeNeedHelp": "Need help?",
+  "routeDispatchAnswers": "{company} dispatch · usually answers in 2 min",
+  "@routeDispatchAnswers": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "routeCallDispatch": "Call dispatch",
+  "routeMessageDispatch": "Message dispatch",
+  "routeTakeBreak": "Take a break",
+  "routeVehicleProblem": "Vehicle problem",
+  "routeVehicleProblemSub": "Breakdown, flat tyre, accident",
+  "routeFeelUnsafe": "I feel unsafe",
+  "routeFeelUnsafeSub": "Calls 999 and alerts dispatch",
+  "routeClose": "Close",
+  "routeMoreOptions": "More options",
+  "routeTryAgainLater": "Try again later",
+  "routeTryAgainLaterSub": "Move this stop to the end of your route",
+  "routeDeliverDifferentStop": "Deliver a different stop next",
+  "routeDeliverDifferentStopSub": "Pick which stop to go to now",
+  "routeReportWrongLocation": "Report wrong location",
+  "routeReportWrongLocationSub": "The pin or address doesn't match",
+  "routeGetHelp": "Get help",
+  "routeGetHelpSub": "Call or message Red Sea Express",
+  "routeWhatChanged": "What changed",
+  "routeUpdatedYourRouteAt": "{company} updated your route at {time}.",
+  "@routeUpdatedYourRouteAt": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "routeChangeAdded": "Added · Sara Khalid",
+  "routeChangeAddedSub": "Quraish St, Al Salamah · now stop 3",
+  "routeChangeRemoved": "Removed · Yousef Nasser",
+  "routeChangeRemovedSub": "Cancelled by the customer",
+  "routeNowStops": "Route now 4 stops",
+  "routeAboutLonger": "About 6 min longer",
+  "routeGotIt": "Got it",
+  "routeNextStopOf": "NEXT STOP · {n} OF {total}",
+  "@routeNextStopOf": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "routeGateCode": "Gate code",
+  "routeTimeWindow": "Time window",
+  "routePackages": "Packages",
+  "routeCall": "Call",
+  "routeMessage": "Message",
+  "routeBackToMap": "Back to map",
+  "routeTodaysRoute": "Today's route",
+  "routeDoneOfTotal": "{done} of {total} done",
+  "@routeDoneOfTotal": {
+    "placeholders": {
+      "done": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "routeEnRouteEta": "En route · ETA {eta}",
+  "@routeEnRouteEta": {
+    "placeholders": {
+      "eta": {
+        "type": "String"
+      }
+    }
+  },
+  "routeEta": "ETA {eta}",
+  "@routeEta": {
+    "placeholders": {
+      "eta": {
+        "type": "String"
+      }
+    }
+  },
+  "routeBackToDirections": "Back to directions",
+  "routeEndRouteEarly": "End route early",
+  "routeWrongEntrance": "Entrance is somewhere else",
+  "routeWrongStreet": "Pin is on the wrong street",
+  "routeAddressMissing": "Address doesn't exist",
+  "routeWrongLocationFor": "WRONG LOCATION · {name}",
+  "@routeWrongLocationFor": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeWhatsWrongPin": "What's wrong with the pin?",
+  "routeSendToDispatch": "Send to dispatch",
+  "routeNavigateWith": "Navigate with",
+  "routePickDirections": "Pick how you want directions to {customer}.",
+  "@routePickDirections": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      }
+    }
+  },
+  "routeTurnByTurnInApp": "Turn-by-turn inside the app",
+  "routeOpensOneStop": "Opens one stop at a time",
+  "routeAlwaysUseApp": "Always use this app",
+  "routeComeBackToMark": "Come back to RouteX to mark each stop as delivered.",
+  "routeStartDirections": "Start directions",
+  "routeOnBreakCaps": "ON BREAK",
+  "routeOfMin": "of {mins} min",
+  "@routeOfMin": {
+    "placeholders": {
+      "mins": {
+        "type": "String"
+      }
+    }
+  },
+  "routeBreakStarted": "Started {time}. Dispatch can see you're on break and customer ETAs moved by {mins} min.",
+  "@routeBreakStarted": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      },
+      "mins": {
+        "type": "String"
+      }
+    }
+  },
+  "routeResumeRoute": "Resume route",
+  "routeAdd5Minutes": "Add 5 minutes",
+  "routeReasonNotAnswering": "Customer not answering",
+  "routeReasonWrongAddress": "Wrong address",
+  "routeReasonRefused": "Customer refused",
+  "routeReasonCantReach": "Can't reach location",
+  "routeWhatHappened": "What happened?",
+  "routeWillReviewOrder": "{customer} · {company} will review this order.",
+  "@routeWillReviewOrder": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      },
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "routeAddNoteOptional": "Add a note (optional)",
+  "routeSendToCompany": "Send to {company}",
+  "@routeSendToCompany": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "routeNextStopCaps": "NEXT STOP",
+  "routeStartingDirectionsIn": "Starting directions in {secs} s",
+  "@routeStartingDirectionsIn": {
+    "placeholders": {
+      "secs": {
+        "type": "String"
+      }
+    }
+  },
+  "routeGoToNextStop": "Go to next stop",
+  "routeNextSignature": "Next: signature",
+  "routeUsePhoto": "Use photo",
+  "routeRetake": "Retake",
+  "routeLooksGood": "Looks good?",
+  "routePhotoClearHint": "Make sure the package and door number are clear.",
+  "routePhotoThenSignature": "Photo, then a signature for this order",
+  "routeRequiredEveryDelivery": "Required for every delivery",
+  "routeStopNumberName": "Stop {n} · {name}",
+  "@routeStopNumberName": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeAllowCameraAccess": "Allow camera access to take the photo",
+  "routeCameraUnavailable": "Camera is not available",
+  "routeShowPackageAndDoor": "Show the package and the door number",
+  "routePhotoOfDelivery": "Photo of the delivery",
+  "routePhoto": "Photo",
+  "routeAskToSign": "Ask {name} to sign",
+  "@routeAskToSign": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeHandPhoneSign": "Hand them the phone. They sign with a finger.",
+  "routeHandPhoneType": "Hand them the phone. They type their full name.",
+  "routeDraw": "Draw",
+  "routeType": "Type",
+  "routeSignHere": "Sign here",
+  "routePreview": "Preview",
+  "routeClear": "Clear",
+  "routeSignedBy": "Signed by",
+  "routeFullName": "Full name",
+  "routeSomeoneElseCanSign": "Someone else can sign for them. Just change the name.",
+  "routePreviewUpdates": "The preview updates as they type. Someone else can sign for them with their own name.",
+  "routeDoneMarkDelivered": "Done · mark delivered",
+  "routeCantSign": "They can't sign",
+  "routeStopOfCustomer": "STOP {n} OF {total} · {name}",
+  "@routeStopOfCustomer": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeTryingToReach": "Trying to reach {name}",
+  "@routeTryingToReach": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeWaitBeforeMarking": "Wait a few more minutes before marking this stop. Red Sea Express asks for 2 calls and a 5-minute wait.",
+  "routeCalled": "Called",
+  "routeNoAnswerAt": "{time} · no answer",
+  "@routeNoAnswerAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "routeMessageSent": "Message sent",
+  "routeCallAgain": "Call again",
+  "routeMarkCouldntDeliver": "Mark as couldn't deliver",
+  "routeAvailableAfterWait": "Available after the 5-minute wait",
+  "routeLocationSharingStopped": "Location sharing stopped",
+  "routeWelcomeBack": "Welcome back",
+  "routeCantSeeYourRoute": "{company} can't see your route. Turn it back on to keep delivering.",
+  "@routeCantSeeYourRoute": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "routeYouWereNavigating": "You were navigating to {customer} in {app}.",
+  "@routeYouWereNavigating": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      },
+      "app": {
+        "type": "String"
+      }
+    }
+  },
+  "routeTurnOn": "Turn on",
+  "routeIveArrived": "I've arrived",
+  "routeResume": "Resume",
+  "routeStopNotMarked": "STOP {n} NOT MARKED",
+  "@routeStopNotMarked": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      }
+    }
+  },
+  "routeDidYouDeliverTo": "Did you deliver to {customer}?",
+  "@routeDidYouDeliverTo": {
+    "placeholders": {
+      "customer": {
+        "type": "String"
+      }
+    }
+  },
+  "routeLeftAddress": "You left his address {ago}. Marking it now keeps the customer updated.",
+  "@routeLeftAddress": {
+    "placeholders": {
+      "ago": {
+        "type": "String"
+      }
+    }
+  },
+  "routeYesDelivered": "Yes, delivered",
+  "routeCouldntDeliver": "Couldn't deliver",
+  "routeGoBack": "Go back",
+  "routeArrivedAt": "Arrived {time}",
+  "@routeArrivedAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "routeNote": "Note",
+  "routeMaps": "Maps",
+  "routeMore": "More",
+  "routeStopsCount": "{count} stops",
+  "@routeStopsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeCalculating": "Calculating",
+  "routeSlideToStart": "Slide to start route",
+  "routeGettingRouteReady": "Getting your route ready",
+  "routePlanningYourRoute": "Planning your route",
+  "routeFindingFastestOrder": "Finding the fastest order for your {count} stops.",
+  "@routeFindingFastestOrder": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeYourRouteIsReady": "Your route is ready",
+  "routeStopsOrderedHint": "Stops are ordered for the fastest drive. Times are estimates.",
+  "routeAppOptimizesArea": "The app optimizes stops in your 2 km area.",
+  "routeRouteComplete": "Route complete",
+  "routeAlmostDone": "You're almost done, {name}. One thing left.",
+  "@routeAlmostDone": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeAllDone": "You're all done, {name}. Great job!",
+  "@routeAllDone": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeOneThingLeft": "1 THING LEFT",
+  "routeReturnPackageToDepot": "Return {name}'s package to the depot",
+  "@routeReturnPackageToDepot": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "routeDepotAway": "{depot} · {distance} away",
+  "@routeDepotAway": {
+    "placeholders": {
+      "depot": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "routeDirectionsToDepot": "Directions to depot",
+  "routeDeliveredOfTotal": "{done} of {total} delivered",
+  "@routeDeliveredOfTotal": {
+    "placeholders": {
+      "done": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "routeCountDelivered": "{count} delivered",
+  "@routeCountDelivered": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeCountCouldntDeliver": "{count} couldn't deliver",
+  "@routeCountCouldntDeliver": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeKmUnit": "km",
+  "routeMinUnit": "min",
+  "routeDrivenToday": "Driven today",
+  "routeOnTheRoad": "On the road",
+  "routeStopsCaps": "STOPS",
+  "routeSentForReview": "{reason} · sent for review",
+  "@routeSentForReview": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "routeDone": "Done",
+  "routeSeeInHistory": "See in history",
+  "routeMinutesShort": "{n} min",
+  "@routeMinutesShort": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      }
+    }
+  },
+  "routeKmShort": "{n} km",
+  "@routeKmShort": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      }
+    }
+  },
+  "routeArrival": "arrival",
+  "routeThen": "Then",
+  "routeApprovedCaps": "APPROVED",
+  "routeYoureInWelcome": "You're in! Welcome to {fleet}",
+  "@routeYoureInWelcome": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeAccountActiveStartShift": "Your account is active. Start a shift to receive routes and see your stops on the map.",
+  "routeStartShift": "Start shift",
+  "routeCancelYourRequestTo": "Cancel your request to {fleet}?",
+  "@routeCancelYourRequestTo": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeCancelRequestBody": "They won't see your details anymore. You can send a new request any time.",
+  "routeCancelRequest": "Cancel request",
+  "routeKeepMyRequest": "Keep my request",
+  "routeRequestDeclinedCaps": "REQUEST DECLINED",
+  "routeFleetDeclinedYou": "{fleet} declined your request",
+  "@routeFleetDeclinedYou": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeReasonFromDispatcherCaps": "REASON FROM DISPATCHER",
+  "routeChooseAnotherFleet": "Choose another fleet",
+  "routeUpdateVehicleRetry": "Update vehicle & retry",
+  "routeOffShiftCaps": "OFF SHIFT",
+  "routeYoureOffShift": "You're off shift",
+  "routeOffShiftBody": "{fleet} • Al Hamra. Start a shift when you’re ready and routes will appear on the map.",
+  "@routeOffShiftBody": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routePendingReviewCaps": "PENDING REVIEW",
+  "routeRequestSentTo": "Request sent to {fleet}",
+  "@routeRequestSentTo": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeDispatcherReviewingNotify": "The dispatcher is reviewing your details. We’ll notify the moment you’re approved.",
+  "routeTimelineSent": "Sent",
+  "routeTimelineReviewing": "Reviewing",
+  "routeJoinAnotherFleet": "Join another fleet",
+  "routeOnShiftCaps": "ON SHIFT",
+  "routeWaitingFirstRoute": "Waiting for your first route",
+  "routeDispatchAssignsRoutes": "Dispatch assigns routes as orders come in. Keep the app open and you’ll hear an alert.",
+  "routeZeroStops": "0 stops",
+  "routeSoFarToday": "So far today",
+  "routeAlertsOn": "Alerts on",
+  "routeSoundAndVibrate": "Sound and vibrate",
+  "routeEndShift": "End shift",
+  "routeAskManagerNewCode": "Ask your manager for a new code",
+  "routeSendMessageToManager": "Send this message to whoever manages your fleet.",
+  "routeManagerMessage": "Hi, the RouteX fleet code {code} isn't working for me. Could you send me a new one? Thanks, Hamza",
+  "@routeManagerMessage": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "routeShareOnWhatsapp": "Share on WhatsApp",
+  "routeCopyMessage": "Copy message",
+  "routeCancel": "Cancel",
+  "routeFindYour": "Find your ",
+  "routeFleetWord": "fleet",
+  "routeSearchBrowseFleets": "Search by name or browse fleets operating near you. Join one to start receiving routes.",
+  "routeSearchFleetHint": "Search fleet name or zone",
+  "routeFilterNearby": "Nearby",
+  "routeFilterOpenToJoin": "Open to join",
+  "routeFilterAllFleets": "All fleets",
+  "routeRetry": "Retry",
+  "routeNoFleetsMatch": "No fleets match \"{query}\"",
+  "@routeNoFleetsMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "routeTryShorterName": "Try a shorter name or search by area. If your manager sent you a code, you can enter it below.",
+  "routeClearSearch": "Clear search",
+  "routeDriversCount": "{count} drivers",
+  "@routeDriversCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeActive": "Active",
+  "routeActiveCaps": "ACTIVE",
+  "routeGotInvite": "Got an invite from your fleet manager?",
+  "routeEnterFleetCode": "Enter fleet code",
+  "routeRequested": "Requested",
+  "routeJoin": "Join",
+  "routeJoinFleetQ": "Join {fleet}?",
+  "@routeJoinFleetQ": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeNearbyFleet": "Nearby fleet",
+  "routeStatus": "Status",
+  "routeCompany": "Company",
+  "routeNetwork": "Network",
+  "routeVerified": "Verified",
+  "routeDelivery": "Delivery",
+  "routeSharedWithFleet": "Shared with the fleet",
+  "routeName": "Name",
+  "routeDriver": "Driver",
+  "routeVehicle": "Vehicle",
+  "routeActiveVehicle": "Active vehicle",
+  "routeStoppedAccepting": "{fleet} stopped accepting drivers",
+  "@routeStoppedAccepting": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeSeeOtherFleets": "See other fleets",
+  "routeDispatcherReviewsBeforeRoutes": "The dispatcher reviews your details before you can take routes. You'll get a notification when they reply.",
+  "routeSendJoinRequest": "Send join request",
+  "routeReasonFromDispatcher": "Reason from the dispatcher",
+  "routeLookingForFleets": "Looking for fleets that accept your vehicle?",
+  "routeOtherFleetsMatch": "3 other fleets in Al Hamra match your vehicle type.",
+  "routeFindAnotherFleet": "Find another fleet",
+  "routeUpdateMyVehicle": "Update my vehicle",
+  "routeYoureInAt": "You’re in at ",
+  "routeApprovedAccountActive": "Your account is active. Start a shift whenever you're ready to take routes in Al Hamra.",
+  "routeRequestSent": "Request sent",
+  "routeApprovedByDispatcher": "Approved by the dispatcher",
+  "routeStartFirstShift": "Start your first shift",
+  "routeRoutesAppearOnMap": "Routes appear on your map",
+  "routeJoinMoreFleetsLater": "You can join more fleets later and choose which one to work for each time you start a shift.",
+  "routeIsReviewing": "{fleet} is reviewing your details. Most fleets reply within a\nday.",
+  "@routeIsReviewing": {
+    "placeholders": {
+      "fleet": {
+        "type": "String"
+      }
+    }
+  },
+  "routeDispatcherReviewsDetails": "Dispatcher reviews your details",
+  "routeUsuallyWithin24": "Usually within 24 hours",
+  "routeNotificationsOn": "Notifications are on. You can close the app while you wait.",
+  "routeBrowseOtherFleets": "Browse other fleets",
+  "routeHelp": "Help",
+  "routeEnterYour": "Enter your ",
+  "routeFleetCodeWord": "fleet\ncode",
+  "routeTypeSixCharCode": "Type the 6-character code your fleet manager sent you\nby SMS or email.",
+  "routeLettersNumbersHint": "Letters and numbers, not case-sensitive",
+  "routePaste": "Paste",
+  "routeWhereFindCode": "Where do I find my code?",
+  "routeManagerCreatesCode": "Your fleet manager creates it in the fleet dashboard. Ask them to send one. Codes expire after 10 days.",
+  "routeJoinFleet": "Join fleet",
+  "routeTryAgain": "Try again",
+  "routeAskManagerForNewCode": "Ask manager for a new code",
+  "routeLostYourCode": "Lost your code?",
+  "routeStillStuck": "Still stuck?",
+  "routeFindFleetInstead": "Find a fleet instead",
+  "routeLiveFleetNavigation": "Live Fleet Navigation",
+  "routeActiveRoute": "Active Route",
+  "routeRouteProgress": "Route Progress",
+  "routeProgressLeft": "{percent}% • {distance} Left",
+  "@routeProgressLeft": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      },
+      "distance": {
+        "type": "String"
+      }
+    }
+  },
+  "routeMapLayersStyle": "Map Layers & Style",
+  "routeMapStandard": "Standard (Normal)",
+  "routeMapStandardSub": "Standard vector map tiles",
+  "routeMapSatellite": "Satellite",
+  "routeMapSatelliteSub": "Real-world aerial imagery",
+  "routeMapTerrain": "Terrain",
+  "routeMapTerrainSub": "Topographic elevation map",
+  "routeShowTraffic": "Show Traffic Overlay",
+  "routeCheckPackages": "Check packages",
+  "routeLastStop": "LAST STOP",
+  "routeStopNofM": "STOP {n} OF {total}",
+  "@routeStopNofM": {
+    "placeholders": {
+      "n": {
+        "type": "String"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "routeSentToCompanyForReview": "Sent to Red Sea Express for review",
+  "routeDragMapPin": "Drag the map to put the pin on the door",
+  "routeMinutesAgo": "{count} minutes ago",
+  "@routeMinutesAgo": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routePackagesToHandBack": "{count} packages to hand back",
+  "@routePackagesToHandBack": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routePackageToHandBack": "{count} package to hand back",
+  "@routePackageToHandBack": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "routeNoFleetConnectionCaps": "NO FLEET CONNECTION",
+  "routeNotConnectedToFleet": "You’re not connected to a fleet yet",
+  "routeJoinFleetToReceive": "Join a fleet to receive routes, see your stops on the map, and start delivering.",
+  "routeFindAFleet": "Find a fleet",
+  "routeOneStopAdded": "1 stop added. Your next stop hasn't changed.",
+  "notificationMinutes": "{minutes} min",
+  "@notificationMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "notificationChannelOffers": "New orders",
+  "notificationChannelOffersDesc": "Orders a company offers you, with a short time to answer",
+  "notificationChannelRoute": "Route in progress",
+  "notificationChannelRouteDesc": "Your next stop while a route is running",
+  "notificationChannelUpdates": "Updates",
+  "notificationChannelUpdatesDesc": "Cancelled orders, route and vehicle changes, and messages from your company.",
+  "notificationsPageSystemOffTitle": "Notifications are off on this phone",
+  "notificationsPageSystemOffBody": "You won't get new orders or route updates until you allow them in your phone's settings.",
+  "notificationsPageSystemOffAction": "Open phone settings",
+  "routeOngoingNotificationTitle": "Stop {stop} of {total} · {customer}",
+  "@routeOngoingNotificationTitle": {
+    "placeholders": {
+      "stop": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "customer": {
+        "type": "String"
+      }
+    }
+  },
+  "routeOngoingNotificationBody": "{address} · {minutes} min · arrive {time}",
+  "@routeOngoingNotificationBody": {
+    "placeholders": {
+      "address": {
+        "type": "String"
+      },
+      "minutes": {
+        "type": "int"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "routeOngoingNotificationOpen": "Open",
+  "routeOngoingNotificationNavigate": "Navigate",
+  "joinApprovedTitle": "You’re in!",
+  "joinApprovedBody": "{company} approved you. New orders from them will show up on your Home screen.",
+  "@joinApprovedBody": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "joinApprovedYourVehicle": "Your vehicle",
+  "joinApprovedSetByCompany": "Set by your company",
+  "joinApprovedVehicleHelp": "Need a different vehicle? Contact {company} and they'll update it for you.",
+  "@joinApprovedVehicleHelp": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "joinApprovedYourCompany": "Your company",
+  "joinApprovedActive": "Active",
+  "joinApprovedGoHome": "Go to Home",
+  "joinDeclinedBadge": "Not approved",
+  "joinDeclinedTitle": "{company} didn't approve your request",
+  "@joinDeclinedTitle": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "joinDeclinedCodeUsed": "Code used",
+  "joinDeclinedSent": "Sent",
+  "joinDeclinedReviewed": "Reviewed",
+  "joinDeclinedWhatNow": "WHAT YOU CAN DO NOW",
+  "joinDeclinedCheckCodeTitle": "Double-check your code",
+  "joinDeclinedCheckCodeBody": "A typo or an old code is the usual reason.",
+  "joinDeclinedAnotherCompanyTitle": "Join another company",
+  "joinDeclinedAnotherCompanyBody": "Use the code from any company you drive for.",
+  "joinDeclinedAccountSavedTitle": "Your account is saved",
+  "joinDeclinedAccountSavedBody": "Your profile stays, nothing to fill in again.",
+  "joinDeclinedDifferentCode": "Join with a different code",
+  "referralLinkShared": "Referral link shared",
+  "preciseLocationRequiredTitle": "Precise Location Required",
+  "preciseLocationRequiredMessage": "RouteX requires precise location tracking for navigation, accurate ETA calculations, and route guidance. Please enable precise location to continue.",
+  "preciseLocationRequiredEnable": "Enable Precise Location",
+  "preciseLocationRequiredOpenSettings": "Open Settings",
+  "permLocationTitle": "Enable location access",
+  "permLocationBody": "Allow RouteX to use your precise location to provide accurate live tracking, show your exact position on the map, and guide you through your delivery routes",
+  "permLocationButton": "Allow location access",
+  "permNotificationsTitle": "Allow notifications",
+  "permNotificationsBody": "Allow notifications to receive important route updates, delivery assignments, shift changes, and alerts from your fleet.",
+  "permNotificationsButton": "Allow notifications access",
+  "permGalleryTitle": "Allow gallery access",
+  "permGalleryBody": "Allow gallery access to upload your profile picture and attach delivery photos when proof of delivery is required.",
+  "permGalleryButton": "Allow gallery access"
+}

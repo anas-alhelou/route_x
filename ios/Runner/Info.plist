@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>RouteX uses your photos to set your profile picture and attach screenshots to problem reports.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>RouteX uses the camera to take your profile picture.</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Routex Mobile</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>routex_mobile</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>RouteX uses the camera to take the proof-of-delivery photo.</string>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<!-- Google Sign-in Section (google_sign_in 7.x)
+	     Placeholders, not real IDs. Sign-in fails with a
+	     clientConfigurationError until they are replaced.
+
+	     GIDClientID: the iOS client ID
+	     ("<REVERSED_CLIENT_ID>.apps.googleusercontent.com") from the iOS OAuth
+	     client in the same Google Cloud project as the app.
+	     GIDServerClientID: the Web client ID, i.e. the same value passed to
+	     Dart through the GOOGLE_SERVER_CLIENT_ID dart-define. It is optional
+	     because the app already passes serverClientId to GoogleSignIn, but
+	     keeping it here makes the two impossible to confuse.
+	-->
+	<!-- TODO(setup): GIDClientID = the iOS client ID from the iOS OAuth client
+	     in the same Google Cloud project as the app. -->
+	<key>GIDClientID</key>
+	<string>TODO_REPLACE_WITH_IOS_CLIENT_ID</string>
+	<!-- TODO(setup): GIDServerClientID = the Web client ID, i.e. the same value
+	     passed to Dart through the GOOGLE_SERVER_CLIENT_ID dart-define. It is
+	     optional because the app already passes serverClientId to GoogleSignIn,
+	     but keeping it here makes the two impossible to confuse. -->
+	<key>GIDServerClientID</key>
+	<string>TODO_REPLACE_WITH_SERVER_CLIENT_ID</string>
+	<!-- End of the Google Sign-in Section -->
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<!-- TODO(setup): the REVERSED client ID (the digits first, then
+				     ".apps.googleusercontent.com"), which is what
+				     GoogleService-Info.plist calls REVERSED_CLIENT_ID. -->
+				<string>TODO_REPLACE_WITH_REVERSED_CLIENT_ID</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

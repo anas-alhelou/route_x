@@ -1,0 +1,10 @@
+# Config for `flutter gen-l10n`.
+#
+# ARB files live in core/l10n (a deliberate, non-standard location shared by
+# all features). Keeping the config here makes regeneration deterministic:
+#   flutter gen-l10n
+# The generated AppLocalizations classes are committed to the same directory.
+arb-dir: lib/core/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+output-dir: lib/core/l10n
